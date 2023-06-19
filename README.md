@@ -1,5 +1,7 @@
 # Testing chromadb + claude
 
+Please use either the native terminal/command line to run the commands.
+
 To use this tool you must set up the following environment and install the required dependencies. Navigate to where you would like to clone the repostiory and input the following commands:
 ```
 git clone https://github.com/ehill-iolani/chromadb-claude.git
@@ -20,6 +22,8 @@ Now that the environment is activate you can now install the required dependenci
 ```
 pip install -r requirements.txt
 ```
+
+Open the .env file and add you Anthropic and OpenAI keys.
 
 Once you have all of the dependencies installed you can first convert the .pdfs of interest into plain text by running `pdf2txt.py`
 ```
