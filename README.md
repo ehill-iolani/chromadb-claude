@@ -16,7 +16,7 @@ Once you have all of the dependencies installed you can first convert the .pdfs 
 python pdf2txt.py
 ```
 
-Once the pdfs have been converted to text, you can now run the `main.py` script to initiate the chat with the Claude, the Anthropic AI.
+Once the pdfs have been converted to text, you can now run the `main.py` script to initiate the chat with Claude, the Anthropic AI.
 ```
 python main.py
 ```
