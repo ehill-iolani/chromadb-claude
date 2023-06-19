@@ -1,0 +1,1427 @@
+Molecular Phylogenetics and Evolution 177 (2022) 107618
+Available online 27 August 2022
+1055-7903/© 2022 Elsevier Inc. All rights reserved.Resolving the deep phylogeny: Implications for early adaptive radiation, 
+cryptic, and present-day ecological diversity of Papuan microhylid frogs 
+Ethan C. Hilla,*, Claire J. Frasera, Diana F. Gaob, Mary J. Jarmana, Elizabeth R. Henrya, 
+Bulisa Iovac, Allen Allisona,d, Marguerite A. Butlera 
+aSchool of Life Sciences, University of Hawaií, Honolulu 96822, HI, USA 
+bUniversity of San Francisco, San Francisco 94117, CA, USA 
+cNational Museum and Art Gallery, P. O. Box 5560 Boroko, National Capital District, Papua New Guinea 
+dBernice P. Bishop Museum, Honolulu 96817, HI, USA   
+ARTICLE INFO  
+Keywords: 
+Community assembly 
+Phylogenetics 
+Diversification 
+Adaptive radiation 
+Anura 
+Microhylidae 
+Asterophryinae 
+Cryptic species ABSTRACT  
+The microhylid frogs of the New Guinea region are the largest and most ecologically diverse subfamily (Aster -
+ophryinae) of one of the largest anuran families in the world and can live in communities of up to 20 species. 
+While there has been recent progress in resolving the phylogenetic relationships of Asterophryinae, significant 
+uncertainties remain, impeding further progress in understanding the evolution of microhabitat use, parental 
+care, and life history variation in this group. In particular, the early divergences at the base of the tree remain 
+unclear; as does the monophyly of some genera; and recent studies have discovered that species with wide 
+geographic distribution are instead cryptic species complexes. In this study, we fortified geographic sampling of 
+the largest previous phylogenetic effort by sequencing an additional 62 taxa and increased data quality and 
+quantity by adding new layers of data vetting and by filling in previously incomplete loci to the five gene dataset 
+(2 mitochondrial, 3 nuclear protein-coding genes) to obtain a dataset that is now 99% complete in over 2400 
+characters for 233 samples (205 taxa) of Asterophryinae and 3 outgroup taxa, and analyzed microhabitat use 
+data for these taxa from field data and data collected from the literature. Importantly, our sampling includes 
+complete community complements at 19 sites as well as representatives at over 80 sites across New Guinea and 
+its offshore islands. We present a highly resolved molecular phylogeny which, for the first time, has over 95% of 
+nodes supported (84% highly supported) whether using Maximum Likelihood or Bayesian Inference, allowing 
+clarification of all genera (whether monophyletic or clearly not), their sister genera relationships, as well as an 
+age estimate for the Asterophryinae at approximately 20MYA. Early generic diversification occurring between 17 
+and 12 MYA gave rise to a surprising diversity of about 18 genera as well as the 5 putative microhabitat types. 
+Our tree reveals extensive cryptic diversity calling any widespread taxa into doubt, and clearly demonstrates that 
+complex multispecies communities of Asterophryinae are ecologically diverse, are numerous, and of ancient 
+origin across New Guinea. We discuss the implications of our phylogeny for explaining the explosive diversifi -
+cation of Asterophryinae as the result of adaptive radiation, niche conservatism, and non-adaptive radiation.   
+1.Introduction 
+A robust phylogenetic hypothesis is central to the study of biodi -
+versity (Hunt et al., 2007; Vieites et al., 2009; Jetz et al., 2012; Feng 
+et al., 2017 ). Simpson (1953) viewed adaptive radiation as special pe-
+riods in evolutionary history when lineages shift into new adaptive 
+zones that promotes phenotypic change and lineage diversification, an idea that we can now address with modern phylogenetic approaches 
+(eg., Schluter, 2000; Grant and Grant, 2008; Gillespie et al., 2020 ). 
+Nearly all modern investigations of evolutionary processes rely on 
+phylogenies with clear timings and orders of branching events to inform 
+evolutionary models, such as when exploring the geospatial history of 
+clades (Ree et al., 2005; Van Dam and Matzke, 2016 ), community as-
+sembly (Webb et al., 2002; Emerson and Gillespie, 2008 ), or rates of 
+*Corresponding author. 
+E-mail addresses: hille7@hawaii.edu (E.C. Hill), claire7@hawaii.edu (C.J. Fraser), elizabeth.henry@pcc.edu (E.R. Henry), allison@hawaii.edu (A. Allison), 
+mbutler@hawaii.edu (M.A. Butler).  
+URL: http://butlerlab.org (M.A. Butler).  
+Contents lists available at ScienceDirect 
+Molecular Phylogenetics and Evolution 
+u{�~zkw! s{yo|kro>! ÐÐÐ1ow�o�t o~1m{y2w{m k�o2Þy|o�!
+https://doi.org/10.1016/j.ympev.2022.107618 
+Received 14 December 2021; Received in revised form 29 July 2022; Accepted 17 August 2022   Molecular Phylogenetics and Evolution 177 (2022) 107618
+2diversification (Ricklefs, 2007; Alfaro et al., 2009 ), among other pro-
+cesses. At the same time, clades with the greatest diversity provide the 
+greatest phylogenetic challenges, with their large numbers of taxa and 
+short branch lengths during periods of rapid diversification, often pre-
+cisely where the evolutionary process is most interesting. One such 
+example is the hyperdiverse Asterophryinae frogs, which has been the 
+subject of phylogenetic revision and re-revision for decades (Savage, 
+1973; van Bocxlaer et al., 2006; Frost et al., 2006; Kohler and Günther, 
+2008; van der Meijden et al., 2007; Rivera et al., 2017; Tu et al., 2018; 
+Dubois et al., 2021 ). 
+The Asterophryinae subfamily of microhylid frogs is exceptionally 
+diverse, with over 340 species and counting (AmphibiaWeb, 2020 ), 
+representing over half of the world ’s diversity of the family Micro -
+hyildae on a comparatively tiny fraction of the earth ’s surface. Centered 
+in the Papuan region, they are the dominant anuran fauna of New 
+Guinea and its surrounding islands (including the D’Entrecasteaux 
+islands, other small satellite islands, and the Bismarck and Louisiade 
+Archipelagos) and also extending into Malaysia, the Philippines, along 
+the northeastern coast of Australia, and recently described from 
+Thailand and Vietnam. Asterophryinae are exceptionally diverse in 
+ecology with arboreal, scansorial, terrestrial, fossorial, and semi-aquatic 
+lifestyles evolving multiple times within the clade (Zweifel and Tyler, 
+1983; Kohler and Günther, 2008; Rivera et al., 2017 ) and can exist in 
+complex communities of up to 20 species per site (Bickford, 2002 ), 
+features that are common to adaptive radiations. However, given the 
+turbulent geological history of the Papuan region, with landmasses 
+variously colliding and creating mountain ranges, being pulled apart 
+into islands, or eroded, there exist ample opportunities for allopatric 
+speciation for the astounding accumulation of biodiversity. Further 
+progress on the explanation of biodiversity, however, has been 
+hampered by the lack of a robust phylogeny. 
+While the subfamily Asterophryinae is clearly monophyletic, it has 
+long been recognized that the systematic treatment of its genera is 
+challenging (Savage, 1973; van Bocxlaer et al., 2006; Frost et al., 2006; 
+Kohler and Günther, 2008; van der Meijden et al., 2007; Rivera et al., 
+2017; Tu et al., 2018; Dubois et al., 2021 ). Part of the reason is the lack 
+of phylogenetically informative morphological characters. Some of the 
+features used in the original phylogenetic treatments were later 
+discovered to be homoplastic, such as digital disk development (i.e., toe 
+pad size) and toe and tibiofibula length (Boulenger, 1890; Zweifel, 
+1972 ), all characters associated with lifestyle; or have involved multiple 
+independent loss or reduction as in the clavicles, procoracoids, and the 
+pectoral girdle (Duellman and Trueb, 1985; Burton, 1986; Burton, 
+1990 ). In addition, traits associated with the skull are highly variable, 
+such as the maxillary bones, dentaries, nasal development, vomer 
+expansion, and vomer spikes (Parker, 1934; Zweifel, 1972 ), rendering 
+their inclusion of limited phylogenetic value. 
+Recent molecular phylogenies for Asterophryinae have begun to 
+clarify generic relationships with inclusion of additional taxa and mo-
+lecular markers (Kohler and Günther, 2008; van der Meijden et al., 
+2007; de Sa et al., 2012; Peloso et al., 2016; Rivera et al., 2017; Tu et al., 
+2018 ). There is now strong evidence for the sister clade relationship of 
+Mantophryne and Hylophorbus , with Callulops sister to both genera 
+(Rittmeyer et al., 2012; Oliver et al., 2013; Peloso et al., 2016; Rivera 
+et al., 2017 ). Xenorhina has strong support as the sister clade to Callulops 
+Mantophryne Hylophorbus (Rivera et al., 2017 ). There is strong ev-
+idence for the synonymization of Albericus and Choerophryne (Peloso 
+et al., 2016; Rivera et al., 2017 ). While earlier studies suggested that 
+Cophixalus was not monophyletic (Kohler and Günther, 2008; Pyron and 
+Wiens, 2011; Rittmeyer et al., 2012 ), the monophyly of Cophixalus was 
+later confirmed with the genus arising early in the history of the sub-
+family (Peloso et al., 2016; Rivera et al., 2017 ). 
+Despite tremendous progress, intergeneric relationships along the 
+backbone of the Asterophryinae phylogeny remains largely unresolved. 
+Importantly, this means that the placement of most genera within the 
+larger phylogeny is uncertain, and their order of diversification is not known. Furthermore, the monophyly of several genera remains unre-
+solved. The most enigmatic clade is the geographically widespread 
+genus Oreophryne , ranging across New Guinea and its satellite islands 
+and portions of Southeast Asia. While Kohler and Günther (2008) found 
+Oreophryne to be monophyletic, the addition of species has since 
+complicated the taxonomy, with various workers suggesting the exis-
+tence of two or three clades (with the inclusion of Aphantophryne and 
+possibly Paedophryne ; Rivera et al., 2017; Tu et al., 2018 ), and 
+disagreement on whether one of the Oreophryne clades is the most basal 
+clade of Asterophryinae. Additional questions remain for Austro -
+chaperina, Copiula, Liophryne and Genyophryne . 
+Another issue potentially contributing to systematic challenges is 
+cryptic diversity – defined as two or more morphologically similar 
+species that are mistakenly classified under a single species (Bickford 
+et al., 2007; Funk et al., 2012 ). At the most basic level, without the 
+proper recognition of cryptic species, biodiversity is substantially 
+underestimated (e.g., Hebert et al., 2004; Bickford et al., 2007; Lahaye 
+et al., 2008; Vieites et al., 2009 ), leading to an incomplete understanding 
+of diversity in all aspects of the group – including life history, evolu -
+tionary history, biogeography, and genetic diversity. While many 
+studies focus on coalescent-based approaches at the interface of popu -
+lation genetics and phylogenetics to delineate relatively recent cases of 
+cryptic speciation (Heled and Drummond, 2010; Liu et al., 2010; Chif-
+man and Kubatko, 2014 ), even for studies involving deep evolutionary 
+divergences, the existence of unrecognized candidate species is 
+increasingly recognized as a common occurrence that cannot be ignored 
+(Fouquet et al., 2007; Rovito et al., 2013a ). In systematic studies, un-
+recognized cryptic diversity can lead to undersampling of lineages, 
+potentially missing taxa that could break up long branches if they were 
+recognized as distinct species (Felsenstein, 2004 ). Frogs have long been 
+recognized as a key target for cryptic species investigations (Bickford 
+et al., 2007; Funk et al., 2012 ), and cryptic diversity is increasingly 
+recognized in Asterophryinae (Oliver et al., 2013; Oliver et al., 2017 ). In 
+addition, many New Guinean microhylid species remain unnamed, 
+further complicating the assessment of the biodiversity within commu -
+nities and the subfamily at large as well as difficulty in elucidating its 
+organization. 
+To facilitate meaningful evolutionary studies of Asterophryinae, we 
+revisit the phylogeny, importantly expanding geographic and species 
+sampling to 233 samples comprising 205 taxa, including several from 
+the Philippines and Western Indonesia. We evaluate the monophyly of 
+all currently recognized genera, as well as resolving their timing and 
+order of branching. We begin with the assumption that cryptic diversity 
+is present and include multiple sites for nominal species, and evaluate 
+the spatial scale over which candidate species in our phylogeny vary. 
+Using our phylogeny, we analyze the evolution of microhabitat use as 
+well as characterize complex microhylid communities. We discuss 
+whether ecological variation evolves early in the history of Astero -
+phryinae with subsequent community assembly, or whether it arises by 
+the colonization of a new area with subsequent diversification. And 
+finally, we consider whether our notions of lineage diversification have 
+influenced our taxonomy. 
+2.Materials and methods 
+2.1. Taxon sampling and data collection 
+This study includes 233 samples of Asterophryinae containing 205 
+taxa (including 122 named and an additional 83 putative taxa) repre -
+senting all known genera. The phylogeny was rooted using three out-
+group taxa include the hypothesized sister taxon and more distantly 
+related lineages – Dyscophus antongilii , Scaphiophryne marmorata , and 
+Platypelis grandis (van der Meijden et al., 2007; Tu et al., 2018 ). The 
+Asterophryinae samples span over 80 sites across New Guinea (Fig. 1; 
+see Table 1 in Hill et al., submitted for publication ), the Philippines, and 
+Indonesia. A previous study included 157 Asterophryinae samples E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+3Rivera et al. (2017) , the current study expands this dataset by 74 sam-
+ples. Forty-seven taxa were obtained from new field collections which 
+targeted multi-species communities at six sites across Papua New 
+Guinea: five mainland multi-species community sites (Kamiali [site 30], 
+Morobe Province; Gerebu [site 39], Central Province; and Rondon Ridge 
+[site 20], Western Highlands Province), one mainland site with a single 
+species (Baiyer River [site 19], Western Highlands Province), and two 
+satellite island multi-species community sites (Mwatebu [site 66] and 
+Buyetai [site 64], on Normanby Island, Milne Bay Province). 
+Field workers collected frogs after sunset, slowly walking through 
+the habitat listening for frog calls, and capturing frogs by hand. Animals 
+were euthanized using MS-222 following UH IACUC protocol 12–1458 
+to M. Butler with liver samples stored in 70% EtOH and specimens 
+preserved for morphological study and deposited at the Bishop Museum 
+or University or Michigan Museum of Zoology. Previously reported 
+samples Rivera et al. (2017) were obtained via tissue loan from the 
+Bishop Museum, Honolulu, Hawaii (BPBM), Museum of Vertebrate 
+Zoology at Berkeley (UMZ), University of Michigan Museum of Zoology 
+(UMMZ), Zoologisches Museum Berlin (ZMB), and University of Kansas 
+Biodiversity Institute and Natural History Museum (KU). Specimen 
+accession numbers and metadata are reported in Table 1 of Hill et al. 
+(submitted for publication) . Total DNA was extracted from liver samples stored in 70% ethanol 
+using the Qiagen DNeasy extraction kit following manufacturer ’s pro-
+tocols. Five rare samples were repaired using the NEB “preCR Repair 
+Mix” following manufacturer ’s protocols prior to PCR amplification. 
+These included samples which may have been formalin fixed (Aphan -
+tophryne pansa.1 BPBM5299 and Aphantophryne pansa.2 BPBM8312) or 
+slightly degraded during shipment from the field (Rondon Ridge: 
+Asterophrys sp. AA24862 & Callulops wilhelmanus.sp.1 AA24828; Baiyer 
+River: Hylophorbus rufescens.sp.2 AA24930). 
+The five locus dataset (⊃2500 bp) contains three nuclear (Seventh in 
+Absentia (SIA), Brain Derived Neurotrophic Factor (BDNF), Sodium 
+Calcium Exchange subunit-1 (NXC-1)), and two mitochondrial loci 
+(Cytochrome oxidase b (CYTB), and NADH dehydrogenase subunit 4 
+(ND4)), selected in a previous study (Rivera et al., 2017 ) to span a range 
+of evolutionary rates sufficient to infer a phylogeny with time depth of 
+approximately 25MY. We redesigned all primers for improved perfor -
+mance (see Table 2 in Hill et al., submitted for publication ) based on 
+Asterophryinae sequences downloaded from GenBank (Sayers et al., 
+2022 ) including whole mitochondrial genomes Tu et al. (2018) as well 
+as our previous sequencing efforts. Primers for the nuclear loci were 
+designed using NCBI Primer-BLAST software (Ye et al., 2012 ), and for 
+the mitochondrial loci degenerate primers were designed against the 
+Fig. 1.Sampling sites across PNG and its satellite islands. The island of New Guinea has a composite history formed by the amalgamation of multiple geologic 
+terranes. The major geologic terranes of New Guinea are labeled following Davies (2012) : the Eastern Papuan Composite Terrane, the Accreted Terrane, the Fold Belt, 
+the Australian Craton, and the Vogelkop Peninsula. Insets magnify areas with tight clusters of sites to show more detail. Site numbers with the names of their 
+respective localities are as follows: sites 8–10 Torricelli Mountains, 11–13 Mt. Itukua, 28–32 Bowutu Mountains, 36–39 Mt. Vorivori and Mt. Gerebu, 40–43 Mt. 
+Obree, 45–47 Mt. Victory and Mt. Trafalgar, 48–52 Mt. Dayman and Mt. Suckling, 55–59 Owen Stanley Mountains, 62–66 Normanby Island, 70–73 Sudest Island. Site 
+names, GPS coordinates, and metadata are provided in Table 1 in Hill et al. (submitted for publication) . E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+4multispecies alignment using HYDEN (Linhart and Shamir, 2002 ) using 
+default settings. Standard PCR protocols (initial denaturation 1.5 m at 
+94•followed by 30 cycles of 94•for 30s, annealing temperatures for 30s 
+and extension at 72•for 60s) were used with GoTaq Green Master Mix 
+(Promega) protocols (0.4uM-0.8uM of each primer with ⊃5 ng of 
+genomic DNA per 25uL reaction). Touchdown PCR and/or nested PCR 
+was used to improve amplification for difficult targets. For touchdown 
+PCR, annealing temperature generally started at at 5•above Tm (see 
+Table 2 in Hill et al., submitted for publication ) and decreased by 1•per 
+cycle for the first 10 cycles, followed by 25 cycles at the lowest annealing 
+temperature. Some combinations of NXC-1 and ND4 primers required 
+the touchdown window of 55–45•. A 15 degree touchdown window was 
+used for CytB, as necessary, to improve yield likely due to the de-
+generacy or the greater Tm disparity between forward and reverse 
+primers. The PCR product was cleaned using NEB Monarch spin columns 
+(PCR DNA cleanup kit protocol). Sanger sequencing followed standard 
+protocols using Applied Biosystems BigDye terminator chemistry on an 
+ABI 3730XL sequencer at the University of Hawaii at Manoa ’s Advanced 
+Studies of Genomics, Proteomics and Bioinformatics facility (https:// 
+www.hawaii.edu/microbiology/asgpb/). 
+High-quality sequence data were filtered using multiple quality 
+checks: quality scores (F40%), BLAST confirmation of loci, curation by 
+pairwise alignment between taxa for each locus, and scrutinizing any 
+distances that did not align with initial assignments to genera. 
+Furthermore, we examined the placement of taxa in phylogenetic trees, 
+by locus and other subsets of the data with the aim of identifying for 
+further scrutiny any samples that were far from their putative relatives. 
+Any suspect data were confirmed by resequencing with new PCR 
+primers and increased PCR stringency as appropriate. In all, 250 se-
+quences were resequenced, about one-fifth of the dataset, significantly 
+reducing the number of odd phylogenetic placements. All sequences 
+were deposited in GenBank with accession numbers MZ634561 - 
+MZ635501 and MZ647717 - MZ647945 (see Table 1 in Hill et al., sub-
+mitted for publication ). 
+2.2. Phylogenetic analyses 
+The five coding genes were aligned using the MUSCLE algorithm 
+(Edgar, 2004 ) in Mesquite (Maddison and Maddison, 2019 ) after amino 
+acid translation using TranslatorX (Abascal et al., 2010 ). Amino acid 
+positions 14 – 21 of the ND4 sequence produced an ambiguous align -
+ment and were removed before back-translation to nucleic acids for 
+phylogenetic analysis. PartitionFinder2 (Lanfear et al., 2016 ) was used 
+to simultaneously fit evolutionary models and data partitions by locus 
+and codon. The best model was a 13 partition model identified by AIC 
+score (Akaike Information Criterion; Akaike, 1974 ), (see Table 3 in Hill 
+et al., submitted for publication ). Time-calibrated trees were recon -
+structed using the timing of six geological events separating sister taxa: 
+five from Rivera et al. (2017) with the addition of 25±10 MY for the 
+docking of the EPCT dating the genus Paedophryne . The maximum 
+likelihood (ML) tree was estimated using IQTREE (Nguyen et al., 2014 ). 
+Nodal support was assessed using 2000 bootstrap replicates. The 
+Bayesian inference (BI) tree was estimated using BEAST2 (Bouckaert 
+et al., 2014 ). Two independent Monte Carlo (MCMC) runs were per-
+formed for 100,000,000 generations and sampled every 10,000 gener -
+ations. The phylogeny was co-estimated with associate divergence times 
+using log-normal priors for the geological calibration points. Chain 
+stationarity was assessed using Tracer v1.7.1 (Rambaut et al., 2018 ). 
+The runs were combined using LogCombiner with a burn-in of 30% and 
+the consensus tree was generated using TreeAnnotator (Drummond and 
+Rambaut, 2007 ). Nodes were recognized as highly supported if BS 
+support values ranged between ⩾90 and PP ⩾0.90. Moderately sup-
+ported nodes possessed BS support of 80 ⩽x D90 and PP.8 ⩽x D.9. 
+Weakly supported nodes had BS support of 70 ⩽x D80 and PP.7 ⩽x D.8. 
+Nodes below D.70 PP and D70 BS support were considered 
+unsupported. Cryptic diversity is increasingly recognized across anurans (Vieites 
+et al., 2009; Padial et al., 2010 ) and known from this subfamily of frogs 
+(Oliver et al., 2013 ). While the present study was designed as a phylo -
+genetic analysis across the subfamily, we nevertheless checked for the 
+possibility that samples in fact represent multiple distinct lineages. 
+Oliver et al. (2013) tested a range of cutoffs and found that 3% mito-
+chondrial divergence was effective in delineating distinct evolutionary 
+lineages in the genus Mantophryne . This study used different mito-
+chondrial markers, therefore we examined species pairs falling below 
+cutoffs of 5%, 4%, 3%, 2%, and 1% mitochondrial divergence for cor-
+respondence with their phylogenetic (combined nuclear and mito-
+chondrial) divergences. We used genetic divergence criteria to designate 
+candidate species, but additional work is necessary to confirm these 
+hypotheses. 
+We pruned the phylogeny down to single representatives of each 
+species at each site, resulting in a phylogeny with 218 taxa using the R 
+package k|o!(Paradis et al., 2004 ), and used this tree in downstream 
+analyses. 
+2.3. Community analysis 
+Because Asterophryinae have received little ecological study, we 
+took an empirical approach to defining “communities ”. Over decades of 
+research, field workers have set up camps at various distances to sample 
+biodiversity (based on fieldwork described here and from previous ex-
+peditions and recorded in the BPBM database). We analyzed the spatial 
+clustering of collection sites and calculated the pairwise distance be-
+tween each recorded GPS coordinate using the R package ro{nt��!
+(Padgham and Sumner, 2021 ), and found that a cutoff of ⊃1 km was 
+sufficient to separate all collection sites used by field workers. Our 
+working definition of communities are therefore the collection of 
+candidate species that live in those sites, and we compared the phylo -
+genetic resolution between species within sites vs. between sites. We 
+assessed the diversity of lifestyles contained in eighteen multispecies 
+communities for which we have reasonably complete species sampling 
+based on our own fieldwork or that of our close colleagues (see Table 1 
+in Hill et al., submitted for publication ). 
+2.4. Evolution of lifestyle 
+For each species included in our phylogeny, we collected habitat use 
+information. Five anuran lifestyle descriptors are recognized for Aster -
+ophryinae based on the perch type noted during collection and their 
+behavior (Zweifel and Tyler, 1983; Kohler and Günther, 2008 ): arboreal 
+(found on tree trunks or tree canopy, F2 m above the ground), scansorial 
+(shrubs 2 m above the ground), terrestrial (ground, on the forest floor or 
+leaf litter), fossorial underground (underground in holes or burrows), 
+and semi-aquatic (stream, associated with streams and will swim for 
+escape). We assigned species to a lifestyle based on microhabitat type 
+collected from our own fieldwork or from published work including field 
+guides, species descriptions, and museum databases (Menzies, 2006 , see 
+citations listed in Table 1 in Hill et al., submitted for publication ). 
+We reconstructed maximum likelihood ancestral states for lifestyle 
+using the R package rotro~! (Pennell et al., 2014 ). ML models for the 
+evolution of lifestyle along the phylogeny were fit assuming that rates of 
+evolutionary transition are equal (equal rates), different for each pair-
+wise comparison (all rates different), and different but symmetric (i.e., 
+the probability of arboreal to terrestrial transition the probability of 
+terrestrial to arboreal; symmetric). The best fit model was identified 
+using AICc (Akaike Information Criterion; Akaike, 1974 ) and used to 
+generate 2000 stochastic mappings onto the phylogeny using SIMMAP 
+(Bollback, 2006 ) in the R package |sÞ�{{w�! (Revell, 2012 ). A majority 
+of nodes (excepting 10) were reconstructed with F70% support for a 
+single lifestyle. The branches descending from these nodes were painted 
+by this lifestyle. Where there is some support at the nodes for other al-
+ternatives (the dominant state was D70%), pie charts indicate E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+5proportional support. For the purpose of counting transitions, we 
+assigned states to the 10 nodes that fell below the 70% threshold using 
+majority rule (F50% support). 
+2.5. Rate through time analysis 
+We investigated the tempo of lineage diversification using a lineage- 
+through-time (LTT) analysis (Nee et al., 1992 ) from the |sÞ�{{w�!
+package (Revell, 2012 ). The γ-statistic describes the mean diversifica -
+tion rate (Pybus and Harvey, 2000 ). A parameter value of zero repre -
+sents a constant rate of diversification through time, while significant 
+negative values (γ D0) indicate early diversification, and positive values 
+(γ F0) indicate late diversification. 
+Unless otherwise stated, all analyses were conducted in the R sta-
+tistical computing environment (R Core Team, 2022 ). Phylogenetic plots 
+were created using the R packages rr�~oo.! {�ms.!�~oot{ , and 
+nÞ|wÞ~! (King and Butler, 2009; Wang et al., 2019; Yu, 2020; Wickham 
+et al., 2021 ), and with a custom script based on modifications of {�ms . 
+3.Results 
+We assembled a 233 sample dataset (205 taxa) using three nuclear 
+and two mitochondrial genes (GenBank accession numbers listed in 
+Table 1 in Hill et al. (submitted for publication) . With the new primers, 
+174 loci were added which were missing from Rivera et al. (2017) , as 
+well as the addition of 74 samples. The matrix contains 2474 nt and is 
+99% complete at the five loci, missing only 1 SIA, 2 BDNF, 5 CYTB and 7 
+ND4 sequences. 
+3.1. Increase in phylogenic support 
+We obtained a consensus topology that was highly supported, 
+whether reconstructed using Bayesian time-calibrated or Maximum 
+Likelihood methods (Fig. 2). This phylogeny received substantially more 
+highly supported nodes than previous studies (Rivera et al., 2017 ). Of 
+the 236 nodes present in the tree, 84% of the nodes were highly sup-
+ported with BS support values ⩾90 and PP ⩾0.90 (see full tree presented 
+in Figure 1 of Hill et al., submitted for publication ); the phylogeny 
+pruned to 218 species – one species per site is presented in Fig. 2). Five 
+percent of the nodes were moderately supported (80 ⩽x D90 and PP.8 
+⩽x D.9), and 6% were weakly supported (70 ⩽x D80 and PP.7 ⩽x D.8). 
+Only 5% of the nodes are unsupported with BS support D70 and PP 
+support D0.7. Along the backbone, nearly all of the nodes show some 
+degree of support, with about half strongly supported (4 strong, 4 weak, 
+2 unsupported). The weakly supported nodes occur in regions with 
+increased rates of genera diversification. We also note there were two 
+places in the tree with minor topological differences between the ML and 
+BI phylogenies consisting of swapping the order of adjacent nodes with 
+short branches (within Hylophorbus and Xenorhina ). These do not have 
+any impact on the intergeneric relationships established within the 
+phylogeny. 
+3.2. Timing and rate of clade evolution 
+Both ML and BI time-calibrated reconstructions estimate the age of 
+Asterophryinae at ⊃20MY old (Fig. 2), roughly 5MY younger than the 
+estimate by Rivera et al. (2017) . The genera have deep histories, origi-
+nating early in the history of the clade, between 20 – 12 MYA (Fig. 3). 
+We do see an early burst of diversification with many short branches 
+near the base of the tree (Fig. 2), coincident with generic diversification 
+and microhabitat use transitions, consistent with the pattern expected 
+for an adaptive radiation. Early diversification is also supported by the 
+shape of the lineage through time plot and the large and negative γ 
+statistic (γ  5.174, P-value 2.29 ×10 7, Fig. 3). The more recent 
+era between 10 MYA and the present was another time of substantial 
+species accumulation with most genera diversifying extensively. 3.3. Cryptic species and sites 
+Gene flow appears to be low, with nearly all samples phylogeneti -
+cally distinct. Where we had multiple samples of nominal species from 
+the same site, in each case these individuals were resolved as phyloge -
+netically distinct with significant nodal support and short, significant 
+branch lengths separating tips. Oliver et al. (2013) reported that 3% 
+mitochondrial distance was effective in delineating species. In our 
+pairwise analysis of mitochondrial divergence, samples separated by 
+3–4% mitochondrial divergence shared a common ancestor 0.9–1.4 MY 
+ago by combined nuclear and mitochondrial phylogenetic distance. Five 
+pairs of samples separated by 2–3% mitochondrial divergence were 
+similarly separated by 0.7–1.3 MY of phylogenetic distance. Samples 
+below 2% mitochondrial divergence possessed short branch lengths, 
+ranging from 0.1–0.6 MY. Therefore we found that species pairs which 
+satisfy both criteria were reliably identified as distinct: F2% mito-
+chondrial divergence and F0.7 MY of phylogenetic distance. 
+A rough spatial cutoff of ⊃1.1 km worked well to describe distinct 
+sites containing separate candidate species, providing a spatial scale 
+similar to that produced by elevational variation of ⊃100 m, producing 
+sites that correspond well with what field collectors labeled as “camps ” 
+or collection sites. In general, taxa at distinct sites were also distinct 
+candidate species. Only a handful of taxa were found to be truly 
+distributed between sites that were over 1 km apart. These included 
+candidate species shared between Mt. Gerebu and Mt. Obree region, a 
+separation of ⊃34 km (Choerophryne gunnari , Hylophorbus cf. rufes-
+cens.12 , and Mantophryne cf. lateralis.4 ). In the Bowutu mountains, 
+Callulops personatus ranged to Mt. Shungol, a distance of ⊃69 km, and 
+Hylophorbus cf. rufescens.5 ranged ⊃5 km from Cliffside camp to the 
+Suzuki track site. Four Normanby Island species are separated by a 
+phylogenetic distance of only about 200,000 years, producing little 
+mitochondrial divergence. We considered these as the same species 
+occurring across sites separated by ⊃10 km across a mountain range: 3 
+species on Normanby Island shared between Mwatebu and Buyetai sites: 
+Callulops doriae complex sp.1, Cophixalus desticans complex sp.1, and 
+Hylophorbus cf. rufescens.6 ; one species (Mantophryne cf. lateralis.1 ) was 
+shared between three sites: Mwatebu, Buyetai, and Sibonai. All 
+remaining candidate species (⊃195) were unique at each site. 
+3.4. Communities and their phylogenetic structure 
+Our eighteen multi-species communities varied in number from two 
+to 15 species (Fig. 4B). More than half of these have six or more species 
+each. The members of each community span the phylogeny, generally 
+with one species per genus, resulting in communities whose member 
+species are typically not closely related to one another (Fig. 5). In the 
+instances where there are two or more species per genus, most 
+commonly they are Cophixalus or Choerophryne (Fig. 4C). Exceptions 
+include the sites in the Torricelli mountains which have multiple Hylo-
+phorbus , Austrochaperina , or Choerophryne . 
+3.5. Evolution of lifestyle 
+The best fit model for reconstructing the ancestral states for lifestyle 
+assumed a symmetric transition rate matrix AICc SYM309, two points 
+lower than the next best model: all rates different AICc ARD311 and 
+nine points lower than the equal rates model: AICc EQR318. Lifestyles 
+at internal nodes were reconstructed with very high support throughout 
+the tree (the vast majority above 90% probability). The ancestor to 
+Asterophryinae was inferred as terrestrial with 59% probability, and 
+there is some support for arboreal with 35% probability (Fig. 2). Arbo-
+real and scansorial lifestyles evolved within the first two MY after the 
+genesis of the clade (by ⊃18 MYA; Fig. 2). The last two: semi-aquatic and 
+fossorial lifestyles evolved shortly thereafter (by ⊃16 MYA). All life-
+styles have repeatedly and independently evolved throughout the 
+clade ’s history. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+6
+Fig. 2.(Left) Time Calibrated BI phylogenetic reconstruction of 218 species of Asterophryinae using BEAST2. Dots indicate nodal support: BI posterior probability 
+above branch, ML bootstrap support below branch where ML reconstruction has identical topology. The ML tree contains more supported nodes within Hylophorbus 
+and Xenorhina than indicated here, but with local rearrangement of adjacent nodes (see Fig. 1 vs. 2 in Hill et al., submitted for publication ). Genera highlighted by 
+color. (Middle) Photos of representative Asterophryinae species for each genus. Line color indicates genus, colored square near hind leg indicates lifestyle. (Right) 
+The same phylogeny painted by lifestyle. Support for a single ancestral states was near 100% for most nodes. Where the dominant ancestral state received D70% 
+support, pies indicate relative support for each lifestyle. See text for more details. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+7Overall there is a pattern of niche conservatism: across the history of 
+Asterophryinae, we found 33 transitions in lifestyle for 217 nodes 
+(Fig. 2). Genera primarily have a single microhabitat association, but in 
+some instances, secondary microhabitat transitions occur most notably 
+within Asterophrys and Cophixalus . Many of these secondary transitions 
+occur between ⊃15 MYA and the present day. 
+4.Discussion 
+Asterophryinae has long been recognized as an unusually speciose 
+clade of frogs with diverse lifestyles (Zweifel and Tyler, 1983; Kohler 
+and Günther, 2008; Rivera et al., 2017 ), however, the lack of phyloge -
+netic resolution in the early-to-middle history of the group has pre-
+vented further progress. Here, with 95% of nodes supported in the 
+largest and most completely resolved phylogeny for Asterophryinae to 
+date, our results show that this group arrived in New Guinea about 20 
+MYA and rapidly diversified (Fig. 3) accompanied by early ecological 
+diversification (Fig. 2), as expected for adaptive radiation (Schluter, 
+2000 ). Below we discuss Asterophryinae communities, cryptic diversity 
+and phylogenetic inference, and the taxonomic implications of this 
+work. 
+4.1. Asterophryinae communities 
+One of the most distinctive, yet little-studied features of this group 
+are their complex communities, in which adaptation has been assumed 
+to play a key role. We describe here communities of up to 15 syntopic 
+species of Asterophryinae. We found that the typical complex Astero -
+phryinae community has six or more species from up to nine genera with 
+representatives of up to five lifestyles: terrestrial, arboreal, fossorial, 
+scansorial, and semi-aquatic (listed in order of frequency; Fig. 4). This 
+level of within-community ecological diversity is unusual among 
+amphibian adaptive radiations, which are reported to contain 2–3 spe-
+cies in microsympatry which differ in body size (Thorius salamanders: 
+Rovito et al., 2013b , Limnonectes fanged frogs: Setiadi et al., 2011 ), or in 
+microhabitat association (Desmognathus salamanders: Kozak et al., 2005 , 
+Kaloula microhylid frogs: Blackburn et al., 2013 ), and up to 4 species of 
+Bolitoglossini salamanders (Wake, 1987 ). 
+Ecological opportunity has contributed to Asterophryinae ’s diversification. Asterophryinae was the first frog lineage to colonize the 
+growing New Guinea island in the Miocene, ⊃20 MYA. Based on our 
+phylogeny, early diversification was rapid, with short branches along 
+the backbone of the radiation confirmed by a highly significant gamma 
+statistic (Figs. 2, 3). Within the first several million years of arrival to 
+New Guinea, all five microhabitat types had evolved along with diver -
+sification into half of the present-day genera. Microhabitat transitions 
+within Asterophryinae often coincide with the evolution of new genera, 
+followed generally by niche conservatism within most genera (Fig. 2), a 
+pattern that is common to amphibian radiations (see citations above). 
+Several genera provide exceptions to the general pattern, with multiple 
+microhabitat transitions concentrated in: Cophixalus (terrestrial, scan-
+sorial), Copiula (terrestrial, fossorial), Asterophrys (arboreal, terrestrial, 
+and fossorial), and Choerophryne reported in Oliver et al. (2017) from 
+taxa not included here. Undoubtedly there will be more discoveries 
+made by continuing to complete the phylogeny. 
+Our phylogenetic analysis shows that larger Asterophryinae com-
+munities are built up by adding species of either terrestrial or scansorial 
+forms, with as many as five terrestrial species and as many as six scan-
+sorial species in the largest assemblages (Fig. 4). For the terrestrial 
+forms, in nearly every case the additional species represent distinct 
+genera (Fig. 4). For example, the Mwatebu site on Normanby Island has 
+five species and five genera of terrestrial frogs (Figs. 4C, 5). In contrast, 
+there are only two genera known to possess scansorial lifestyles, 
+Cophixalus and Choerophryne , and thus at Cliffside camp there are six 
+scansorial species from these two genera. Interestingly, there is gener -
+ally only one arboreal species per site, from either Oreophryne A or 
+Oreophryne B, which are possible to locate in the field through their calls. 
+Furthermore, both Oreophryne A and B lineages co-occur at the locality 
+level at nearby sites in the offshore islands of Normanby and Rossel, and 
+on the mainland at Mt. Trafalgar on the EPCT. 
+A remaining puzzle is how such complex communities of Aster -
+ophyrinae are assembled. The patterns we find here are in contrast to 
+iconic examples of adaptive radiation such as Anolis lizards, Darwin ’s 
+Finches, and African haplochromine cichlids, which involves a founding 
+species colonizing an environment followed by in situ diversification 
+into available ecological niches (Losos et al., 1998; Schluter, 2000; 
+Gillespie, 2004; Fine et al., 2005 ). Asteropryinae communities clearly do 
+not evolve by de novo diversification following colonization, instead, we 
+Fig. 3.(A) A circular time-calibrated phylogeny of the diverse genera of Asterophryinae. Highlighted are the early diversification events from the base of the 
+phylogeny to the origin of each genus. See Fig. 2 for full tree including intra-generic branches. (B) Lineage through time plot for the Asterophryinae phylogeny. The 
+natural-logarithm of the number of lineages versus time since the origin of the subfamily (in Millions of Years Ago) is shown with the γ statistic and corresponding 
+p-value. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+8find early diversification, niche conservatism, and migration, which 
+implies community buildup by some process of assembly (Emerson and 
+Gillespie, 2008 ). Lineages of Asterophryinae are characterized by low 
+gene flow as even replicates of species at the same site are phylogenet -
+ically distinct, and species, in general, are separated over small spatial 
+scales, producing high endemism (see also Oliver et al., 2013; Oliver 
+et al., 2017 ). Over evolutionary time scales, it appears that these line-
+ages are undergoing a continual process of fragmentation and species 
+accumulation (Fig. 3). As nearly all of our communities trace their most 
+recent common ancestor to the base of the tree, there appears to be little 
+phylogenetic structure within communities (Fig. 5). 
+These patterns are a first description of the remarkable endemism 
+and diversity of Asterophryinae. Clearly, more fieldwork spanning 
+greater geographical coverage (for example, are there similarly complex 
+communities in Western and Southern New Guinea?) is needed to gain a 
+more complete assessment of and to understand the mechanisms pro-
+ducing this exceptional diversity. 4.2. Cryptic diversity and phylogenetic inference 
+Cryptic diversity is increasingly recognized as the dominant pattern 
+across the tree of life (reviewed in: Bickford et al., 2007 ) and is a 
+problem that affects many domains of biology including taxonomy, 
+phylogenetics, conservation, and biodiversity studies. Of the 233 sam-
+ples representing 205 taxa included in our phylogeny, only nine candi -
+date species were found at more than one site (Fig. 2), demonstrating the 
+overwhelming tendency toward narrow-range endemism in this sub-
+family. Most geographically widespread “species ” were found to be 
+complexes of distinct phylogenetic lineages, some of which were quite 
+ancient. For example, lineages of the monotypic Genyophryne thomsoni 
+diverged from their most recent common ancestor as long as 8 MY ago, 
+and similarly so for Austrochaperina palmipes . Mantophryne lateralis and 
+Hylophorbus rufescens were previously thought to be single species with 
+very large geographic ranges, yet we found five lineages of the Manto -
+phryne lateralis species complex and 18 candidate species of the Hylo-
+phorbus rufescens species complex, some of whom share a common 
+Fig. 4.Geographic distribution of sites. (A) Multispecies communities indicated on map with barplots showing high generic diversity. (B) Table of site number and 
+name, localities, and numbers of genera and species at each site. GPS coordinates for each site and the species found at each site are given in (see Table 1 in Hill et al., 
+2022 ). (C) Lifestyle and generic diversity by lifestyle at the six sites where we completed fieldwork for this study. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+9ancestor as long as 10 MY ago. All of these examples are morphologically 
+cryptic species complexes. Several studies have found multiple cryptic 
+species complexes within genera (Zweifel, 1979; Oliver et al., 2013; 
+Oliver et al., 2017 ). Here, we found cryptic diversity in at least 12 
+genera, within: Callulops doriae , Genyophryne thomsoni , Liophryne den-
+tata, Copiula sp., Barygenys exsul, Austrochaperina palmipes , Choerophryne 
+sp., Choerophryne darlingtoni , Aphantophryne pansa , Hylophorbus , Man-
+tophryne , several lineages of Cophixalus , several lineages of Oreophryne A 
+and B, and Paedophryne swiftorum . Our analyses clearly demonstrate that 
+any widespread species of Asterophryinae should be considered suspect 
+until verified. Especially when studying biodiversity in remote localities, 
+the possibility of cryptic diversity should be considered when devel -
+oping a sampling strategy to make the best use of limited time and 
+resources. 
+Until now, one mystery of this group is how we obtain so many 
+widely-distributed species of diminutive frogs, often across sites sepa-
+rated across the open ocean from the mainland of New Guinea to its 
+satellite islands. The short answer is that they are not widely-distributed 
+species. The vast majority of them have very small distributions (less 
+than ⊃1 km), resulting in extremely high endemism. This pattern is 
+reasonable given the ecological heterogeneity of New Guinea – separa -
+tion of ⊃1 km often corresponds to sites at different elevations or hab-
+itats. A point of debate in our own fieldwork was whether it was worth 
+the investment in resources to obtain more samples of Hylophorbus 
+rufescens , Mantophryne lateralis , Liophryne dentata , Austrochaperina pal-
+mipies and other species across both mainland and island sites. We decided to sample specimens from every site. Had we not done so, we 
+would have never discovered the extent of the ancient extensive cryptic 
+diversity within Asterophryinae. 
+Furthermore, by adding more representatives from “wide-spread 
+species ”, portions of the tree topology which were previously ambiguous 
+became stabilized. Whereas it was previously unclear where many 
+genera fit into the larger phylogeny, their sister clade relationships are 
+now clarified bringing resolution to previously intractable nodes 
+(compare Rivera et al., 2017 , with Figure 2). As it turned out, with 
+incomplete sampling, many formerly monotypic lineages tended to be at 
+the end of long branches, which were broken up by adding geographic 
+sampling. That the inclusion of multiple geographic samples of “species ” 
+would stabilize the subfamily-level phylogeny was a surprising and 
+serendipitous result. 
+4.3. Asterophryinae phylogenetics 
+It became clear early on in the biological exploration of New Guinea, 
+that lineage diversity was low compared to adjacent parts of SE Asia and 
+other tropical areas (Allison, 2009 ). This helped create an impression 
+that species diversity was also low and this was seemingly confirmed by 
+early workers. For example, Richard Zweifel ’s pioneering taxonomic 
+work beginning in the 1950s on the thousands of frog specimens 
+collected during the Archbold Expeditions demonstrated that many 
+morphologically diagnosed species had fairly large geographic ranges 
+(Zweifel, 1956; Zweifel, 1963; Zweifel, 1971 ). However, with the 
+Fig. 5.The phylogeny of communities within the context of the larger phylogeny illustrating the deep divergences within each community. Three example com-
+munities are traced here, two on the mainland of New Guinea: Cliffside camp, Kamiali, Bowutu Mountains [site 30], and Maru Ruama, Mt. Gerebu [site 39]; and one 
+on an offshore island: Mwatebu, Normanby Island [site 66]. Color codes indicating sites follow Fig. 4. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+10development of portable sound recorders in the 1960s, it quickly became 
+clear that many of these widespread taxa were actually composite spe-
+cies, many of them range-restricted endemics (Nelson, 1973; Menzies 
+and Tyler, 1977 ). Molecular work, including our findings reported 
+herein, has shown that even frogs with similar calls (e.g., Genyophryne 
+thomsoni ) are composite species, suggesting that frog species richness in 
+New Guinea is exceptional. 
+As a case in point, the semi-aquatic Austrochaperina palmipes does not 
+call. Zweifel (2000) diagnosed Austrochaperina palmipes based on 
+morphological similarities to other members of Austrochaperina however 
+it has never allied with any other species of Austrochaperina in molecular 
+phylogenetic treatments (Rittmeyer et al., 2012; Peloso et al., 2016; 
+Rivera et al., 2017; Tu et al., 2018 ). Here we show that it is not a single 
+species distributed across the mainland and offshore islands, but is 
+actually a cryptic species complex. The fossorial species complex Gen-
+yophryne thomsoni is monotypic and has a similar widespread distribu -
+tion pattern. It produces simple one or two-note (low-information) calls, 
+and only during heavy rains, providing limited opportunities for col-
+lecting the large amounts of data required to discover any distinctions. 
+Both of these have derived lifestyles with no clear morphological alli-
+ance to other groups: Austrochaperina palmipes is an excellent swimmer 
+among direct-developing terrestrial frogs, is able to climb seeps and 
+waterfalls, and hops along stream rocks. Genyophryne thomsoni is 
+fossorial with short muscular legs and disc-shaped bodies, seemingly 
+well suited for a burrowing lifestyle. We showed that both A. palmipes 
+and G. thomsoni are actually cryptic species complexes that originated at 
+least ⊃8 Ma with G. thomsoni sister to the cryptic complex of Liophryne 
+dentata , and A. palmipes is sister to a major clade including Austro -
+chaperina A and B Barygenys Copiula Liophryne Genyophryne 
+Xenorhina Asterophrys Callulops Mantophryne Hylophorbus . 
+The earliest efforts in molecular phylogenetics of Asterophryinae 
+used mitochondrial 12S and 16S loci (Kohler and Günther, 2008 ), which 
+are efficient for diagnosing species, but nuclear genes are clearly 
+required to find support for deeper nodes in this group (de Sa et al., 
+2012 ) as well as across the Anuran tree of life (Feng et al., 2017 ). 
+However, the mere inclusion of a few nuclear genes is not sufficient to 
+find nodal support for taxa at the end of long branches, which require 
+increased sampling to break up long branches. 
+For the first time, we were able to clarify the intergeneric organi -
+zation of Asterophryinae with strong support: establishing the mono -
+phyly of most genera and the non-monophyly of the remaining genera, 
+and clearly identifying their sister clade relationships, including the 
+timing and order of diversification. This is a significant step forward 
+from a previous paper by some of us where a little less than half of the 
+nodes had some support, and importantly, most of the deeper nodes 
+were not resolved including those along the backbone (Rivera et al., 
+2017 ). In the current phylogeny, the problematic non-monophyletic 
+genera Oreophryne and Austrochaperina are now clearly resolved into 2 
+or 3 monophyletic clades, respectively, with clear placement relative to 
+their sister taxa. 
+We accomplished this nearly fully resolved tree partly by improve -
+ments to the data. We added 74 tips to the tree bringing the total tips to 
+233. The vast majority of these broaden geographic sampling, which we 
+suspect helped to break up some of the long branches in the previous 
+tree. We completed the dataset of loci sequenced for each sample (now 
+99% complete) of our five-locus dataset. Given that our subfamily spans 
+⊃20MY of evolution, it is important to select loci with mutation rates to 
+inform the various depths of the tree, from slowly evolving nuclear (e.g. 
+BDNF and SIA), moderately evolving nuclear (NXC1) to fast-evolving 
+mitochondrial (e.g. CYTB and ND4). In particular, the ND4 dataset 
+and to a lesser extent the NXC1 dataset had many holes in 2017; 
+developing improved primers specific to Asterophryinae enabled the 
+completion of the faster-evolving datasets that likely improved support 
+and reduced odd placements. Improved data curation confirmed or 
+replaced suspect data by reexamining locus-by-locus pairwise similarity 
+matrices between taxa and re-sequencing any loci that were outliers. Finally, we reconstructed phylogenies with improved evolutionary 
+models (partitioned by locus and condon and selected by Partition -
+Finder2). Phylogenetic problems with more taxa are inherently more 
+difficult to resolve. In groups such as Asterophryinae with a deeply 
+nested history, a tendency toward fragmentation among morphologi -
+cally cryptic lineages with known taxonomic issues, it is important to 
+have a wide representation of samples across time and space to ensure 
+that the broadest possible sampling of the diversity of the group is 
+included. 
+4.4. Taxonomic findings 
+We are now closer to a phylogenetic taxonomy for the Astero -
+phryinae. We recovered 16 monophyletic clades of Asterophryinae, 
+leaving only the possible paraphyly of Liophryne and its relationship to 
+Sphenophryne , Oxydactyla , and Genyophryne unclear and requiring 
+further study. Our new recommendations include synonymization of the 
+monotypic Oninia with Asterophrys , identifying Aphantophryne for 
+further study, and finding strong support for dividing Oreophryne (and 
+possibly Aphantophryne ) into two reciprocally monophyletic clades, and 
+Austrochaperina into three reciprocally monophyletic clades (Fig. 1). Our 
+primary additions are establishing the monophyly of previously un-
+supported genera and establishing sister genera relationships with 
+strong support, in addition to clarifying many taxa previously thought to 
+be widespread species into phylogenetically distinct lineages (summa -
+rized in Table 1). A full list of taxonomic recommendations is given in 
+Table S1. 
+The taxonomy of Asterophryinae has had a turbulent history over its 
+long 120 years of study with numerous name changes and reversals, 
+which are included here for workers new to this nomenclature while 
+reviewing taxonomic changes for each genus-level clade. Astero -
+phryinae, a subfamily of Microhylidae, was established by Albert 
+Table 1 
+Summary of recommendations to changes in generic taxonomy and comparison 
+to Rivera et al. (2017) . Underlined taxa require more study.  
+E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+11Günther, 1858 , and for a time divided into Asterophryninae and Sphe-
+nophryninae, and Asterophryninae and Genyophryninae by different 
+workers, before being synonymized back to Asterophryinae (reviewed 
+in: Frost, 2021 ). Inter-generic organization of Asterophryinae has been 
+particularly enigmatic as evidenced by the multiple reorganizations of 
+its ⊃21 genera over the last decades (Zweifel, 1956; Menzies and Tyler, 
+1977; Zweifel and Allison, 1982; Burton, 1986; Zweifel and Parker, 
+1989; Burton and Zweifel, 1995; Zweifel, 2000; van Bocxlaer et al., 
+2006; Frost et al., 2006; Günther, 2009; Kraus, 2013; Peloso et al., 
+2016 ). 
+Dubois et al. (2021) proposed to reclassify 350taxa of Astero -
+phryinae under a single genus: Asterophrys , citing some instances of 
+unresolved polyphyly or paraphyly. We find that this does more harm 
+than good. We find strong evidence for 16 monophyletic generic level 
+clades, with only a few groups requiring further work (similar to the 
+findings of: Rivera et al., 2017; Tu et al., 2018 , Table 1). In this study, we 
+revealed most of the intergeneric relationships as well. Therefore, cat-
+egorizing all Asterophryinae as a single genus Asterophrys would abolish 
+all of this work over the past 120 years to uncover the structure of this 
+diverse group and do nothing to clarify the taxonomy. We reject this 
+proposal and will refer to our results with respect to the pre-Dubois et al. 
+(2021) taxonomy. 
+Asterophrys Tschudi, 1838. Rivera et al. (2017) established the 
+monophyly of Asterophrys Metamagnusia Pseudocallulops and rec-
+ommended their synonymization. Tu et al. (2018) additionally synon -
+ymized the monotypic genus Oninia to the enlarged Asterophrys , 
+suggesting the sister taxon relationship of Asterophrys and Xenorhina . 
+Our study provides strong support for the monophyly of Asterophrys 
+(including Metamagnusia Oninia Pseudocallulops ) and its sister 
+relationship to Xenorhina . 
+Aphantophryne Fry, 1917 is a terrestrial clade of three named species. 
+Previous studies used only one specimen of Aphantophryne pansa 
+resulting in an ambiguous placement within Asterophryinae (Kohler and 
+Günther, 2008; de Sa et al., 2012; Tu et al., 2018 ). Rivera et al. (2017) 
+included four specimens collected from a single site which were recov -
+ered as a monophyletic clade. To these four we added two Aphanto -
+phryne pansa specimens from different peaks of the Owen Stanley 
+mountain range. Interestingly, these are phylogenetically distinct sug-
+gesting that Aphantophryne is polyphyletic with BPBM 5299 nested 
+within Oreophryne A, and with BPBM 8312 nested within Oreophryne B. 
+While these nodes are strongly supported; they involve only one spec-
+imen each. We recommend further study with the inclusion of more 
+specimens. 
+Austrochaperina Fry, 1912 is a terrestrial group with two semi- 
+aquatic members. The polyphyly of Austrochaperina was suggested by 
+several studies that recovered Austrochaperina species interdigitated 
+with Copiula (Kohler and Günther, 2008; Pyron and Wiens, 2011; Ritt-
+meyer et al., 2012 ). Later studies found a weak signal for possibly two 
+clades of Austrochaperina , one sister to Copiula , separate from Austro -
+chaperina palmipes but whose sister relationship was ambiguous (Rivera 
+et al., 2017; Tu et al., 2018 ). Our results clearly show that Austro -
+chaperina is polyphyletic with three well-supported and reciprocally 
+monophyletic clades: Austrochaperina A is sister to Barygenys , while 
+Austrochaperina B is sister to Copiula . The semi-aquatic Austrochaperina 
+palmipes is not a single widely-distributed species, but rather a mono -
+phyletic clade of species which are not related to Austrochaperina A nor 
+B. Reclassification and further study of Austrochaperina is highly 
+recommended. 
+Barygenys Parker, 1936 is a fossorial group whose monophyly was 
+confirmed by multiple molecular studies (Sumida et al., 2000; Frost 
+et al., 2006; Kohler and Günther, 2008; Rittmeyer et al., 2012; Peloso 
+et al., 2016 ). What was unknown was its sister relationship, which 
+varied between Cophixalus, Genyophryne , and Paedophryne . We confirm 
+strong support for the monophyly of Barygenys and find strong support 
+for its sister relationship to Austrochaperina B. 
+Callulops Boulenger (1888) is a fossorial group with a long history. Peters (1867) described a new species (of now Callulops ) and assigned it 
+to Phrynomantis which has the same name as an African genus. Zweifel 
+(1972) re-diagnosed Phrynomantis and assigned 15 species to it, 
+including 5 new species. Species were named to both Phyrnomantis and 
+Callulops until 1988, when Dubois, 1988 synonymized all Papuan 
+Phrynomantis into Callulops , 121 years after its initial description. We 
+confirmed the monophyly of Callulops and its sister relationship to 
+Mantophryne Hylophorbus along with Günther et al. (2010), Rittmeyer 
+et al. (2012), Peloso et al. (2016), Rivera et al. (2017) . 
+Choerophryne Van Kampen, 1914 The formerly recognized genus 
+Albericus was synonymized with Choerophryne based on molecular evi-
+dence by Peloso et al. (2016) . We confirm strong support for the 
+monophyly of Choerophryne along with previous studies (Peloso et al., 
+2016; Rivera et al., 2017; Tu et al., 2018 ). 
+Copiula M˘ehely, 1901 is a group with terrestrial and fossorial mem-
+bers that has historically been difficult to resolve. Menzies and Tyler 
+(1977) and Burton (1990) identified multiple morphological characters 
+that distinguish Copiula from other Papuan microhylids: broad pre-
+maxillae, enlarged rostral glands, large truncated digital disks, and the 
+origin, course, and insertion of the deltoid. Molecular studies rejected 
+monophyly (Kohler and Günther, 2008; Tu et al., 2018 ) or were 
+inconclusive (Rivera et al., 2017 ). We found only two species that are 
+not part of a monophyletic Copiula (in common with Rivera et al., 2017 ): 
+Copiula tyleri is nested within Austrochaperina B with high support while 
+Copiula sp.7 is nested within Cophixalus , again with high support. We 
+visually examined the specimens and found that Copiula tyleri bears a 
+strong resemblance to its sister taxon Austrochaperina B macrorhyncha , 
+and the specimen of Copiula sp.7 is a very small individual and difficult 
+to assign; both specimens should receive further study. With the 
+exception of these two specimens, we found strong support for Copiula as 
+a monophyletic clade that is sister to Austrochaperina B. 
+Cophixalus Boettger, 1892 is a large group with terrestrial and 
+scansorial members. Earlier studies concluded that Cophixalus is poly-
+phyletic (Kohler and Günther, 2008; Pyron and Wiens, 2011; Rittmeyer 
+et al., 2012 ), which was contradicted by Rivera et al. (2017) who found 
+strong support for its monophyly pending the inclusion of Copiula sp. 7 
+(BPBM 38939). Visual inspection of BPBM 38939 revealed a small 
+specimen that is potentially a juvenile. As juvenile specimens are diffi-
+cult to identify, we attributed the GenBank submissions for this spec-
+imen as “Unidentified microhylid ”. Setting aside BPBM 38939, our 
+analysis finds strong support for the monophyly of Cophixalus in 
+agreement with Rivera et al. (2017) , and a strong sister relationship to 
+Paedophryne . 
+Genyophryne Parker, 1934 is a monotypic genus of fossorial frogs and 
+was defined on the morphology of the pectoral girdle, maxillae, verte -
+bral column, and tongue, but there has been debate regarding which 
+genus it is most closely allied (Parker, 1934; Zweifel, 1971 ). Here we 
+find that it is an old monophyletic species complex (⊃8 Ma) where 
+geographically disparate sites contain phylogenetically distinct species 
+nested within the clade (Liophryne Sphenophryne Oxydactyla ). We 
+discuss these genera in the Liophryne section. 
+Hylophorbus Macleay (1878) originally described a new genus that 
+contained only one species, Hylophorbus rufescens , collected around the 
+Binaturi River in southern New Guinea on an expedition to New Guinea 
+from Australia in 1875 aboard the Chevert. A century later the genus 
+was revisited by Zweifel (1972) who left Hylophorbus unchanged (but 
+named two subspecies). It was not until Günther (2001) , nearly 130 
+years after the original description, that the first non-rufescens Hylo-
+phorbus was described, based in part on variation in call signatures and 
+habitat. Currently, we still have a very widespread distribution of 
+Hylophorbus rufescens with some researchers preferring to catalog sam-
+ples as unnamed species, creating a rather confusing taxonomic situa-
+tion. We confirm strong support for the monophyly of Hylophorbus and 
+its sister relationship to Mantophryne , which has been strongly supported 
+in previous molecular phylogenetic studies (Kohler and Günther, 2008; 
+Rivera et al., 2017; Tu et al., 2018 ). We furthermore confirm the E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+12existence of many ancient cryptic lineages and recommend that Hylo-
+phorbus receive more study to clarify species within this monophyletic 
+genus. 
+Liophryne still requires further study as we cannot confidently 
+confirm nor reject monophyly. Parker (1934) originally included Lio-
+phryne as a member of the genus Sphenophryne based on the pectoral 
+girdle having a complete complement of bony and cartilaginous ele-
+ments; he otherwise noted that the members of Liophryne were diverse. 
+Tyler and Menzies (1971) upon reanalysis established Sphenophryne as a 
+genus based on the inclusion of the presence of a partly free tongue and 
+procoelous vertebral column. Zweifel (2000) separated the clade into 3 
+genera: Liophryne , Sphenophryne , and Oxydactyla , noting that his clas-
+sifications may include morphological features that are homoplastic. 
+Rivera et al. (2017) recovered a paraphyletic grouping of Liophryne that 
+included Sphenophryne , Oxydactyla and Genyophryne and suggested 
+further study due to weak support at some of the basal nodes of this 
+grouping, which we confirm here. We also find that Liophryne dentata is 
+not single species but a monophyletic species complex nested within the 
+larger clade. We note, however, that some internal nodes near the base 
+of this clade remain unsupported as did Rivera et al. (2017) and 
+recommend further study with the inclusion of more taxa aimed to verify 
+whether Liophryne Oxydactyla Genyophryne should be synonymized 
+into Sphenophryne , or whether these genera can be recovered as separate 
+monophyletic clades. 
+Mantophryne Boulenger (1897) was described as a monotypic genus 
+with the single terrestrial species Mantophryne lateralis . Zweifel (1972) 
+reclassified Mantophryne as Phrynomantis . Mantophryne was resurrected 
+in 1986 (Burton, 1986 ) and has remained a monotypic genus until the 
+recent description of four named species, the discovery of cryptic di-
+versity, and the synonymization of the monotypic Pherohapsis menziesi 
+into Mantophryne (Oliver et al., 2013 ). We confirmed the monophyly of 
+Mantophryne and its sister relationship to Hylophorbus along with (Oliver 
+et al., 2013; Peloso et al., 2016; Rivera et al., 2017 ). 
+Oreophryne Boettger (1895) is a large group of arboreal frogs with an 
+extremely large distribution (throughout mainland New Guinea, 
+offshore islands to the west, north, and east, and parts of South East 
+Asia), whose monophyly has long been suspect. Several research groups, 
+using different taxa, came to differing conclusions: Oreophryne basal to 
+all remaining Asterophryinae (de Sa et al., 2012 ), or polyphyletic with a 
+portion of it basal with other species scattered throughout the tree (Tu 
+et al., 2018 ), whereas Rivera et al. (2017) suggested that Oreophryne 
+may represent three clades. With the largest sampling of Oreophryne to 
+date (44 taxa), we find strong support for two evolutionarily indepen -
+dent clades which we denote A and B. We note tissues for the type 
+species of Oreophryne , Oreophryne senckenbergiana (Boettger, 1895 ), 
+were not available for this study, and therefore it is unclear which group 
+should retain the name Oreophryne . However, it is clear that these are 
+two reciprocally monophyletic groups. “Oreophryne A” is highly sup-
+ported as the sister to the remainder of the subfamily, and has a large 
+distribution extending from the EPCT and Eastern offshore islands 
+westward through the Accreted Terranes. The unrelated younger 
+“Oreophryne B” clade is restricted to the Southeastern tip of the EPCT and 
+the Eastern offshore islands, but its precise sister taxon remains unclear 
+with two possibilities: potentially sister to Cophixalus , or sister to all of 
+the remaining clades excepting Oreophryne A, Paedophryne , and 
+Cophixalus , Fig. 2). Interestingly, both clades appear in South East Asia: 
+from Sulawesi - Oreophryne B variabilis and Oreophryne B sp.5, and from 
+the Philippines - Oreophryne A anulata and Oreophryne A nana. As a 
+historical note, species contained in Oreophryne A have been previously 
+described as belonging to the following genera: Phrynixalus (Stejneger, 
+1908; Taylor, 1920 ), Chaperina (Taylor, 1920 ), Sphenophryne (Bou-
+lenger, 1896; Boulenger, 1898; M˘ehely, 1897 ), Hylella (Werner, 1989 ), 
+Hyla (Barbour, 1912 ), Mehelyia (Wandolleck, 1910 ), and Phrynomantis 
+(Noble, 1926 ), whereas we could find no synonyms for species of 
+Oreophryne B. 
+Despite the apparent confusion, the organization of “Oreophryne ” is now clarifying. The “Oreophryne ” species in de Sa et al. (2012), Peloso 
+et al. (2016) and O. anulata in Tu et al. (2018) group with Oreophryne A, 
+and the species in Rivera et al. (2017) condense into Oreophryne A or B. 
+The Sulawesi and Philippine taxa share most recent common ancestors 
+with New Guinean taxa ⊃8 – 10 MYA, nested within clades with much 
+deeper histories, raising the possibility that the migration of Oreophryne 
+A and B are coming from New Guinea to South Asia. Increasing sampling 
+from South Asia and areas outside of New Guinea are needed to confirm 
+their distribution and direction of dispersal. 
+Paedophryne Kraus, 2010 is a miniaturized terrestrial group has been 
+allied to at least three different genera (all with low support): mono -
+phyletic and sister to Cophixalus (Rittmeyer et al., 2012 ), sister to 
+Cophixalus with P. swiftorum nested within Choerophryne (Rivera et al., 
+2017 ), and monophyletic and possibly allied to Oreophryne (Tu et al., 
+2018 ). Paedophryne dekot is the only sample grouping outside of Pae-
+dophryne and within Oreophryne A, and thus should be reexamined for 
+possible misdiagnosis (but was not available at the time of this study). 
+Here we corroborate the monophyly of Paedophryne (with the exclusion 
+of Paedophryne dekot ) and find support for a sister relationship to 
+Cophixalus (PP 0.75 and BS 93), the original proposal of Rittmeyer 
+et al. (2012) . 
+Xenorhina Peters, 1683 is a largely fossorial genus. Xenobatrachus was 
+synonymized with Xenorhina by Frost et al. (2006) . This result is sup-
+ported by both morphological (Allison and Kraus, 2000 ) and molecular 
+characters (this study Frost et al., 2006; Rivera et al., 2017; Tu et al., 
+2018 ). We confirm strong support for the monophyly of Xenorhina and 
+its sister relationship to Asterophrys . 
+4.5. Conclusions 
+We reconstructed the most robust phylogeny of Papuan Astero -
+phryinae to date that includes 205 taxa sampled from over 80 sites 
+across both mainland New Guinea and the satellite islands. We also find 
+support for the monophyly of 11 of the established genera; the 
+remaining 7 genera have strong support for non-monophyly and we 
+recommend taxonomic reclassification. Additionally, we found evidence 
+for cryptic diversity in both monotypic genera and widespread species 
+suggesting that the taxonomy of all “widespread taxa” should be 
+reevaluated. The sampling of cryptic species substantially increased 
+phylogenetic resolution by anchoring the deeper nodes within the to-
+pology, breaking up long branches, and increasing nodal support glob-
+ally. We described community composition of Asterophryinae for the 
+first time and found that multispecies communities are common and 
+comprised of four or five lifestyles represented by diverse genera. Our 
+phylogenetic analysis shows that early, rapid diversification gave rise to 
+numerous genera coincident with ecological evolution. As a result, we 
+see that the explosive speciation found within Asterophyrinae is 
+potentially due to the combination of early adaptive radiation, niche 
+conservatism, and non-adaptive processes of community assembly. 
+Supplementary Materials 
+A full list of specimens, sites, and metadata is given in Table 1 in Hill 
+et al. (submitted for publication) . A list of generic level taxonomic re-
+visions and all species affected is provided in Table S1. 
+See Figure 1 vs. 2 in Hill et al. (submitted for publication) for a 
+comparision of Bayesian inference versus Maximum Likelihood time- 
+calibrated phylogenetic reconstructions of the complete dataset (233 
+samples). The BI analysis recovered the age of the basal node as 19.7 
+MYA with 95% CI 24-15 MYA. A similar age was recovered by the ML 
+analysis at 18.5 MYA with 95% CI 26-14 MYA. 
+See Figure 3 in Hill et al. (submitted for publication) for a nuclear- 
+only Bayesian inference reconstruction and see Figure 4 for a 
+mitochondrial-only BI reconstruction. E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+13CRediT authorship contribution statement 
+Ethan C. Hill: Formal analysis, Data Curation, Methodology, Project 
+administration, Writing – Original Draft, Investigation, Writing - Review 
+& Editing, Visualization. Claire J. Fraser : Investigation , Data Curation, 
+Writing – Original Draft, Writing – Review & Editing. Diana F. Gao: 
+Investigation, Writing – Review & Editing, Visualization. Mary J. Jar-
+man: Investigation, Writing – Review & Editing. Elizabeth R. Henry : 
+Investigation, Resources. Bulisa Iova: Investigation, Resources. Allen 
+Allison : Conceptualization, Methodology, Investigation, Resources, 
+Supervision, Writing – Original Draft, Writing – Review & Editing. 
+Marguerite A. Butler : Conceptualization, Methodology, Formal anal-
+ysis, Data Curation, Supervision, Investigation, Writing – Original Draft, 
+Writing – Review & Editing, Visualization, Project administration, 
+Funding acquisition, Visualization. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgements 
+This study was made possible by a grant from the National Science 
+Foundation awarded to MB (DEB-1145733). We thank Fred Kraus, Julio 
+Rivera, and Bob Thomson for consultation early in this work. Some of 
+the specimens were jointly collected with Fred Kraus (DEB-1345063). 
+Specimens were kindly provided by Molly Hagemann and Pumehana 
+Imada (Bishop Museum, Honolulu), Rainer Günther (Museum für 
+Naturkunde, Berlin), Jim McGuire (Museum of Vertebrate Biology, 
+Berkeley), Rafe Brown (University of Kansas, Lawrence), and Fred 
+Kraus, Ron Nussbaum, and Gregory Schneider (University of Michigan 
+Museum of Zoology, Ann Arbor). Julio Rivera, Jeff Scales, Nalani Kito- 
+Ho, Niegel Rozet, Jeff Higa and Raine Higa provided generous assis-
+tance in the field. We are grateful to the field assistance from many local 
+residents: at Maru Ruama, Mt. Geregu: Peter Joseph, Dambio Moi, 
+Walter Moi, David Peter, and Laiwoi Yoiini; at Cliffside Camp, Kamiali: 
+Maties Dagam, David Enoch, Lenny Keputong, and Marcus Symon; at 
+Normanby Island: Clement Bobby, Fred Francisco, Kenny Lakson, 
+Waiyaki Nemani, James Waraia, and Roland Waraia, and Misima Island: 
+Simon Emidi and Kelly Nabwakulea. We thank Normanby Mining PNG, 
+LTD for land access and accommodation. We thank Georgia Kaipu of the 
+PNG National Research Institute) and the late Barnabus Wilmont of the 
+PNG Department of Environment and Conservation for assistance with 
+research permits and necessary visas, and Andrew Moutu, the Director 
+of the PNG National Museum and Art Gallery, for use of facilities. We are 
+grateful for excellent critical comments from Alex Slavenko, Paul Oliver, 
+Dave Carlon, and three anonymous reviewers that greatly improved the 
+manuscript. 
+Appendix A.Supplementary material 
+Supplementary data associated with this article can be found in the 
+online version, at https://doi.org/10.1016/j.ympev.2022.107618 . 
+References 
+Abascal, F., Zardoya, R., Telford, M.J., 2010. TranslatorX: multiple alignment of 
+nucleotide sequences guided by amino acid translations. Nucleic Acids Res. 38, 
+W7–13. https://doi.org/10.1093/nar/gkq291 . 
+Akaike, H., 1974. A new look at the statistical model identification. IEEE Trans. Autom. 
+Control 19, 716–723. https://doi.org/10.1109/TAC.1974.1100705 . 
+Alfaro, M., Santini, F., Brock, C., Alamillo, H., Dornburg, A., Rabosky, D., Carnevale, G., 
+Harmon, L., 2009. Nine exceptional radiations plus high turnover explain species 
+diversity in jawed vertebrates. Proc. Nat. Acad. Sci. USA 106, 13410 –13414. https:// 
+doi.org/10.1073/pnas.0811087106 . Allison, A., 2009. New guinea, biology. In: Gillespie, R., Clague, D. (Eds.), Encyclopedia 
+of islands. University of California Press, pp. 652–659. 
+Allison, A., Kraus, F., 2000. A new species of frog of the genus Xenorhina (anura: 
+Microhylidae) from the north coast ranges of papua new guinea. Herpetologica 56, 
+285–294. 
+AmphibiaWeb, 2020. Amphibiaweb: Information on amphibian biology and 
+conservation. URL: https://amphibiaweb.org/ . 
+Barbour, Thomas., 1912. A contribution to the zoogeography of the East Indian islands. 
+Museum of Comparative Zoology –Biodiversity Heritage Library digitization project. 
+Printed for the Museum. 
+Bickford, D., 2002. Animal behaviour - Male parenting of New Guinea froglets. Nature 
+418, 601–602. https://doi.org/10.1038/418601b . 
+Bickford, D., Lohman, D.J., Sodhi, N.S., Ng, P.K.L., Meier, R., Winker, K., Ingram, K.K., 
+Das, I., 2007. Cryptic species as a window on diversity and conservation. Trends 
+Ecol. Evol. 22, 148–155. https://doi.org/10.1016/j.tree.2006.11.004 . 
+Blackburn, D.C., Siler, C.D., Diesmos, A.C., McGuire, J.A., Cannatella, D.C., Brown, R.M., 
+2013. An adaptive radiation of frogs in a southeast asian island archipelago. 
+Evolution 67, 2631 –2646. https://doi.org/10.1111/evo.12145 . 
+van Bocxlaer, I., Roelants, K., Biju, S., Nagaraju, J., Bossuy, F., 2006. Late cretaceous 
+vicariance in gondwanan amphibians. PLoS ONE e74. https://doi.org/10.1371/j 
+ournal.pone.0000074 . 
+Boettger, O., 1895. Liste der reptilien und batrachier der insel halmaheira nach den 
+sammlungen prof. dr. w. kükenthals. Zoologischer Anzeiger. 18, 129–138. URL http 
+s://www.biodiversitylibrary.org/part/24026 .  
+Bollback, J.P., 2006. Simmap: stochastic character mapping of discrete traits on 
+phylogenies. BMC Bioinformatics 7, 88-88 .  
+Bouckaert, R., Heled, J., Kühnert, D., Vaughan, T., Wu, C.H., Xie, D., Suchard, M.A., 
+Rambaut, A., Drummond, A.J., 2014. Beast 2: a software platform for bayesian 
+evolutionary analysis. PLoS Comput. Biol. 10, e1003537. https://doi.org/10.1371/ 
+journal.pcbi.1003537 . 
+Boulenger, G., 1888. The Annals and magazine of natural history; zoology, botany, and 
+geology. volume ser.6:v.1no.1-6 (1888). London, Taylor and Francis, Ltd. URL: 
+https://www.biodiversitylibrary.org/item/84521 . https://www.biodiversitylibrary. 
+org/bibliography/15774 . 
+Boulenger, G., 1896. Vii.-descriptions of new reptiles and batrachians obtained by mr. 
+alfred everett in celebes and jampea. Annals Mag. Natural History 18, 62–64. 
+Boulenger, G., 1897. II.-Descriptions of new lizards and frogs from mount Victoria, Owen 
+Stanley range, New Guinea, collected by Mr. A.S. Anthony. Ann. Mag. Natural 
+History 19, 6–13. 
+Boulenger, G., 1898. An account of the reptiles and batrachians collected by dr l loria in 
+british new guinea. Annali del Museo Genova 2, 694–710. 
+Boulenger, G.A., 1890. List of the reptiles, batrachians, and freshwater fishes collected by 
+Professor Moesch and Mr. Iversen in the district of Deli, Sumatria. In: Proc. Zool. Soc. 
+London, pp. 30–39. 
+Burton, T., 1990. The new guinea genus copiula m˘ehelÿ (anura: Microhylidae): a new 
+diagnostic character and a new species. Trans. Roy. Soc. South Australia 114, 87–93. 
+Burton, T.C., 1986. A reassessment of the papuan subfamily asterophryinae (anura: 
+Microhylidae). Records South Austral. Museum 19, 405–450. URL https://www.bi 
+odiversitylibrary.org/part/78918 .  
+Burton, T.C., Zweifel, R.G., 1995. A new genus of genyophrynine microhylid frogs from 
+New Guinea. American Museum novitates. Am. Museum Novitates 1–7. 
+Chifman, J., Kubatko, L., 2014. Quartet inference from SNP data under the coalescent 
+model. Bioinformatics 30, 3317 –3324. https://doi.org/10.1093/bioinformatics/ 
+btu530 . 
+Davies, H.L., 2012. The geology of New Guinea - the cordilleran margin of the Australian 
+continent. Episodes 35, 87–102. https://doi.org/10.18814/epiiugs/2012/v35i1/ 
+008. 
+Drummond, A.J., Rambaut, A., 2007. BEAST: Bayesian evolutionary analysis by sampling 
+trees. BMC Evol. Biol. 7 https://doi.org/10.1186/1471-2148-7-214 . 
+Dubois, A., 1988. Miscelanea nomenclatorica batrachologica (XVII). Alytes 7, 1–5. 
+Dubois, A., Ohler, A., Pyron, R.A., 2021. New concepts and methods for phylogenetic 
+taxonomy and nomenclature in zoology, exemplified by a new ranked cladonomy of 
+recent amphibians (lissamphibia). Megataxa 5, 1–738. 
+Duellman, W., Trueb, L., 1985. Biology of Amphibians. McGraw-Hill, New York.  
+Edgar, R.C., 2004. Muscle: a multiple sequence alignment method with reduced time and 
+space complexity. BMC Bioinformatics 5, 113. https://doi.org/10.1186/1471-2105- 
+5-113 . 
+Emerson, B.C., Gillespie, R.G., 2008. Phylogenetic analysis of community assembly and 
+structure over space and time. Trends Ecol. Evol. 23, 619–630. https://doi.org/ 
+10.1016/j.tree.2008.07.005 . 
+Felsenstein, J., 2004. Inferring Phylogenies. Sinauer Associates. 
+Feng, Y.J., Blackburn, D.C., Liang, D., Hillis, D.M., Wake, D.B., Cannatell, D.C., Zhang, P., 
+2017. Phylogenomics reveals rapid, simultaneous diversification of three major 
+clades of Gondwanan frogs at the Cretaceous-Paleogene boundary. Proc. Nat. Acad. 
+Sci. USA 114, E5864 –E5870. https://doi.org/10.1073/pnas.1704632114 . 
+Fine, P., Daly, D., Munoz, G., Mesones, I., Cameron, K., 2005. The contribution of 
+edaphic heterogeneity to the evolution and diversity of Burseraceae trees in the 
+western Amazon. Evolution 59, 1464 –1478 . 
+Fouquet, A., Gilles, A., Vences, M., Marty, C., Blanc, M., Gemmell, N.J., 2007. 
+Underestimation of Species Richness in Neotropical Frogs Revealed by mtDNA 
+Analyses. PLoS ONE 2. https://doi.org/10.1371/journal.pone.0001109 . 
+Frost, D.R., 2021. Amphibian species of the world: an online reference. version 6.1. URL: 
+https://amphibiansoftheworld.amnh.org/index.php . 
+Frost, D.R., Grant, T., Faivovich, J., Bain, R.H., Haas, A., Haddad, C.F.B., De Sa, R.O., 
+Channing, A., Wilkinson, M., Donnellan, S.C., Raxworthy, C.J., Campbell, J.A., 
+Blotto, B.L., Moler, P., Drewes, R.C., Nussbaum, R.A., Lynch, J.D., Green, D.M., E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+14Wheeler, W.C., 2006. The amphibian tree of life. Bull. Am. Museum Natural History 
+297, 8–.  
+Funk, W.C., Caminer, M., Ron, S.R., 2012. High levels of cryptic species diversity 
+uncovered in amazonian frogs. Proc. Roy. Soc. B: Biol. Sci. 279, 1806 –1814. URL: 
+https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2011.1653 , https://doi. 
+org/10.1098/rspb.2011.1653 , arXiv:https://royalsocietypublishing.org/doi/pdf/ 
+10.1098/rspb.2011.1653. 
+Gillespie, R., 2004. Community assembly through adaptive radiation in Hawaiian 
+spiders. Science 303, 356–359. 
+Gillespie, R.G., Bennett, G.M., De Meester, L., Feder, J.L., Fleischer, R.C., Harmon, L.J., 
+Hendry, A.P., Knope, M.L., Mallet, J., Martin, C., Parent, C.E., Patton, A.H., 
+Pfennig, K.S., Rubinoff, D., Schluter, D., Seehausen, O., Shaw, K.L., Stacy, E., 
+Stervander, M., Stroud, J.T., Wagner, C., Wogan, G.O.U., 2020. Comparing Adaptive 
+Radiations Across Space, Time, and Taxa. J. Hered. 111, 1–20. https://doi.org/ 
+10.1093/jhered/esz064 . 
+Grant, P.R., Grant, B.R., 2008. How and why species multiply: the radiation of Darwin ’s 
+finches. Princeton University Press, Princeton. URL: http://www.loc.gov/catdir 
+/toc/ecip0710/2007005384.html .  
+Günther, A.C.L.G., 1858. On the systematic arrangement of the tailless batrachians and 
+the structure of rhinophrynus dorsalis. Proc. Zoo. Soc. London 1858, 339–352. 
+Günther, R., 2001. The papuan frog genus Hylophorbus (anura: Microhylidae) is not 
+monospecific: Description of six new species. Russian J. Herpetol. 8, 81–104 doi: 
+1026-2296/200 1/0802-OOl .  
+Günther, R., 2009. Metamagnusia and pseudocallulops, two new genera of microhylid 
+frogs from new guinea (amphibia, anura, microhylidae). Zoosystematics Evol. 85, 
+171–187. https://doi.org/10.1002/zoos.200900002 . URL: https://onlinelibrary. 
+wiley.com/doi/abs/10.1002/zoos.200900002 , arXiv:https://onlinelibrary.wiley. 
+com/doi/pdf/10.1002/zoos.200900002.  
+Günther, R., Stelbrink, B., Rintelen, T.v., 2010. Oninia senglaubi, another new genus and 
+species of frog (amphibia, anura, microhylidae) from new guinea. Zoosystemat. Evol. 
+86, 245–256. 
+Hebert, P., Penton, E., Burns, J., Janzen, D., Hallwachs, W., 2004. Ten species in one: 
+DNA barcoding reveals cryptic species in the neotropical skipper butterfly Astraptes 
+fulgerator. Proc. Nat. Acad. Sci. USA 101, 14812 –14817. https://doi.org/10.1073/ 
+pnas.0406166101 . 
+Heled, J., Drummond, A.J., 2010. Bayesian Inference of Species Trees from Multilocus 
+Data. Mol. Biol. Evol. 27, 570–580. https://doi.org/10.1093/molbev/msp274 . 
+Hill, E.C., Fraser, C.J., Gao, D.F., Jarman, M.J., Henry, E.R., Iova, B., Allison, A., 2022. 
+Resolving the deep phylogeny: Implications for early adaptive radiation, cryptic, and 
+present-day ecological diversity of papuan microhylid frogs. Mol. Phylogenet. Evol. 
+Hill, E.C., Jarman, M.J., Fraser, C.J., Gao, D.F., Henry, E.R., Iova, B., Allison, A., 
+submitted for publication. Three nuclear and two mitochondrial markers for 
+establishing a robust time-calibrated molecular phylogeny of the hyperdiverse 
+asterophryinae frogs of the new guinea region and data on lifestyle, collection 
+locations, elevation with accompanying code. Data in Brief. 
+Hunt, T., Bergsten, J., Levkanicova, Z., Papadopoulou, A., John, O.S., Wild, R., 
+Hammond, P.M., Ahrens, D., Balke, M., Caterino, M.S., G˘omez-Zurita, J., Ribera, I., 
+Barraclough, T.G., Bocakova, M., Bocak, L., Vogler, A.P., 2007. A comprehensive 
+phylogeny of beetles reveals the evolutionary origins of a superradiation. Science 
+318, 1913 –1916. https://doi.org/10.1126/science.1146954 . 
+Jetz, W., Thomas, G.H., Joy, J.B., Hartmann, K., Mooers, A.O., 2012. The global diversity 
+of birds in space and time. Nature 491, 444–448. https://doi.org/10.1038/ 
+nature11631 . 
+King, A.A., Butler, M.A., 2009. ouch: Ornstein-Uhlenbeck models for phylogenetic 
+comparative hypotheses (R package). URL: http://tsuga.biology.lsa.umich.edu/ouch 
+/. 
+Kohler, F., Günther, R., 2008. The radiation of microhylid frogs (amphibia: Anura) on 
+new guinea: A mitochondrial phylogeny reveals parallel evolution of morphological 
+and life history traits and disproves the current morphology-based classification. 
+Mol. Phylogenet. Evol. 47, 353–365. https://doi.org/10.1016/j.ympev.2007.11.032 . 
+Kozak, K.H., Larson, A., Bonett, R.M., Harmon, L.J., 2005. Phylogenetic analysis of 
+ecomorphological divergence, community structure, and diversification rates in 
+dusky salamanders (plethodontidae: Desmognathus). Evolution 59, 2000 –2016 . 
+Kraus, F., 2013. A New Species of Choerophryne (Anura: Microhylidae) from Papua New 
+Guinea, with remarks on the taxonomic status of Albericus. Zoosystematics Evol. 89, 
+283–291. https://doi.org/10.1002/zoos.201300014 . 
+Lahaye, R., Van der Bank, M., Bogarin, D., Warner, J., Pupulin, F., Gigot, G., Maurin, O., 
+Duthoit, S., Barraclough, T.G., Savolainen, V., 2008. DNA barcoding the floras of 
+biodiversity hotspots. Proc. Nat. Acad. Sci. USA 105, 2923 –2928. https://doi.org/ 
+10.1073/pnas.0709936105 . 
+Lanfear, R., Frandsen, P.B., Wright, A.M., Senfeld, T., Calcott, B., 2016. PartitionFinder 2: 
+new methods for selecting partitioned models of evolution for molecular and 
+morphological phylogenetic analyses. Mol. Biol. Evol. https://doi.org/10.1093/ 
+molbev/msw260 . 
+Linhart, C., Shamir, R., 2002. The degenerate primer design problem. Bioinformatics 18 
+(Suppl 1), S172 –81. https://doi.org/10.1093/bioinformatics/18.suppl_1.s172 . 
+Liu, L., Yu, L., Edwards, S.V., 2010. A maximum pseudo-likelihood approach for 
+estimating species trees under the coalescent model. BMC Evol. Biol. 10, 25–27. 
+https://doi.org/10.1186/1471-2148-10-302 . 
+Losos, J., Jackman, T., Larson, A., de Queiroz, K., Rodriguez-Schettino, L., 1998. 
+Contingency and determinism in replicated adaptive radiations of island lizards. 
+Science 279, 2115 –2118 . 
+Macleay, W., 1878. The batrachians of the chevert expedition. Proc. Linnean Soc. NSW 2, 
+135–139. 
+Maddison, W.P., Maddison, D., 2019. Mesquite: a modular system for evolutionary 
+analysis. http://www.mesquiteproject.org . M˘ehely, L.v., 1897. Further contributions to the herpetology of new-guinea [in 
+hungarian and english]. Term ˘eszetrajzi Füzetek 20, 398–419. 
+van der Meijden, A., Vences, M., Hoegg, S., Boistel, R., Channing, A., Meyer, A., 2007. 
+Nuclear gene phylogeny of narrow-mouthed toads (Family: Microhylidae) and a 
+discussion of competing hypotheses concerning their biogeographical origins. Mol. 
+Phylogenet. Evol. 44, 1017 –1030. https://doi.org/10.1016/j.ympev.2007.02.008 . 
+Menzies, J., 2006. The frogs of New Guinea and the Solomon Islands. Pensoft Publishers . 
+Menzies, J., Tyler, M.J., 1977. The systematics and adaptations of some papuan 
+microhylid frogs which live underground. J. Zool. 183, 431–464. https://doi.org/ 
+10.1111/j.1469-7998.1977.tb04198.x . 
+Nee, S., Mooers, A., Harvey, P., 1992. Tempo and mode of evolution revealed from 
+molecular phylogenies. Proc. Nat. Acad. Sci. USA 89, 8322 –8326. https://doi.org/ 
+10.1073/pnas.89.17.8322 . 
+Nelson, C.E., 1973. Mating calls of the microhylinae: Descriptions and phylogenetic and 
+ecological considerations. Herpetologica 29, 163–176. URL http://www.jstor.org/ 
+stable/3891181 .  
+Nguyen, L.T., Schmidt, H.A., von Haeseler, A., Minh, B.Q., 2014. IQ-TREE: A Fast and 
+Effective Stochastic Algorithm for Estimating Maximum-Likelihood Phylogenies. 
+Mol. Biol. Evol. 32, 268–274. https://doi.org/10.1093/molbev/msu300 arXiv: 
+https://academic.oup.com/mbe/article-pdf/32/1/268/13171186/msu300.pdf.  
+Noble, G.K., 1926. An analysis of the remarkable cases of distribution among the 
+amphibia, with description of new genera. Am. Museum Novitates 212, 1–24. URL 
+https://digitallibrary.amnh.org/bitstream/handle/2246/4297//v2/dspace/in 
+gest/pdfSource/nov/N0212.pdf?sequence 1&isAllowedy.  
+Oliver, L.A., Rittmeyer, E.N., Kraus, F., Richards, S.J., Austin, C.C., 2013. Phylogeny and 
+phylogeography of Mantophryne (Anura: Microhylidae) reveals cryptic diversity in 
+New Guinea. Mol. Phylogenet. Evol. 67, 600–607. https://doi.org/10.1016/j. 
+ympev.2013.02.023 . 
+Oliver, P.M., Iannella, A., Richards, S.J., Lee, M.S.Y., 2017. Mountain colonisation, 
+miniaturisation and ecological evolution in a radiation of direct-developing new 
+guinea frogs (choerophryne, microhylidae). PEERJ 5. https://doi.org/10.7717/ 
+peerj.3077 . 
+Padgham, M., Sumner, M.D., 2021. geodist: Fast, Dependency-Free Geodesic Distance 
+Calculations. URL: https://CRAN.R-project.org/package geodist . r package version 
+0.0.7. 
+Padial, J., Miralles, A., De la Riva, I., Vences, M., 2010. The integrative future of 
+taxonomy. Front. Zool. 7, 16. https://doi.org/10.1186/1742-9994-7-16 . 
+Paradis, E., Claude, J., Strimmer, K., 2004. Ape: Analyses of phylogenetics and evolution 
+in r language. Bioinformatics 20, 289–290. https://doi.org/10.1093/bioinformatics/ 
+btg412 . 
+Parker, H., 1934. A monograph of the frogs of the family Microhylidae. British Museum 
+(Natural History), London. 
+Peloso, P.L.V., Frost, D.R., Richards, S.J., Rodrigues, M.T., Donnellan, S., Matsui, M., 
+Raxworthy, C.J., Biju, S.D., Lemmon, E.M., Lemmon, A.R., Wheeler, W.C., 2016. The 
+impact of anchored phylogenomics and taxon sampling on phylogenetic inference in 
+narrow-mouthed frogs (Anura, Microhylidae). Cladistics 32, 113–140. https://doi. 
+org/10.1111/cla.12118 . 
+Pennell, M.W., Eastman, J.M., Slater, G.J., Brown, J.W., Uyeda, J.C., FitzJohn, R.G., 
+Alfaro, M.E., Harmon, L.J., 2014. geiger v2.0: an expanded suite of methods for 
+fitting macroevolutionary models to phylogenetic trees. Bioinformatics 30, 
+2216 –2218 . 
+Peters, W., 1867. Monatsberichte der Koniglichen Preussische Akademie des 
+Wissenschaften zu Berlin. volume 1867. Berlin: Konigliche Akademie der 
+Wissenschaften, URL: https://www.biodiversitylibrary.org/item/112419 . https 
+://www.biodiversitylibrary.org/bibliography/48522 . 
+Pybus, O., Harvey, P., 2000. Testing macro-evolutionary models using incomplete 
+molecular phylogenies. Proc. Roy. Soc. London Series B-Biol. Sci. 267, 2267 –2272. 
+https://doi.org/10.1098/rspb.2000.1278 . 
+Pyron, R.A., Wiens, J.J., 2011. A large-scale phylogeny of Amphibia including over 2800 
+species, and a revised classification of extant frogs, salamanders, and caecilians. Mol. 
+Phylogenet. Evol. 61, 543–583. https://doi.org/10.1016/j.ympev.2011.06.012 . 
+R Core Team, 2022. R: A Language and Environment for Statistical Computing. R 
+Foundation for Statistical Computing. Vienna, Austria. URL: https://www.R-project. 
+org/. 
+Rambaut, A., Drummond, A.J., Xie, D., Baele, G., Suchard, M.A., 2018. Posterior 
+Summarization in Bayesian Phylogenetics Using Tracer 1.7. Syst. Biol. 67, 901–904. 
+https://doi.org/10.1093/sysbio/syy032 arXiv:https://academic.oup.com/sysbio/ 
+article-pdf/67/5/901/25517397/syy032.pdf.  
+Ree, R., Moore, B., Webb, C., Donoghue, M., 2005. A likelihood framework for inferring 
+the evolution of geographic range on phylogenetic trees. Evolution 59, 2299 –2311 . 
+Revell, L.J., 2012. phytools: an r package for phylogenetic comparative biology (and 
+other things). Methods Ecol. Evol. 3, 217–223. URL: https://besjournals.onlinelibrar 
+y.wiley.com/doi/abs/10.1111/j.2041-210X.2011.00169.x , https://doi.org/10.1111 
+/j.2041-210X.2011.00169.x , arXiv:https://besjournals.onlinelibrary.wiley.com/ 
+doi/pdf/10.1111/j.2041-210X.2011.00169.x. 
+Ricklefs, R.E., 2007. Estimating diversification rates from phylogenetic information. 
+Trends Ecol. Evol. 22, 601–610. https://doi.org/10.1016/j.tree.2007.06.013 . 
+Rittmeyer, E.N., Allison, A., Gründler, M.C., Thompson, D.K., Austin, C.C., 2012. 
+Ecological guild evolution and the discovery of the world ’s smallest vertebrate. PLoS 
+ONE 7, 1–11. https://doi.org/10.1371/journal.pone.0029797 . 
+Rivera, J.A., Kraus, F., Allison, A., Butler, M.A., 2017. Molecular phylogenetics and 
+dating of the problematic new guinea microhylid frogs (amphibia: Anura) reveals 
+elevated speciation rates and need for taxonomic reclassification. Mol Phylogenet 
+Evol 112, 1–11. https://doi.org/10.1016/j.ympev.2017.04.008 . E.C. Hill et al.                                                                                                                                                                                                                                   Molecular Phylogenetics and Evolution 177 (2022) 107618
+15Rovito, S.M., Parra-Olea, G., Hanken, J., Bonett, R.M., Wake, D.B., 2013a. Adaptive 
+radiation in miniature: the minute salamanders of the mexican highlands (amphibia: 
+Plethodontidae: Thorius). Biol. J. Linnean Soc. 109, 622–643. 
+Rovito, S.M., Parra-Olea, G., Hanken, J., Bonett, R.M., Wake, D.B., 2013b. Adaptive 
+radiation in miniature: the minute salamanders of the mexican highlands (amphibia: 
+Plethodontidae: Thorius). Biol. J. Linnean Soc. 109, 622–643. URL: https:// 
+onlinelibrary.wiley.com/doi/abs/10.1111/bij.12083 , https://doi.org/10.1111/ 
+bij.12083 , arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/bij.12083. 
+de Sa, R.O., Streicher, J.W., Sekonyela, R., Forlani, M.C., Loader, S.P., Greenbaum, E., 
+Richards, S., Haddad, C.F.B., 2012. Molecular phylogeny of microhylid frogs (Anura: 
+Microhylidae) with emphasis on relationships among New World genera. BMC Evol. 
+Biol. 12 https://doi.org/10.1186/1471-2148-12-241 . 
+Savage, J., 1973. The geographic distribution of frogs: patterns and predictions. Univ. 
+Missouri Press, Columbia. 
+Sayers, E.W., Bolton, E.E., Brister, J.R., Canese, K., Chan, J., Comeau, D.C., Connor, R., 
+Funk, K., Kelly, C., Kim, S., Madej, T., Marchler-Bauer, A., Lanczycki, C., Lathrop, S., 
+Lu, Z., Thibaud-Nissen, F., Murphy, T., Phan, L., Skripchenko, Y., Tse, T., Wang, J., 
+Williams, R., Trawick, B.W., Pruitt, K.D., Sherry, S.T., 2022. Database resources of 
+the national center for biotechnology information. Nucleic Acids Res. 50, D20–D26. 
+https://doi.org/10.1093/nar/gkab1112 . 
+Schluter, D., 2000. The ecology of adaptive radiation. Oxford University Press, Oxford. 
+URL: http://www.loc.gov/catdir/enhancements/fy0611/2001274421-t.html .  
+Setiadi, M.I., McGuire, J.A., Brown, R.M., Zubairi, M., Iskandar, D.T., Andayani, N., 
+Supriatna, J., Evans, B.J., 2011. Adaptive radiation and ecological opportunity in 
+sulawesi and philippine fanged frog (limnonectes) communities. The American 
+Naturalist 178, 221–240. URL: https://doi.org/10.1086/660830 , arXiv:https://doi. 
+org/10.1086/660830. pMID: 21750386. 
+Simpson, G.G., 1953. The Major Features of Evolution, vol. 17. Columbia University 
+Press, New York.  
+Stejneger, L., 1908. Two new species of toads from the philippines. Proc. U.S. Natl. Mus. 
+33, 573–576. 
+Sumida, M., Allison, A., Nishioka, M., 2000. Evolutionary relationships among 12 species 
+belonging to three genera of the family Microhylidae in Papua New Guinea revealed 
+by allozyme analysis. Biochem. Syst. Ecol. 28, 721–736. https://doi.org/10.1016/ 
+S0305-1978(99)00115-5 . 
+Taylor, E.H., 1920. Philippine amphibia. Philippine J. Sci. 16, 213–359. URL https:// 
+www.biodiversitylibrary.org/part/4751 .  
+Tu, N., Yang, M., Liang, D., Zhang, P., 2018. A large-scale phylogeny of microhylidae 
+inferred from a combined dataset of 121 genes and 427 taxa. Mol. Phylogenet Evol. 
+126, 85–91. https://doi.org/10.1016/j.ympev.2018.03.036 . 
+Tyler, M.J., Menzies, J.I., 1971. A new species of microhylid frog of the genus 
+sphenophryne from milne bay, papua. Trans. Roy. Soc. South Australia 95, 79–81. 
+Van Dam, M.H., Matzke, N.J., 2016. Evaluating the influence of connectivity and 
+distance on biogeographical patterns in the south-western deserts of north america. 
+J. Biogeography 43, 1514 –1532. URL: https://onlinelibrary.wiley.com/doi/abs/10. 
+1111/jbi.12727 , https://doi.org/10.1111/jbi.12727 , arXiv:https://onlinelibrary. 
+wiley.com/doi/pdf/10.1111/jbi.12727. 
+van der Meijden, A., Vences, M., Hoegg, S., Boistel, R., Channing, A., Meyer, A., 2007. 
+Nuclear gene phylogeny of narrow-mouthed toads (family: Microhylidae) and a 
+discussion of competing hypotheses concerning their biogeographical origins. Mol. 
+Phylogenet. Evol. 44, 1017 –1030. URL: http://www.sciencedirect.com/science/ 
+article/pii/S1055790307000309 , https://doi.org/10.1016/j.ympev.2007.02.008 . 
+Vieites, D.R., Wollenberg, K.C., Andreone, F., Kohler, J., Glaw, F., Vences, M., 2009. Vast 
+underestimation of madagascar ’s biodiversity evidenced by an integrative amphibian inventory. Proc. Nat. Acad. Sci. 106, 8267 –8272. URL: https://www. 
+pnas.org/content/106/20/8267 , https://doi.org/10.1073/pnas.0810821106 , arXiv: 
+https://www.pnas.org/content/106/20/8267.full.pdf. 
+Wake, D.B., 1987. Adaptive radiation of salamanders in middle american cloud forests. 
+Ann. Mo. Bot. Gard. 74, 242–264. 
+Wandolleck, B., 1910. Die amphibien und reptilien der papuanischen ausbeute dr. 
+schlaginhaufens. Abhandlungen und Berichte des Konigl. Zoologischen und 
+Anthropologisch-Etnographischen Museums zu Dresden. URL: https://biostor.org/ 
+reference/242407 . 
+Wang, L.G., Lam, T.T.Y., Xu, S., Dai, Z., Zhou, L., Feng, T., Guo, P., Dunn, C.W., Jones, B. 
+R., Bradley, T., Zhu, H., Guan, Y., Jiang, Y., Yu, G., 2019. treeio: an r package for 
+phylogenetic tree input and output with richly annotated and associated data. Mol. 
+Biol. Evol. https://doi.org/10.1093/molbev/msz240 (accepted).  
+Webb, C.O., Ackerly, D.D., McPeek, M.A., Donoghue, M.J., 2002. Phylogenies and 
+community ecology. Annu. Rev. Ecol. Syst. 33, 475–505. https://doi.org/10.1146/ 
+annurev.ecolsys.33.010802.150448 . 
+Werner, F.J.M., 1989. Vorlaufige mitteilung über die von herrn prof. f. dahl im bismarck- 
+archipel gesammelten reptilien und batrachier. Zoologischer Anzeiger 21, 552–556. 
+Wickham, H., François, R., Henry, L., Müller, K., 2021. dplyr: A Grammar of Data 
+Manipulation. URL: https://CRAN.R-project.org/package dplyr . r package version 
+1.0.7. 
+Ye, J., Coulouris, G., Zaretskaya, I., Cutcutache, I., Rozen, S., Madden, T.L., 2012. 
+Primer-blast: a tool to design target-specific primers for polymerase chain reaction. 
+BMC Bioinformatics 13, 134. https://doi.org/10.1186/1471-2105-13-134 . 
+Yu, G., 2020. Using ggtree to visualize data on tree-like structures. Current Protocols 
+Bioinformat. 69, e96. URL: https://currentprotocols.onlinelibrary.wiley.com/doi/ 
+abs/10.1002/cpbi.96 , https://doi.org/10.1002/cpbi.96 . 
+Zweifel, R.G., 1956. Results of the archbold expeditions. no. 72. microhylid frogs from 
+new guinea, with descriptions of new species. Am. Museum Novitates 1766, 1–49. 
+Zweifel, R.G., 1963. Results of the archbold expeditions. no.84. new microhylid frogs 
+(baragenys and cophixalis) from the louisiade archipelago, new guinea. Am. 
+Museum Novitates 2141, 1–10. 
+Zweifel, R.G., 1971. Results of the archbold expeditions. no. 96. relationships and 
+distribution of genyophryne thomsoni, a microhylid frog of new guinea. Am. 
+Museum Novitates 2469, 1–13. 
+Zweifel, R.G., 1972. A Revision of the Frogs of the Subfamily Asterophryinae, Family 
+Microhylidae. American Museum of Natural History. 
+Zweifel, R.G., 1979. A new cryptic species of microhylid frog (genus cophixalus) from 
+papua new guinea, with notes on related forms. Am. Museum Novitates 2678, 1–14. 
+Zweifel, R.G., 2000. Partition of the australopapuan microhylid frog genus sphenophryne 
+with descriptions of new species. Bull. Am. Museum Natural History, 1–130, htt 
+ps://doi.org/10.1206/0003-0090(2000)253 D0001:POTAMF F2.0.CO;2 . 
+Zweifel, R.G., Allison, A., 1982. A new montane microhylid frog from papua new guinea, 
+and comments on the status of the genus aphantophryne. american museum 
+novitates; no. 2723. Am. Museum Novitates 2723, 1–14. URL http://hdl.handle.net/ 
+2246/5334 .  
+Zweifel, R.G., Parker, F., 1989. New species of microhylid frogs from the owen stanley 
+mountains of papua new guinea and resurrection of the genus aphantophryne. 
+american museum novitates;; no. 2954. Am. Museum Novitates 2954, 1–20. 
+Zweifel, R.G., Tyler, M.J., 1983. chapter Amphibia of New Guinea. In: Biogeography and 
+Ecology of New Guinea. Springer, Netherlands, Dordrecht, pp. 759–801. https://doi. 
+org/10.1007/978-94-009-8632-9_38 . E.C. Hill et al.                                                                                                                                                                                                                                   

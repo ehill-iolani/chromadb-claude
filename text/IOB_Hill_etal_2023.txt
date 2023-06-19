@@ -1,0 +1,1938 @@
+Integrative Organismal Biology, 2022, pp. 1–20
+doi: DOI HERE
+Advance Access Publication Date: Day Month Year
+Paper
+PAPER
+Testing geology with biology: Plate tectonics and the
+diversification of microhylid frogs in the Papuan region
+Ethan C. Hill ,1,∗Diana F. Gao ,2Dan A. Polhemus ,3Claire J. Fraser ,1
+Bulisa Iova,4Allen Allison5and Marguerite A. Butler1,∗
+1School of Life Sciences, University of Hawai‘i, 2538 McCarthy Mall, Honolulu, 96822, HI, USA,2Dept. of Biology, University of San
+Francisco, 2130 Fulton St, Harney Science Center, San Francisco, 94117, CA, USA,3Pacific Islands Fish and Wildlife Office, US Fish and
+Wildlife Service, Honolulu, 96850, HI, USA,4, National Museum and Art Gallery, Boroko, National Capital District, PNG and5Natural
+Sciences, Bernice P. Bishop Museum, Street, 96817, HI, USA
+∗Corresponding author: Marguerite A. Butler mbutler@hawaii.edu
+FOR PUBLISHER ONLY Received on 6 October 2022; revised on Date Month Year; accepted on Date Month Year
+Abstract
+Studies of the Papuan region have provided fundamental insights into the evolutionary processes generating its exceptional
+biodiversity, but the influence of geological processes merits further study. Lying at the junction of five tectonic plates,
+this region has experienced a turbulent geological history that has not only produced towering mountains allowing
+elevational specialization, and island archipelagos with varying degrees of isolation promoting vicariance, but also active
+margins where land masses have collided and been subsequently rifted apart creating a mosaic of intermixed terranes with
+vastly different geological histories. Asterophryine frogs are a hyperdiverse clade representing half the world’s microhylid
+diversity (over 360 species) centered on New Guinea and its satellite islands. We show that vicariance facilitated by
+geological history explains this far and wide distribution of a clade that should have poor dispersal abilities. We recovered
+a mainland tectonic unit, the East Papua Composite Terrane (EPCT), as the center of origin for Asterophryinae and no
+fewer than 71 instances of what appear to be long-distance dispersal events, 29 of which are between mainland regions,
+with 42 from the mainland to the islands, some presently as far as 200 km away from source populations over open ocean.
+Furthermore, we find strong support for a ”Slow and Steady” hypothesis for the formation of the northern margin of
+New Guinea by many separate accretion events during the Miocene, over other major geological alternatives, consistent
+with the 20 M year age of the clade and arrival via the EPCT. In addition, the historical biogeography of our frogs
+strongly supports an affiliation of the Louisiade Archipelago and Woodlark Island with the Owen Stanley Range on the
+EPCT, and the recent proximity of the large New Britain Island. Our results show that Asterophryinae did not have to
+repeatedly and independently disperse across large ocean barriers to the offshore islands, against the predictions of island
+biogeography theory, but that the current distribution can be explained through vicariance and short-distance oceanic
+dispersal as historical land connections disappeared and islands slowly became separated from each other. We show that
+islands have a life history, changing in distance from other land masses, with consequent opportunities for dispersal,
+isolation, and cladogenesis of their biotas. More broadly, we can begin to see how the geological history of the Papuan
+region can result in the rapid accumulation and staggering number of extant species.
+Key words: biogeography, Pacific biodiversity, geographic range evolution, Island Biogeography Theory, dispersal,
+diversification
+“The distributions of organisms not adapted for
+long-distance dispersal are good evidence of past land
+connections.”
+— Biogeographical principles advocated by Sir Alfred
+Russel Wallace
+Source: Brown and Lomolino (1998)
+Wallace (1876, 1880) proposed that to understand the
+fascinating distributional patterns in the South Pacific requires
+a consideration of both natural selection and earth history
+(Hazzi et al., 2018; Pellissier et al., 2018). The island of NewGuinea hosts staggering biodiversity, containing among the
+highest degrees of endemism of any place on earth (Allison,
+2009; Brooks et al., 2006; Gressitt, 1982) and provides a
+case in point, lying in an intersection zone between Asian
+and Australian faunas that coincides with tectonic provinces
+between the two areas. Wallace’s second proposal, that a
+changing geology may shape the distribution and diversity
+of life, is supported by correlation between geological events
+and areas of high species richness. The rise of the central
+high mountains is associated with vicariance in ants (Li and
+©The Author 2022. Published by Oxford University Press. All rights reserved. For permissions, please e-mail:
+journals.permissions@oup.com
+12 Ethan C. Hill, et al.
+Li, 2018) and freshwater turtles (Georges et al., 2014), and
+signatures of presumed island fragmentation and accretion
+sequences are reflected in patterns of endemism in island
+insects (Boer and Duffels, 1996; Polhemus, 1996; Polhemus
+and Polhemus, 1998). Recent advances in phylogenetic methods
+incorporating timing informed by new geological data for New
+Guinea (reviewed in: Baldwin et al., 2012) have inspired
+more explicit spatio-temporal hypotheses of distribution and
+diversity (e.g., Jonsson et al., 2011; Georges et al., 2014;
+Toussaint et al., 2014). Toussaint et al. (2014) found support
+for recent orogeny driving the diversification of montane
+arthropods, supporting the geological model of Hall (1998,
+2002) which posits that collision between the Pacific and
+Australian plates resulted in uplift of the central cordillera
+and the rest of mainland New Guinea. We call this model
+“recent emergence” as it predicts that as late as ( ∼5Ma), most
+of New Guinea was under water with only the central high
+mountains above sea level and available for colonization by
+terrestrial taxa. While this model explains diversity patterns
+of young taxa centered on the central cordillera, there are both
+additional major biogeographical patterns as well as alternative
+hypotheses of geological history which make different spatio-
+temporal predictions. More generally, biological data has the
+– thus far mostly untapped – potential to inform competing
+geological hypotheses, but what is required is consideration of
+alternative geological hypotheses that are tested with clades
+that are older and more widely distributed across New Guinea
+(but see: Cozzarolo et al., 2019).
+New Guinea lies in one of the most tectonically active
+regions of the world, and while its geological history is complex,
+it is generally accepted that that the formation of the island
+involves the collision of multiple plates and accretion of multiple
+island arcs (reviewed in: Baldwin et al., 2012). Starting
+along the northern edge of the Australian Craton, the island
+formed over the Cenozoic with the additions of the East Papua
+Composite Terrane, the Fold Belt, the Accreted Terranes,
+and the Vogelkop Peninsula (Baldwin et al., 2012; Crowhurst
+et al., 1996; Davies et al., 1996, 1997; Dow, 1977; Pigram and
+Davies, 1987; Pigram and Symond, 1991; Hall, 2002; Holm
+et al., 2019; Quarles van Ufford and Cloos, 2005; Webb et al.,
+2014). These processes were initiated by the collision of the
+northward-moving Australian Plate with the west-northwest-
+moving Pacific Plate, with the additional interactions of the
+smaller Philippine, Caroline, and Solomon Sea plates (Hall,
+1998; Klootwijk et al., 2003; Kroenke et al., 1984; Kroenke,
+1996), and various other microplates that were shattered
+off along their edges during convergence. This resulted in
+sequential accretion of island arcs and subduction or obduction
+of oceanic and continental crust (Polhemus, 2007; Baldwin
+et al., 2012), to form an island of large size and complex
+topography, as well as a specific temporal ordering of land
+connections. The last major addition occurred within the last
+several million years, involving the rotation and subduction of
+the South Bismarck Plate at the northern margin to form the
+most recent component of the Accreted Terranes, adding the
+Adelbert-Finnisterre terrane containing the Huon Peninsula,
+and bringing the New Britain Island arc into the closest
+proximity to the mainland that it has ever been (Baldwin et al.,
+2012).
+In addition to the “recent emergence” hypothesis, two
+additional geological hypotheses have particular relevance for
+biotic diversification and differ with regard to the timing and
+assembly of the northern coastal terranes. The “Mobile Belt”
+hypothesis posits that the Accreted Terranes were assembledoffshore into a single unit during the Late Oligocene (25-23
+Ma), and subsequently docked onto the growing mainland in
+the mid-Miocene (15-11 Ma; Dow, 1972, 1977; Davies, 2012)
+giving rapid rise to the central high mountains in the Fold Belt
+(Quarles van Ufford and Cloos, 2005; Webb et al., 2014; Holm
+et al., 2019). Alternatively, several authors hypothesize that
+accretion along the northern coast has been a “slow and steady”
+process extending from the Late Cretaceous to the Pleistocene
+(Pigram and Davies, 1987; Davies et al., 1996; Quarles van
+Ufford and Cloos, 2005). Under this scenario, the ECPT is a
+composite of terranes which accreted onto a displaced sliver
+of the Australian Craton beginning with an arc collision in
+the Paleocene/Eocene, and then suturing to the main body of
+New Guinea in the Late Oligocene to Middle Miocene (30-25
+Ma, Davies et al., 1997), while the addition of the Accreted
+Terranes in the northern part of main New Guinea began in the
+Paleocene in the west (68 Ma) and extended until the Pliocene
+(5-2 Ma) in the east, the most recent ongoing addition being
+portions of the New Britain Island arc. The orogeny of the
+central high mountains is proposed to have occurred in the mid-
+Miocene (15-11 Ma), together with docking of the Vogelkop
+Peninsula in the west (Pigram and Davies, 1987; Polhemus and
+Polhemus, 1998; Quarles van Ufford and Cloos, 2005; Davies,
+2012), although Holm et al. (2019) hypothesize that Vogelkop
+sutured onto the western edge of New Guinea more recently, in
+the Late Miocene (7-3 Ma). Each of these geological models
+provides very different spatio-temporal implications for the
+evolution of biodiversity.
+Frogs of the subfamily Asterophryinae are a particularly
+appropriate group to study the role of geologic history
+on distribution and diversification. Nearly 700 species of
+microhylid frogs are distributed worldwide across the Americas,
+Africa, Asia, and Australia (AmphibiaWeb, 2020), but half
+of them – over 360 recognized species – comprise its largest
+subfamily, Asterophryinae, which are centered in the Papuan
+region (New Guinea and its satellite islands, and the Bismarck
+and Louisiade Archipelagos), and extend into Malaysia, the
+Philippines, the northeastern coast of Australia, and have
+recently been described from Thailand and Vietnam (Poyarkov
+et al., 2018; Suwannapoom et al., 2018). Recent molecular
+studies indicate they arose during the Miocene, within the
+past∼20 MY (Feng et al., 2017; Hill et al., 2022), coincident
+with major geological development of New Guinea. High
+generic diversity (17 recognized genera) and endemism of
+Asterophryinae relative to the other four native anuran families
+in New Guinea suggest they were probably the first frog
+lineage to colonize the region (Van Bocxlaer et al., 2006;
+Frost et al., 2006; K¨ ohler and G¨ unther, 2008; van der Meijden
+et al., 2007; Savage, 1973; Rivera et al., 2017; Tu et al., 2018;
+Hill et al., 2022). Anurans are poor oceanic dispersers, yet a
+substantial number of species occurring on the offshore islands
+have deeply divergent sister taxon relationships with lineages on
+the New Guinea mainland (Hill et al., 2022), suggesting either
+long-distance overwater dispersal or past geologic connection
+between land masses.
+In this study, we reconstruct the biogeographic history of
+Asterophryinae using a densely sampled phylogeny coupled
+with sophisticated evolutionary analyses to test geological
+hypotheses for diversification. We construct alternative
+geological hypotheses for (i) slow and steady accumulation of
+the Accreted and East Papua Composite Terranes, (ii) offshore
+Mobile Belt formation, (iii) recent emergence of New Guinea,
+and (iv) development of the offshore islands which have received
+little geological study, and allow these hypotheses to competeMovement of frogs or movement of land? 3
+for the best explanation of range evolution. We infer ancestral
+ranges and the minimum number of dispersal events to explain
+the biogeographic distribution of the clade.
+Materials and Methods
+Taxonomic and Geographic Sampling
+The subfamily Asterophryinae is distributed across the
+Southwest Pacific (Fig. 1, IUCN, 2022). Over 90% of
+the diversity of Asterophryinae (327 species out of 363
+named species) is endemic to the Papuan region including
+New Guinea Island and several of its satellite islands (the
+D’Entrecasteaux Islands, other small satellite islands, and
+the Louisiade Archipelago), with a few species occurring
+along the northern coast of Australia, in the Philippines,
+and in Indochina from Vietnam and Thailand southward into
+Malaysia. Asterophryines were almost certainly the first anuran
+lineage to colonize New Guinea as they are the dominant
+anuran fauna of New Guinea Island (especially concentrated
+along the northern coast of New Guinea) and several of its
+satellite islands, whereas they represent only minor portions
+of the anuran fauna in Asia and Australia.
+For our biogeographical analysis we used our previously
+published dataset (Hill et al., 2022, 2023), which contains 218
+samples from over 80 sites across Papua New Guinea and its
+satellite islands (Fig. 2), spanning a majority of the geographic
+extent of Asterophryinae, and reasonably representing the
+known geographic diversity (Fig. 1). Importantly, this
+geographic sampling includes all five tectonic sectors of
+mainland New Guinea as well as the majority of taxa
+from several satellite islands where Asterophryinae diversity
+is high (Normanby and Fergusson of the D’Entrecasteux
+Islands, Misima, Rossel, and Sudest Islands of the Louisiade
+Archipelago, Woodlark Island, and New Britain Island), with
+two samples each from the Philippines and Sulawesi, Indonesia.
+We used the time-calibrated Asterophryinae phylogeny of
+Hill et al. (2022, 2023), which contains 218 tips and is the
+largest and most comprehensive phylogenetic effort for this
+subfamily to date. Time-calibration was made using widely-
+agreed upon geological references, specifically the isolation of
+the islands that form the Louisiade Archipelago (6-4 Ma) and
+the opening of the Woodlark Basin (6-5 Ma, Hill et al., 1992;
+Davies et al., 1997; Baldwin et al., 2012; Wallace et al., 2014;
+Webb et al., 2014). See Hill et al. (2022) and Rivera et al. (2017)
+for further explanation. Although no fossil data are available
+for Asterophryinae, the age of the tree is corroborated by the
+independent analysis of Feng et al. (2017), who recovered a 20
+M year old age estimate for Asterophryinae using 20 fossil age
+constraints from older amphibian groups.
+This taxonomic sampling includes 205 taxa, 122 named
+species and an additional 83 putative taxa, and importantly
+includes robust sampling across all known genera (16
+monophyletic genera and two historically recognized genera
+whose monophyly remains unconfirmed). We note that while
+Asterophryinae taxonomy is much improved based on recent
+molecular studies (K¨ ohler and G¨ unther, 2008; van der Meijden
+et al., 2007; de Sa et al., 2012; Peloso et al., 2016; Rivera
+et al., 2017; Tu et al., 2018; Hill et al., 2022, 2023), the
+taxonomy is incomplete and complicated by a large number
+of undescribed species (a rough estimate is approximately 40%
+of collections are undescribed), as well as what is sure to beextensive undiscovered diversity (many recent studies report
+cryptic diversity across many lineages).
+Our overall sampling strategy was to include as many
+geographically and taxonomically representative samples as
+we could obtain from our field studies spanning several
+decades along with contributions from colleagues (see
+acknowledgements in: Hill et al., 2022, 2023). Furthermore,
+we note that New Guinea Island contains two countries, and
+fieldwork has been more extensive in Papua New Guinea due to
+the logistical and political difficulties of working in Indonesia.
+Therefore, the full extent of Asterophryinae diversity is not
+completely known. However, this dataset contains the largest
+geographic and taxonomic sampling of the known distribution
+of Asterophryinae of the Papuan Region.
+The geographical sampling includes 13 georegions used to
+test hypotheses of historical phylogeography: all five recognized
+major tectonic units of mainland Papua New Guinea: the East
+Papua Composite Terrane (E), the Fold Belt (F), the Australian
+Craton (A), the Accreted Terranes (A), and the Vogelkop
+Peninsula (V); seven offshore islands including New Britain
+Island (B), Misima Island (M), Sudest Island (S), Rossel Island
+(R), Normanby Island (Y), Fergusson Island (G), Woodlark
+Island (W); and Southeast Asia (N). Seventeen sites are located
+on offshore islands with the remaining 63 occurring on the
+Papuan mainland. A summary of the number of species and
+sites per georegion are listed in Table 1, with metadata for
+all samples including GPS coordinates provided in Table 1
+of Hill et al. (2023). We focused our geological exploration
+on alternative hypotheses of shared geohistory among these
+regions.
+Modeling the Evolution of Geographic Range
+We modeled the evolution of geographic ranges of
+Asterophryinae using dispersal-extinction-cladogenesis models
+(DEC Ree et al., 2005; Ree and Smith, 2008), using the
+Bayesian implementation provided by Matzke (2014). These
+biogeographic models are described in detail in Ree et al. (2005)
+and Ree and Smith (2008), but we briefly review the key
+components here to explain our hypothesis testing approach
+which required representing differences in dispersal opportunity
+afforded by the alternate geological scenarios. We use “areas” to
+Area Distance
+Georegion Taxa Sites (km2) (km)
+New Guinea 159 785,753
+V Vogelkop Peninsula 4 3
+A Accreted Terranes 32 7
+F Fold Belt 19 8
+C Australian Craton 3 3
+E EPCT 101 37
+Y Normanby Island 18 6 1,040 40
+F Fergusson Island 3 1 1,437 40
+B New Britain 2 2 36,520 79
+W Woodlark Island 6 1 874 253
+M Misima Island 4 1 202 202
+S Sudest Island 8 4 866 303
+R Rossel Island 8 3 262 372
+Table 1. The number of representative taxa for each georegion
+included in this analysis. Island area data from (Lyon, 1991)
+http://islands.unep.ch/Tiarea.htm. Distances are oceanic distances
+from islands to the nearest point on the mainland4 Ethan C. Hill, et al.
+N u m b e r  o f  S p e c ie s
+1 2 7
+E s r i,  U S G S ,  E s r i,  G a r m in ,  F A O ,  N O A A ,  U S G SV I E T N A M
+C A M B O D I AL A O S
+T H A I L A N DM Y A N M A R
+( B U R M A )
+P H I L I P P I N E S
+I N D O N E S I A
+P A P U A  N E W  G U I N E A
+A U S T R A L I A M A L A Y S I A
+Fig. 1. Distribution of species of Asterophryinae species based on shapefiles from the IUCN Red List (IUCN, 2022).
+refer to distinct georegions observed in our dataset, and “range”
+as the set of areas occupied by a lineage, thus areas are fixed but
+species ranges can evolve through time. DEC models describe
+an evolutionary process for biogeographic range evolution along
+a phylogeny (Ree et al., 2005; Ree and Smith, 2008), and
+are closely related to stochastic models for discrete character
+evolution, but importantly differ in breaking up each state
+change into two possible stochastic events: dispersal to a new
+area, and extinction from an existing area. Discrete changes
+from one state to another are assumed to occur randomly with
+respect to time according to a Markov process with probability
+matrix Pij(t) from ancestor state ito descendant state j. In
+matrix form this equation is:
+P(t) =e−Q(t)
+Where Qis the instantaneous rate matrix containing
+both the rates of dispersal Dijbetween ancestor range ito
+descendant range j, and rates of local extinction Ei. For
+example, for three areas (1, 2, 3, along with the null area
+∅for the possibility of extinction), and with each lineage
+occupying a maximum of two areas, the possible ranges would
+be enumerated as S={∅,1,2,3,12,13,23}, and Qwould be
+parameterized as:Q=∅ 1 2 3 12 13 23
+
+
+∅ − 0 0 0 0 0 0
+1E1− 0 0 D12D13 0
+2E20− 0D21 0D23
+3E30 0 − 0D31D32
+12 0 E2E10− 0 0
+13 0 E30E10− 0
+23 0 0 E3E20 0 −
+Thus, a frog lineage may expand its range by dispersal into
+a new area, contract its range when extinction occurs from
+part of its range, or may change areas if both dispersal to
+the new and extinction from the old areas occur jointly. These
+equations model state changes along branches, with nodes
+assumed to represent speciation events. As the phylogeny is
+assumed to be true (as with many phylogenetic comparative
+methods), all possible state combinations at internal nodes
+compatible with the observed ranges at the tips are integrated
+over in computing a likelihood for the model. The model
+outputs include maximum likelihood estimates for the dispersal
+and extinction rates and inferred ancestral ranges at the
+nodes. DEC models are flexible enough to allow a variety of
+evolutionary outcomes, including rapid spread as well as slow
+biogeographical evolution across a landscape, as one would
+expect for lineages that are poor dispersers such as frogs, as
+opposed to free movement from anywhere to anywhere as would
+be allowed for standard discrete character models.Movement of frogs or movement of land? 5
+ 2 1  3
+ 4
+ 5 6
+ 7 8 - 1 0
+1 1 - 1 3
+ 1 4 1 5 8
+ 9 1 0
+ 1 6 1 7
+ 1 8 1 9
+ 2 0 2 1
+ 2 2
+ 2 3 2 4 2 5
+ 2 6 2 8 - 3 2
+ 2 7 1 1 1 2
+ 1 3
+ 3 3
+ 3 4
+ 3 5 3 6 - 3 9 2 8
+ 2 9 3 0
+ 3 1 3 2
+ 3 6
+ 3 7 3 8
+ 3 9 4 0 4 1 4 2
+ 4 3
+ 4 0 - 4 3
+ 4 4 4 8 - 5 2 4 8 4 9 5 0 5 1 5 2
+ 5 3 5 4 5 5 - 5 7 5 5 5 6
+ 5 7
+ 6 0
+ 6 1
+ 6 2 - 6 6 6 2
+ 6 3
+ 6 4
+ 6 5 6 6
+ 6 7
+ 6 8 6 9
+ 7 0 - 7 3 7 0
+ 7 1 7 2
+ 7 3
+ 4 5 - 4 7
+ 7 4 - 7 6 4 7
+ 4 6 4 5
+ C r a t o n F o ld  B e lt A c c r e t e d
+ E P C T V o g e lk o p
+ 5 8 5 9
+0 2 0 0 4 0 0 6 0 0 8 0 0 1 , 0 0 0 1 0 0
+K ilo m e t e r s01 0 2 0 5
+K ilo m e t e r s
+ W o o d la r k N o r m a n b y F e r g u s s o n G o o d e n o u g h
+ M is im a
+ S u d e s t R o s s e l N e w  B r it a in
+&&
+ 7 9  k m
+D'Entrecasteaux Archipelago
+Louisiade Archipelago
+Fig. 2. Five major geological regions of NG that illustrate accretion history. The island of New Guinea has a composite history with multiple
+geologic terranes alagamating to form the large island. The geologic terranes of New Guinea are labeled following Davies (2012): the East
+Papua Composite Terrane, the Accreted Terranes, the Fold Belt, the Australian Craton and the Vogelkop Peninsula. Sampling sites across
+PNG and satellite islands are indicated by numbers, with insets showing detail for sites that are clustered. Site names, GPS coordinates,
+and metadata are provided in Table 1 of Hill et al. (2023).
+We focus on testing alternative geological hypotheses
+that explain the dispersal history of our frogs, implemented
+by adding constraints that represent hypothetical dispersal
+barriers. We used the dispersal multipliers matrix in
+BioGeoBears (Matzke, 2014), with “1”s indicating each pair
+of areas where dispersal is allowed, and “0”s for each pair of
+areas where dispersal is highly unlikely, as may occur between
+islands separated by open ocean (we note in practice, the
+zeros are instead “0.001”s, a small number for the software
+to return a model fit). The dispersal elements of the Q matrix
+are multiplied by these constraints, influencing which dispersal
+paths dominate in the explanation of the data.
+We used dispersal multiplier matrices with either pairwise
+connections or multiway connections to represent our geological
+scenarios. In particular, New Guinea Island was formed by
+terranes docking or accreting onto existing terranes along
+particular margins, which was modeled with a pairwise
+connection matrix, with the EPCT connected to the Accreted
+Terranes and the Fold Belt with 1s (brown bars indicating
+connections in Fig. 3), but not the Australian Craton nor the
+Vogelkop Peninsula (0s). We note that it is possible for EPCT
+lineages to reach the Vogelkop, but would require an additional
+step through the Accreted Terranes, for example, to create a
+connected path consistent with the difficulty of long-distance
+dispersal in this system. Alternatively, we have archipelagos
+which may have been connected at one time, or a hypothesisof islands rifting off from a mainland origin, such as for the
+Louisiade Archipelago which is hypothesized to have originated
+as a southeastern extension of the Owen Stanley Range of the
+EPCT prior to its current state as a set of separate oceanic
+islands. This hypothesis is represented by all members of the
+affected islands and the EPCT connected by “1”s to each other,
+forming a block of multi-way connections (light purple areas of
+connection in Fig. 3).
+For example, hypothesis a, Naive Geohistory, in which
+only the mainland terrane connections are involved (potentially
+between V, C, F, A, E), is represented by the dispersal
+multiplier matrix below:
+da=V C F A E D W M S R B
+
+
+V1 1 1 1 0 0 0 0 0 0 0
+C1 1 1 0 0 0 0 0 0 0 0
+F1 1 1 1 1 0 0 0 0 0 0
+A1 0 1 1 1 0 0 0 0 0 0
+E0 0 1 1 1 0 0 0 0 0 0
+D0 0 0 0 0 1 0 0 0 0 0
+W 0 0 0 0 0 0 1 0 0 0 0
+M 0 0 0 0 0 0 0 1 0 0 0
+S0 0 0 0 0 0 0 0 1 0 0
+R0 0 0 0 0 0 0 0 0 1 0
+B0 0 0 0 0 0 0 0 0 0 16 Ethan C. Hill, et al.
+Whereas hypothesis gposits that a multi-way connection
+existed between all offshore islands and the EPCT, but to none
+of the remaining mainland terranes:
+dg=V C F A E D W M S R B
+
+
+V1 1 1 1 0 0 0 0 0 0 0
+C1 1 1 0 0 0 0 0 0 0 0
+F1 1 1 1 1 0 0 0 0 0 0
+A1 0 1 1 1 0 0 0 0 0 0
+E0 0 1 1 1 1 1 1 1 1 1
+D0 0 0 0 1 1 1 1 1 1 1
+W 0 0 0 0 1 1 1 1 1 1 1
+M 0 0 0 0 1 1 1 1 1 1 1
+S0 0 0 0 1 1 1 1 1 1 1
+R0 0 0 0 1 1 1 1 1 1 1
+B0 0 0 0 1 1 1 1 1 1 1
+Some of our hypotheses involved recent emergence or
+assembly of land masses. We used time-stratified models to
+represent these hypotheses, with the “areas available” matrix
+and their associated time periods to indicate which areas were
+available for occupancy during each time stratum. A single
+dispersal multiplier matrix was used across all time strata.
+We fit models of historical biogeography using Dispersal-
+Extinction-Cladeogenesis (DEC; Ree et al., 2005; Ree and
+Smith, 2008) models as implemented in the R package
+BioGeoBEARS (Matzke, 2014), allowing a maximum of two areas
+per taxon. All DEC models have two degrees of freedom for the
+dispersal and extinction rate parameters. Model comparison
+was used to evaluate alternative hypotheses of historical
+biogeography, assessing model fits with the Akaike Information
+Criterion (AIC; Burnham and Anderson, 2002). We assessed
+sensitivity of model selection to phylogenetic uncertainty (both
+topology and branch lengths) by fitting all of the range
+evolution models to each of the final 100 phylogenies of our
+Bayesian (BEAST2) phylogenetic reconstruction (Hill et al.,
+2022).
+Using our best-fitting range evolution models, we estimated
+ancestral ranges and compared our results with the timings
+of terrane-accretion and island formation events (Davies
+et al., 1996, 1997; Pigram and Symond, 1991). Reconstructed
+ancestral ranges were assigned to nodes by majority rule,
+and used to tabulate inferred range shifts, assigning the shift
+to the ancestral node along which it occurred. Although all
+asterophryine species are single-area endemics, we allowed two
+areas per taxon, as required by the software to return a
+model fit. We wrote a custom script to apportion the two-
+area probabilities equally between the original geogregions.
+For example, if the ancestral reconstruction assigned a 10%
+probability to a dual geogregion range comprised of the EPCT
++ Fold Belt, half of the probability would be assigned to
+the EPCT and half to the Fold Belt. We plotted phylogenies
+annotated with model results using the R package ggtree (Yu
+et al., 2017).
+We note that many biogeographic studies also fit DEC+J
+models (Matzke, 2014), which allow an additional parameter
+for “jump” or long-distance dispersal. We found that DEC+J
+model fits on our data were degenerate as they returned models
+with zero dispersal and extinction probabilities, apportioning
+all range evolution to long-distance dispersal. Other authors
+have reported this model behavior, warning about spurious
+interpretations especially in situations where all lineages are
+restricted to single areas, as in our system (Matzke, 2014; Reeand Sanmart´ ın, 2018). We therefore did not use DEC+J models
+in our study, as these results indicate a pathology of the model
+fit rather than a reasonable estimate of reality, which would be
+nonsensical given the poor dispersal abilities of frogs.
+Hypotheses
+Island Distance
+The islands of the Bismarck, D’Entrecasteaux, and
+Louisiade groups lying off the northeast coast of New Guinea
+are surrounded by waters over 100 m deep and vary in distance
+to the mainland, which in turn should be inversely proportional
+to the probability of overwater dispersal. Therefore, absent
+any influence of geological history, nearby islands, such as
+New Britain and the D’Entrecasteaux Islands ( <100km away
+from the mainland), are expected to experience greater rates of
+dispersal than distant islands such as the Louisiade Archipelago
+(>200km). We tested this idea by weighting the dispersal
+multiplier matrix by distance categories. Thus, the nearby
+D’entrecasteaux Islands (Normanby and Fergusson) and New
+Britain in relation to any mainland region are assigned a
+dispersal multiplier of .1, whereas Woodlark Island and the
+islands of the Louisiade Archipelago are assigned a dispersal
+multiplier of .001. Within-archipelago movement is assumed
+to be unconstrained (i.e., within the D’Entrecasteaux Islands,
+within the Louisiades + Woodlark), with a dispersal multiplier
+of 1.
+Plate Tectonics
+Over the past 20M years, there have been significant
+land movements whose history may leave signatures in the
+present-day distribution of frog lineages. While it is well
+established that there are five major tectonic units that joined
+to form the New Guinea mainland, there are several geological
+hypotheses regarding the timing and order of their spatial
+connections. We constructed 11 alternative hypotheses (see
+Fig. 3 for explanation) to test these ideas. Our null or baseline
+hypothesis “Current Connectivity”(a) represents opportunities
+for dispersal based on present-day land connectivity, with no
+consideration of geological history. Here, mainland frogs can
+disperse freely across the main island of New Guinea, but
+overwater dispersal is unlikely. The next three alternative
+hypotheses represent the major competing ideas for the
+formation of the mainland: “Slow and Steady”, “Mobile Belt”,
+and “Recent Emergence” (see introduction for background; and
+Fig. 3b-d for descriptions of each scenario).
+The remaining hypotheses explore scenarios for the history
+of the offshore islands and their relationship to the mainland.
+The origins of the Louisiade Archipelago have not been
+well studied, but based on petrological similarities, they
+are relatively old, being composed of forearc metamorphic
+rocks of at least Miocene age whose protoliths date back
+to the Cretaceous, and may once have been connected to
+other land masses, since their metasedimentary rocks are
+correlative to those in the current Owen Stanley Range of
+the Papuan Peninsula (Fig. 3e, Davies and Smith, 1971;
+Pigram and Davies, 1987; Baldwin et al., 2012). Prior to
+the opening of the Woodlark Basin, Woodlark Island was
+in close proximity to the Louisiade Archipelago (Fig. 3f,
+Pigram and Davies, 1987), possibly representing an element
+of the volcanic back-arc behind the Louisiade forearc (Webb
+et al., 2014). In its present-day position, Woodlark has been
+significantly displaced northward from its paleo-position, dueMovement of frogs or movement of land? 7
+to the rapid opening of the Woodlark Basin around 5 Ma.
+Another correlated hypothesis regarding the mountains of
+the Louisiade Archipelago is that they may represent the
+southern most extent of the ancestral Owen Stanley Range,
+which might once have been contiguous within the EPCT
+before its southeastern extension was isolated due to erosion
+and subsidence (Fig. 3g,h). This idea is again supported by
+petrological similarities (Davies and Smith, 1971; Pigram and
+Davies, 1987). We also include the D’Entrecasteaux Islands
+because of their very close proximity to the EPCT (although
+three islands comprise the D’Entrecasteaux group – Normanby,
+Fergusson, and Goodenough, we have frog genetic data from
+only the first two, so our subsequent discussions treat this unit
+as a two-island complex). The final hypotheses test whether
+the offshore islands share a history with either the EPCT or
+the Accreted Terranes, or both, as the latter lie on an active
+margin in proximity to the offshore islands (Fig. 3i-k).
+Unconstrained DEC
+As a point of comparison to the hypotheses informed by
+biogeographical evolutionary theory above, we also tested an
+“Unconstrained DEC” model with no dispersal multiplier nor
+time stratification. This model assumes that it is equally likely
+to transition between any two ranges.
+Results
+The best-fitting overall hypothesis was “j: Offshore with
+Nearest Mainland”, and was superior to all other models. This
+result was robust to phylogenetic uncertainty, selected as the
+best model across the top 100 phylogenetic hypotheses (100%
+model selection frequency). The best model incorporates the
+“Slow and Steady” hypothesis for mainland assembly and a
+shared history between the offshore islands and their nearest
+mainland units (the Accreted Terranes for New Britain, and all
+others connected to the EPCT; Table 2). Below we report the
+strength of evidence for the component ideas.
+Mainland Assembly
+Comparing only the mainland assembly models, the
+distribution of Asterophryinae is best explained by the “b:
+Slow and Steady” hypothesis which was far superior to the
+“c: Mobile Belt” and “a: Current Connectivity” hypotheses
+by 20 and 53 AIC units, respectively. “d: Recent Emergence”
+provided a substantially worse fit, by 309 AIC units. All of
+these mainland assembly models assumed the offshore islands
+remained detached.
+Island History
+Building upon the “Slow and Steady” hypothesis for
+mainland assembly, we explored various hypotheses for the
+biogeographic history of the offshore islands. The second best
+overall model, by 6 AIC units, was hypothesis “i” in which all
+of the offshore islands including New Britain are connected to
+the EPCT (and not the Accreted Terranes; Table 2). Switching
+the shared history of all the offshore islands from with EPCT
+to with the Accreted Terranes provided a very poor fit, with a
+∆AIC of 188 for hypothesis “k”.
+The best model supports a shared history between Woodlark
+Island and the Louisiade Archipelago. We also tested several
+other models that compared Woodlark separate from theLouisaides versus joined together, and support was always
+improved by joining them. Model fit was further improved
+by connecting these to the EPCT, with the third best model
+(∆AIC 10; Table 2) being “h: Historical Owen Stanleys”
+which posits that the Louisiade Archipelago, Woodlark, and
+the D‘Entrecasteux Islands all originated as part of the Owen
+Stanleys. Therefore, with the exception of New Britain, we see
+a strong signal for even distant offshore islands sharing a history
+with the EPCT (Fig: 2, Table 1).
+Ahistorical and Hybrid Distance Models
+We tested three ahistorical models of interest. Hypothesis
+“a: Current connectivity”, implying that the current geography
+explains the distribution of Asterophryinae, was one of the
+worst fits to the data (∆AIC 436; Table 2). In fact, the
+unconstrained DEC model (although not a top model with
+∆AIC 23) was nevertheless a substantial improvement over
+current connectivity. A hybrid model which built on “b:
+Slow and Steady” for mainland assembly, but accounted for
+overwater distance to the offshore islands provided a poor
+explanation of the data with a ∆AIC of 118.
+Reconstructing the Spread of Asterophryinae
+From the best-fit model we recover the EPCT as the center
+of origin of Asterophryinae placed at about 20 Ma (Feng et al.,
+2017; Hill et al., 2022), with subsequent spread throughout
+mainland New Guinea and across satellite islands, some more
+than 200km away (Fig. 4). We count a minimum of 71 georegion
+transitions required to explain the current distribution (42
+between the mainland and islands, the remainder between
+mainland regions; Table 3). We discuss the implications of our
+findings below.
+Discussion
+The EPCT is the center of origin and ongoing
+diversification
+The EPCT is a known center of endemism and species
+richness across many taxa. Although high mountains are
+present in both the Fold Belt and the EPCT, based
+on cicada relationships, Duffels (1983) concluded that the
+Papuan Peninsula (also known as the EPCT) was a separate
+biogeographic area, and not merely an eastward extension of
+the New Guinea central mountains. Furthermore, Boer and
+Duffels (1996) identified it as a discrete area of endemism
+within the Melanesian region. Kalkman et al. (2018) showed
+that the EPCT harbored a large number of endemic damselflies
+and concluded that a range expansion out of the EPCT
+gave rise to the rest of a species-rich clade of damselflies
+now found in New Guinea. This is plausible if they arrived
+from the EPCT to find much ecological opportunity on a
+still relatively depauperate and more recently uplifted New
+Guinea. Similarly, Polhemus and Polhemus (2004) noted that
+the EPCT supports an unusually rich biota of veliid water
+bugs representing numerous endemic genera and species not
+found in the remainder of New Guinea as a whole, while at
+the same time lacking certain endemic genera occurring in the
+main body of the island, indicating separate histories of faunal
+evolution followed by fusion of the two land masses. Kraus
+(2021) proposed that the opening of the Woodlark Rift and
+its ongoing extension has created a series of vicariance events
+promoting speciation in multiple lineages.8 Ethan C. Hill, et al.
+CED VBW
+MSRFAa
+DBW
+MSRe
+DBW
+MSRf
+D VBW
+MSRg
+A
+CFEV
+DBW
+MSRh
+DBW
+MSRi
+DBW
+MSRj
+DBW
+MSRka. Current Connectivity. Frogs are limited by current geography, 
+freely dispersing across contiguous landscape but limited in 
+dispersing across water. Light purple connections indicate free
+multi-way dispersal accross the mainland, with each island separated 
+to reflect the difficulty of overwater dispersal. 
+b. Slow and Steady. All models include 13 georegions, one for each 
+mainald terrane (rectangle) or island (circle). Each yellow region 
+corresponds to a present-day terrane or island. Brown bars represent 
+land connections between areas that facilitate dispersal, here only 
+between adjacent mainland terranes. 
+e. The Louisiade Archipelago. Consisting of the islands 
+of Rossel, Sudest and Misima, this archipelago may have
+once been a single connected landmass based on core samples 
+(Pigram and Davies, 1987). All remaining models assume pairwise 
+dispersal corridors accross the mainland (brown bars), with light 
+purple indicating multi-way dispersal. 
+f. Woodlark with Louisiades. Woodlark may have once been 
+connected to the Louisiade Archipelago prior to the opening of the 
+Woodlark Basin, a rift which is hypothesized to have carried 
+Woodlark Island northward to  its current position (dashed arrow; 
+Baldwin, et al. 2012). Builds on (c) and groups Woodlark with the 
+Louisiades.
+g. Owen Stanleys. The Owen Stanley mountain range extends 
+southward along the EPCT. The Louisiade Archipelago may have 
+originated from erosion of the southernmost extent of the Owen Stanley 
+mountain range (Davies, 2012), and carried away by tectonic activity. 
+This hypothesis predicts multiway dispersal between the Louisiades, 
+the D'entrecasteaux, and the EPCT. 
+h. Historical Owen Stanleys. Combining (f and g), we include 
+Woodlark Island with the Louisiades, the D`Entrecasteaux, and 
+the EPCT.
+i. Offshore Islands share history with EPCT. If the offshore 
+islands share a history with any mainland terrane, it is likely to be 
+the ocean-facing EPCT or Accreted terranes along the West Coast 
+of New Guinea.This hypothesis posits that the offshore islands 
+have a geological relationship with the EPCT.
+k. Offshore Islands share history with Accreted Terranes. This 
+hypothesis posits that all of the offshore islands have a geological 
+relationship with the Accreted Terranes.j. Offshore with nearest mainland. New Britain may share a history 
+with the Accreted Terranes, being geographically close, and the 
+remaining offshore islands share a geological history with the EPCT. c. Mobile Belt. The EPCT and Accreted 
+Terranes were assembled offshore, 
+prior to 12 Ma, when they jointly 
+docked onto the rest of the mainland. 
+See citations in text. A
+Ec
+d. Recent Emergence. Only the tops 
+of the high mountains of the Fold Belt 
+were above above water until about 
+5Ma, when major uplift of New Guinea
+island raised the landmass above sea 
+level. See citations in text.FdDA
+CFEVBW
+MSR
+DA
+CFEVBW
+MSR>12 Ma <12 Ma
+> 5 Ma <5 MaDA
+CFEVBW
+MSRb
+A
+CFEV
+A
+CFEV
+A
+CFEV
+A
+CFEV
+A
+CFEV
+A
+CFEV
+Fig. 3. Visual representations of the alternative hypotheses. All models include 13 georegions indicated in yellow, one for each mainland
+terrane (rectangle) or island (circle). Note that the two islands of the D‘Entrecasteaux (Normanby and Fergusson) are represented by “D”,
+and the Southeast Asian georegion is not shown. Brown bars represent pairwise land connections between areas that facilitate dispersal,
+whereas areas grouped in light purple indicate multi-way connections. These alternatives are expressed as modifications to the dispersal
+multiplier matrix (see methods). Hypotheses b,c, and dare the major alternatives of slow and steady, mobile belt, and recent emergence,
+respectively, versus the alternative “null” hypothesis of no geohistory a. Hypotheses e-kare further refinements of bincorporating the
+history of the offshore islands. Hypotheses canddare time-stratified by areas and dispersal corridors available during the periods indicated.Movement of frogs or movement of land? 9
+BPBM34688 Oreophryne A biroiBPBM22784 Oreophryne A parkeriABTC116941 Oreophryne A graminisBPBM33674 Oreophryne A notataBPBM34677 Oreophryne A cameroniCMNH1366 Oreophryne A anulataBPBM22689 Oreophryne A cf. cameroniKU321316 Oreophryne A nana
+BPBM33763 Oreophryne A anamiatoiBPBM22789 Oreophryne A parkopanorumBPBM5299 Aphantophryne A cf. pansaBPBM37753 Paedophryne dekotBPBM20522 Oreophryne A auroraBPBM16217 Oreophryne A inornataUMMZ242404 Oreophryne A sp.8BPBM16554 Oreophryne A philosylleptorisMB484 Oreophryne A cf. geislerorum.2BPBM22511 Oreophryne A brachypusBPBM18510 Oreophryne A cf. geislerorum.1BPBM39156 Oreophryne A sp.1BPBM38990 Oreophryne A sp.2BPBM39244 Oreophryne A sp.3BPBM18509 Oreophryne A lemurBPBM19371 Oreophryne A sp.4BPBM39366 Oreophryne A sp.5
+BPBM40145 Oreophryne A sp.6BPBM18002 Oreophryne A sp.7
+BPBM22539 Oreophryne A loriaeMB342 Oreophryne A loriaeBPBM47733 Choerophryne darlingtoni complex sp.1BPBM33664 Choerophryne darlingtoni complex sp.2BPBM22649 Choerophryne brunhildaeBPBM33637 Choerophryne murrita
+BPBM22685 Choerophryne rostelliferBPBM22675 Choerophryne longirostrisBPBM34679 Choerophryne proboscideaBPBM18317 Choerophryne exclamitansBPBM35561 Choerophryne gudrunaeMB466 Choerophryne sp.1MB472 Choerophryne sp.4BPBM39991 Choerophryne bryonopsisBPBM18351 Choerophryne gunnariMB300 Choerophryne gunnariBPBM25837 Choerophryne sp.3BPBM17847 Choerophryne sanguinopictusMB463 Choerophryne sp.2BPBM34724 Hylophorbus atrifasciatusBPBM33749 Hylophorbus richardsiBPBM47792 Hylophorbus cf. rufescens.14BPBM47888 Hylophorbus cf. rufescens.13MB294 Hylophorbus cf. rufescens.12BPBM22504 Hylophorbus cf. rufescens.12BPBM18441 Hylophorbus cf. rufescens.12
+BPBM35866 Hylophorbus cf. rufescens.15BPBM22740 Hylophorbus cf. rufescens.16
+BPBM35692 Hylophorbus cf. proekesBPBM35986 Hylophorbus cf. rufescens.17BPBM39638 Hylophorbus myopicusBPBM16181 Hylophorbus cf. rufescens.2UMMZ242317 Hylophorbus cf. rufescens.1MB556 Hylophorbus cf. rufescens.1
+BPBM37232 Hylophorbus cf. rufescens.3BPBM15355 Hylophorbus cf. rufescens.4
+BPBM18450 Hylophorbus cf. rufescens.6MB483 Hylophorbus cf. rufescens.5BPBM31979 Hylophorbus cf. rufescens.5
+BPBM19338 Hylophorbus cf. rufescens.10BPBM39569 Hylophorbus cf. rufescens.9BPBM39631 Hylophorbus cf. rufescens.7BPBM18033 Hylophorbus cf. rufescens.8
+BPBM17048 Hylophorbus cf. rufescens.11BPBM20369 Hylophorbus extimusBPBM22761 Hylophorbus proekes
+BPBM31477 Mantophryne menziesiBPBM40135 Mantophryne insignisBPBM15410 Mantophryne cf. lateralis.2UMMZ242361 Mantophryne cf. lateralis.1BPBM20396 Mantophryne cf. lateralis.1MB518 Mantophryne cf. lateralis.1BPBM22780 Mantophryne cf. lateralis.3MB479 Mantophryne cf. lateralis.5BPBM19265 Mantophryne cf. lateralis.4MB331 Mantophryne cf. lateralis.4
+BPBM20142 Mantophryne louisiadensisBPBM20397 Mantophryne axanthogaster
+BPBM33669 Callulops wilhelmanusBPBM47786 Callulops sp.2BPBM37122 Callulops sp.1BPBM20141 Callulops doriae complex sp.2UMMZ242226 Callulops doriae complex sp.1MB508 Callulops doriae complex sp.1
+BPBM19236 Callulops bicolorBPBM16806 Callulops robustus
+BPBM18504 Callulops personatusBPBM23740 Callulops personatusBPBM13155 Callulops eremnosphaxBPBM35836 Callulops microtis
+ZMB70535 Asterophrys eurydactylusBPBM28204 Asterophrys turpicolaBPBM13110 Asterophrys slateriBPBM28153 Asterophrys leucopusZMB70187 Asterophrys cf. maraniAA24862 Asterophrys sp.ZMB74609 Asterophrys senglaubiZMB63882 Asterophrys maraniBPBM33780 Xenorhina parkerorumBPBM14060 Xenorhina ocellataBPBM34741 Xenorhina obesaBPBM21474 Xenorhina adiscaBPBM22797 Xenorhina arboricolaBPBM34697 Xenorhina oxycephalaMB327 Xenorhina sp.1BPBM28179 Xenorhina mehelyiBPBM22795 Xenorhina tumulus
+BPBM22754 Liophryne schlaginhaufeniBPBM18315 Liophryne allisoniMB593 Liophryne aff. dentata.3UMMZ242338 Liophryne aff. dentata.1BPBM15373 Liophryne aff. dentata.2BPBM31853 Genyophryne aff. thomsoni.3BPBM20357 Genyophryne thomsoniUMMZ242309 Genyophryne aff. thomsoni.1MB626 Genyophryne aff. thomsoni.2
+BPBM22793 Sphenophryne cornutaBPBM39929 Liophryne miniafiaBPBM17890 Oxydactyla crassaBPBM19360 Liophryne magnitympanum
+BPBM20287 Copiula sp.6BPBM18605 Copiula fistulansBPBM40083 Copiula sp.1BPBM20262 Copiula sp.2BPBM15665 Copiula minorBPBM39007 Copiula sp.3BPBM17084 Copiula oxyrhina
+BPBM17827 Copiula sp.4MB309 Copiula sp.5
+BPBM22664 Austrochaperina A sp.1BPBM22481 Austrochaperina A novaebritanniaeBPBM20112 Austrochaperina A yelaensisBPBM40000 Austrochaperina A sp.2BPBM18388 Austrochaperina A parkeri
+BPBM25760 Barygenys sp.BPBM15259 Barygenys resimaBPBM38914 Barygenys maculataBPBM25756 Barygenys atraBPBM38904 Barygenys apodastaBPBM20126 Barygenys aff. exsul.1BPBM20128 Barygenys exsul
+BPBM22665 Austrochaperina B basipalmataBPBM22656 Austrochaperina B blumiBPBM35735 Austrochaperina B sp.3BPBM22668 Austrochaperina B septentrionalis
+BPBM13862 Austrochaperina B macrorhynchaBPBM22708 Copiula tyleri
+MB475 Austrochaperina C aff. palmipes.4BPBM15234 Austrochaperina C aff. palmipes.3UMMZ242212 Austrochaperina C aff. palmipes.1MB539 Austrochaperina C aff. palmipes.2
+BPBM16546 Oreophryne B insulanaUMMZ242398 Oreophryne B penelopiaMB627 Oreophryne B penelopiaBPBM39510 Oreophryne B phoebeBPBM15775 Oreophryne B equusBPBM18128 Oreophryne B picticrusBPBM8312 Aphantophryne B cf. pansa.2
+BPBM20501 Oreophryne B meliadesBPBM20469 Oreophryne B ezra
+BPBM17980 Oreophryne B matawanBPBM39000 Oreophryne B sp.1BPBM40143 Oreophryne B brunnea
+BPBM20571 Oreophryne B sp.2BPBM20572 Oreophryne B sp.3
+BPBM38988 Oreophryne B sp.4BPBM41683 Aphantophryne B cf. pansa.3
+BPBM39357 Oreophryne B sp.6JAM11383 Oreophryne B sp.5TNHC58922 Oreophryne B variabilis
+BPBM47804 Cophixalus darlingtoniBPBM47780 Cophixalus cf. cryptotympanumBPBM33707 Cophixalus caverniphilusBPBM35843 Cophixalus cf. pipilans.1BPBM22692 Cophixalus balbus
+BPBM26182 Cophixalus tomaiodactylusBPBM26194 Cophixalus phaeobaliusMB482 Cophixalus linnaeusUMMZ242263 Cophixalus variabilis complex sp.1BPBM15814 Cophixalus variabilis complex sp.2MB571 Cophixalus variabilis complex sp.3MB302 Cophixalus sp.2BPBM19314 Cophixalus atelesMB233 Cophixalus sp.1
+BPBM39048 Cophixalus sp.3BPBM18097 Cophixalus timidus
+BPBM20197 Cophixalus melanopsBPBM15708 Cophixalus desticans complex sp.2UMMZ242232 Cophixalus desticans complex sp.1MB617 Cophixalus desticans complex sp.1
+BPBM18430 Cophixalus albolineatusBPBM31847 Cophixalus cf. pipilans.2
+BPBM37718 Cophixalus clapporumBPBM20215 Cophixalus cupricarenus
+BPBM27491 Cophixalus verrucosus complex sp.3UMMZ242349 Cophixalus verrucosus complex sp.1MB583 Cophixalus verrucosus complex sp.2
+BPBM19320 Cophixalus nexipusBPBM17959 Cophixalus sp.4
+BPBM18392 Cophixalus cheesmanae complex sp.1MB470 Cophixalus cheesmanae complex sp.2
+BPBM15707 Cophixalus sp.5BPBM38939 Copiula sp.7BPBM19277 Cophixalus iovaorum
+FK15527 Paedophryne verrucosaBPBM31882 Paedophryne swiftorum complex sp.1MB486 Paedophryne swiftorum complex sp.2BPBM47713 Paedophryne amauensisMB291 Paedophryne sp.1
+FK16913 Paedophryne titanBPBM48036 Paedophryne sp.2
+20 15 10 5 0
+Time (MYA)Terrane
+Accreted Terranes
+Ambiguous
+Australian Craton
+EPCT
+Fergusson Island
+Fold Belt
+Misima Island
+New Britain
+Normanby Island
+Rossel Island
+Southeast Asia
+Sudest Island
+Vogelkop Peninsula
+Woodlark Island
+Fig. 4. Reconstruction of Asterophryinae dispersal across New Guinea under the best fit DEC model. As all species are single-georegion
+endemics, any dual-area probabilities output by BioGeoBEARS are apportioned equally to single georegions.10 Ethan C. Hill, et al.
+Hypothesis Subset −2logL ∆AIC D E
+j: Offshore w/ Nearest Mainland b+island 996 0 0.0094 0.021
+i: Offshore w/ EPCT b+island 1002 6 0.0086 0.021
+h: Historical Owen Stanleys b+island 1006 10 0.0096 0.020
+Unconstrained DEC 1019 23 0.0046 0.018
+g: Owen Stanleys b+island 1072 76 0.011 0.021
+l: Island Distance b+distance 1114 118 0.018 0.026
+k: Offshore Islands w/ Accreted b+island 1184 188 0.019 0.034
+f: Woodlark w/ Louisiades b+island 1285 289 0.027 0.025
+e: Louisiade Archipelago b+island 1334 338 0.028 0.023
+b: Slow and Steady mainland 1379 383 0.030 0.023
+c: Mobile Belt mainland 1398 402 0.011 0.026
+a: Current Connectivity mainland 1432 436 0.017 0.020
+d: Recent Emergence mainland 1686 691 0.025 0.058
+Table 2. Performance of alternative hypotheses for geographic range evolution. Model selection frequency for hypothesis j: Offshore w/
+Nearest Mainland was 100% across 100 alternative phylogenies. We indicate whether hypotheses belong to the subset of mainland assembly
+hypotheses (mainland), or whether they build from the best-fit mainland model and explore island histories (b+island) or island distance
+(b+distance). For each hypothesis, the likelihood values (-2log L) and difference in Akaike Information Criterion from the best fitting model
+(∆AIC) are given along with parameter estimates for the rate of dispersal (D) and extinction (E). Degrees of freedom for all models is 2.
+To:
+Time (Ma) From :Mainland PNG Islands Mainland →Mainland →
+E A F V C L W D B Mainland Island
+20-15 E – 3 3 6 0
+15-10 E – 4 1 – 9 2
+A – 3
+F 1 – 1 10 11
+10-3 E – 1 8 4 11
+A – – 1 1
+F 2 3 – 1
+V – – – 1 11 23
+3-present E – 2 1 5 1
+A – – – – 1
+F – – –
+V – 2 8
+Total 29 42
+Table 3. Numbers of Asterophryinae dispersals through time between mainland and offshore islands of New Guinea. Mainland Terranes: E
+= EPCT, A = Accreted Terranes, F = Fold Belt, V = Vogelkop Peninsula, C = Australian Craton. Islands: L = Louisiade Archipelago, W
+= Woodlark Island, D = D’Entrecasteaux Islands, B = New Britain Island.
+The EPCT itself is a composite terrane, which formed
+through multiple tectonic accretion events that began prior
+to its attachment to the remainder of New Guinea. This
+accretional history is significant in regard to its biotic evolution,
+as it may have brought communities together via collision,
+or at least within proximity so that dispersal to islands
+is possible. Although questions remain regarding the exact
+sequence of assembly within the EPCT, the concept of a
+composite land mass in eastern New Guinea formed by
+the collision of an Australian continental fragment and an
+island arc was advanced over 40 years ago in the geologic
+literature (Pieters, 1978; Hamilton, 1979), and has been
+subsequently supported by more recent research (Webb et al.,
+2014). Specifically, the basement rocks of southeastern New
+Guinea (the nascent EPCT) represent a displaced fragment
+of the Australian continental margin rifted away during the
+Cretaceous and moved northeastward by subsequent Paleocene-
+Eocene seafloor spreading (Zirakparvar et al., 2013). This
+fragment subsequently collided with a Late Paleocene-Early
+Eocene island arc to form the initial core of what would become
+the Papuan Peninsula (Davies and Warren, 1988), leading tothe emplacement of a broad ophiolite belt banked against the
+northern margin of this accreted unit. Such a scenario would
+imply that emergent land masses linked to island arcs may have
+been present in the vicinity of the current EPCT as early as
+the Paleocene, and that orogeny in the EPCT preceded that
+in central New Guinea by at least 10 My (Quarles van Ufford
+and Cloos, 2005), making it one of the earliest high emergent
+land masses in the region. Thus the fact that the EPCT is the
+center of diversity for many older lineages is understandable in
+the context of this early geological history.
+Our studies support this geological scenario, indicating that
+the EPCT is not only the origin of diversity for Asterophryinae,
+but a source for ongoing diversification and outward expansion
+(summarized in Fig. 6). Asterophryinae originated on the
+EPCT at least 20 Ma, as did 15 of the 18 genera (this study,
+Hill et al., 2022; Rivera et al., 2017; Feng et al., 2017), and
+entered the Fold Belt or the Accreted Terranes beginning
+around 17 Ma (Fig. 4, 5). This strong signal for an origin on the
+EPCT before later dispersing to the Accreted Terranes refutes
+the “Mobile Belt” hypothesis, which would predict a joint origin
+from both terranes. Instead, our results lend strong support toMovement of frogs or movement of land? 11
+Pliocene Pleistocene Miocene
+<3 Ma>23 Ma
+ 15-10 Ma
+ 10-3 Ma Indonesia20-15 Ma  
+ME F A V
+A
+CV
+EFB
+W D
+SROreoph ryne AChoeroph ryneAustrochaper ina BLiophr yneAustrochaper ina ASphenophr yneHylophorb usCallulopsMantophr yneHylophorb us
+CophixalusXenorhinaAsterophr ysCallulops
+CophixalusOreophr yne BAustrochaper ina ABarygen ysOreoph ryne AMantophr yneCopiula
+CophixalusBarygen ysHylophor busMantophr yneCopiulaOreoph ryne B
+BarygenysCophixalusMantophr yneOreoph ryne BCopiulaGenyophryneHylophor bus
+CopiulaHylophor busCallulopsOreophr yne B
+Oreophr yne AOreoph ryne BHylophorb us
+Lioph ryneOreoph ryne AOreoph ryne BGenyophr yneCophixalusPaedoph ryneHylophor busCophixalusCophixalusMantophr yneAustrochaper ina CCallulops
+Oreophr yne A
+Choeroph ryneOreoph ryne AOreophr yne AHylophor bus
+Austrochape rina B
+Austrochaper ina A
+Asteroph rys
+CophixalusXenorhinaXenorhinaXenorhina
+Xenorhina
+Asteroph rysHylophor bus
+Asteroph rys
+Asteroph rys05101520 Time (Ma)A F R W M S F N BFCBVACECF
+ 
+Philipines
+Fig. 5. The dispersal of asterophryine frogs across New Guinea between terranes through time inferred from our phylogenetic analysis and
+the corresponding geological evolution. (A) Timings of independent dispersal events between terranes or islands inferred from DEC analysis
+(Fig 4). Genera involved are along the lower X-axis. The source terrane is indicated along the first row of the upper X-axis, arrival terrane or
+island along the second row. Points and genera blocks are colored by the arrival terrane/island. (E=EPCT in green, A=Accreted Terranes in
+orange, F=Fold Belt in light blue, and V=Vogelkop Peninsula in yellow, R=Rossel Island in lilac, W=Woodlark Island in maroon, S=Sudest
+Island in fuscia, M=Misima Island in eggplant, G=Ferguson Island in coral, Y=Normanby Island in rose, B=New Britain Island in red). (B)
+- (F) Corresponding land movements and the evolving islands. Beige dots indicate terranes/islands with frogs established at the start of the
+epoch. (B) Prior to 23 Ma, the EPCT is approaching the nascent New Guinea Island bringing the ancestors of Asterophryinae. (C) 23-20
+Ma, the EPCT has docked onto the growing mainland, facilitating overland dispersal to the Accreted Terranes and the Fold Belt. (D) 15-10
+Ma, the Vogelkop Peninsula docks, allowing dispersal. Dispersal continues between mainland terranes, on the southern tip of the EPCT the
+first genera disperse to Rossel, Woodlark, and Sudest Islands as they separate from the Owen Stanley Range, encouraging speciation. (E)
+10-3 Ma, the Accreted Terranes have grown along the north coast, ongoing dispersal and speciation across land bridges and short water gaps
+until islands move further away. (F) The D’Entrecasteaux Islands (Normanby, Ferguson included in this study) have emerged very close to
+the mainland, and New Britain is on a collision course toward New Guinea, with the first dispersals to these islands.
+the “Slow and Steady” geological model of Pigram and Davies
+(1987); Davies (2012), a key prediction of which is that the
+Papuan mainland, except for the northern coast of the Accreted
+Terranes, was subaerial prior to the Early Miocene, with the
+EPCT docking onto the growing New Guinea composite land
+mass during the Late Oligocene to Middle Miocene (Davieset al., 1997). The dominance of the clade at low-mid elevation
+in the Early Miocene, as well as the exceptionally poor fit of the
+“Recent Emergence” model rejects the hypothesis of Hall (2002)
+that the bulk of the New Guinea mainland was submerged until
+5 Ma.12 Ethan C. Hill, et al.
+What is more remarkable, however, is the coincidence of
+the timings of geological events and range transitions, and
+furthermore, the sheer volume of phylogenetically independent
+dispersals (71) across 18 genera. First, the docking of the EPCT
+to the Papuan mainland would have created new overland
+dispersal routes between major landmasses from the EPCT to
+the Accreted Terranes and the Fold Belt, bringing the first
+frogs to the growing New Guinea Island. We see that the vast
+majority of dispersals come out of the EPCT. Of the mainland
+to mainland dispersals, 48% originate from the EPCT, and
+dispersals to islands are nearly exclusively from the EPCT
+at 98%. Indeed in our biogeographic results, we see a wave
+of dispersal across the older genera of Asterophryinae in an
+“out of the EPCT to the north” pattern in: Oreophryne A ,
+Cophixalus ,Choerophryne , and Austrochaperina B in relation
+toBaryengys (Fig. 5), with each genus independently splitting
+into EPCT vs. Accreted Terrane/Fold Belt divisions at the
+same point in asterophryine history (Fig. 4), leading to major
+subclades with ongoing diversification. In the discussion that
+follows, we acknowledge that both the phylogenetic dating and
+geological dating is approximate. Nevertheless, that we recover
+very similar date ranges along independent branches of the
+phylogenetic tree, and that these range shifts coincide with the
+approximate dating of geological events is remarkable.
+The coincidence of geology with dispersal
+About 12 Ma, there are multiple major geological events:
+orogeny of the central cordillera, docking of the Vogelkop
+Peninsula, and the opening of the Woodlark Basin. The orogeny
+of the central mountains of the Fold Belt began about 12 Ma
+(Pigram and Davies, 1987; Pigram and Symond, 1991; Davies
+et al., 1996; Quarles van Ufford and Cloos, 2005; Davies, 2012;
+Baldwin et al., 2012). Transitions from the EPCT into the
+Accreted Terranes and/or the Fold Belt tapered off ∼12 Ma
+(Fig. 5), when the central mountains may have risen high
+enough to become a geographic barrier for some lineages.
+Members of the genera Choerophryne ,Oreophryne A , and
+Hylophorbus moved from the Accreted Terranes to the Fold
+Belt∼12-8 Ma, as the mountains were rising. A final burst
+of transitions of three genera from the EPCT to the Accreted
+Terranes occurred ∼4 Ma, with the docking of the Huon-
+Finisterre-Adelbert blocks of the Bismarck Plate, which must
+have arrived without any preexisting Asterophryinae species.
+Contemporaneously in time, ∼14 Ma, the genus Asterophrys
+expanded from the Fold Belt to the Vogelkop Peninsula,
+coincident with the docking of the Vogelkop Peninsula (Pigram
+and Davies, 1987; Polhemus and Polhemus, 1998; Quarles van
+Ufford and Cloos, 2005; Davies, 2012), rather than the more
+recent date of 7-3 Ma proposed by Holm et al. (2019). The
+timing of these transitions closer to the mid-Miocene further
+supports the “Slow and Steady” model rather than the “Recent
+Emergence” model (Hall, 1998, 2002).
+Along the southern tip of New Guinea, also beginning about
+∼12 Ma, was the rifting off of the southern end of the Owen
+Stanley Range in the EPCT into the Louisiade Archipelago and
+Woodlark Island. We see a very strong signature of this event in
+our model fits, as any model linking the Louisiade Archipelago
+and Woodlark to the EPCT provides a far superior fit to similar
+models without this motif. At this time, the EPCT would
+have presumably been fully populated with potential source
+populations for dispersal across small water gaps or may have
+already populated the area that became newly isolated islands.
+This scenario would readily explain the skewed distribution oftwelve range transitions involving seven genera coincident in
+time to these islands, concentrated around the 12 Ma mark,
+followed by continuing range transitions that taper off as the
+islands would be rifting farther away. It would also explain why
+the species on these islands were independently seeded from
+the EPCT, and not arising by rare dispersal followed by in-situ
+diversification, and also explain why species do not disperse in
+a stepping stone manner to the islands. Indeed it is remarkable
+that all species have closest sisters on the EPCT, and in-situ
+radiation on the islands is rare (plates of some of pairs of
+relatives across the EPCT and offshore islands are shown in
+Fig. 7a,b).
+Finally, the recent rise of the D’Entrecasteaux Islands and
+the close approach of New Britain Island demonstrate that
+at very close distances, oceanic dispersal is possible even for
+terrestrial frogs, as lineages on these nearby islands which were
+never connected are related to sisters on the EPCT.
+The best-fitting overall hypothesis was “j:Offshore Islands
+with Nearest Mainland”, which is a refinement of “Slow and
+Steady” and supports these geological scenarios regarding the
+origins of the offshore islands discussed below. Thus, the
+hypderdiversity of this low-dispersal clade can be explained
+by major land movements that provide multiple vicariance
+events through time, which allowed numerous genera to
+simultaneously speciate (Fig. 5), and lend strong support for
+the role of geology in driving ongoing diversification.
+Long-distance dispersal vs. carriage by plate tectonics
+With the large number of inferred range transition
+events (71 transitions), a naive interpretation would be that
+dispersal is frequent. However, phylogenetic evidence confirms
+that these species are poor dispersers. In addition to the
+numerous instances of cryptic species within Asterophryinae
+(i.e., phylogenetically distinct sister lineages in close spatial
+proximity (Hill et al., 2022)), from our DEC modeling, we
+recover an overall rate of extinction that is higher than the rate
+of dispersal, consistent with a clade of low-dispersing organisms
+that tend to readily fragment by isolation. Furthermore, with
+regard to the mainland tectonic units, if long-distance dispersal
+were common, an unrestricted model allowing free dispersal
+between any two mainland units should be favored. Instead,
+our results show that a model limiting dispersal to adjacent
+tectonic units was far superior (“Slow and Steady” fit better
+than “Current Connectivity” by 53 AIC units). Nearly all range
+shifts occur in a single step (Fig. 5). Where a lineage passes
+through multiple terranes, they do so in a stepwise manner:
+the ancestor of Asterophrys andXenorhina originated on the
+EPCT, then dispersed to the Fold Belt, then to the Vogelkop
+peninsula. All of these findings point to the difficulty of long-
+distance dispersal. However, the frequency of range transitions
+can be understood in the context of plate tectonics.
+Especially with regard to the offshore islands, we originally
+thought that our phylogeny (presented in: Hill et al., 2022)
+must be wrong. How could small terrestrial frogs disperse
+over hundreds of kilometers of open ocean, separated by 10
+MY from their nearest sister lineage on the EPCT? Frogs
+are notoriously poor oceanic dispersers (Duellman and Trueb,
+1994), which is supported by experimental evidence with adult
+anurans suffering toxicity at 80% of ocean salinity, and embryos
+developmentally impaired if exposed to only 25% of ocean
+salinity (Gordon et al., 1961; Hopkins et al., 2012; Seymour,
+1994). Yet situations are known where rare oceanic dispersal
+must have occurred, such as on the Comoro ArchipelagoMovement of frogs or movement of land? 13
+!"#$%&'("#$%&)*+,+-+./01#2.34./0+567"#$%&
+89,4-*4:;<0=4-*+>5,<0&<0?:4@*5-/:+.51#A/.4:*+.51#
+89,4-*4:;<01#=*4:/4-*:9./89,4-*4:;<0=4-*+>5,<01#
+A/.4:*+.5A/.4:*+.51
+89,4-*4:;<01
+B:/4-*:9./&<0?:4@*5-/:+.51#
+A/.4:*+.5
+&0?/:4-*:90A/.4:*+.5BC/:5,,
+=4-*+>5,<01#B:/4-*:9./1#
+D5:9E/.901#=4-+<,5G'(GF#$%&
+!"#$%&67"#$%&
+89,4-*4:;<0=4-*+>5,<0&<0?:4@*5-/:+.51#A/.4:*+.51#
+89,4-*4:;<01#=*4:/4-*:9./89,4-*4:;<0=4-*+>5,<01#
+A/.4:*+.5A/.4:*+.51
+89,4-*4:;<01
+B:/4-*:9./&<0?:4@*5-/:+.51#
+A/.4:*+.5
+&0?/:4-*:90A/.4:*+.5BC/:5,,
+=4-*+>5,<01#B:/4-*:9./1#
+D5:9E/.901#=4-+<,57"(7F#$%&
+G'(GF#$%&!"#$%&'("#$%&)*+,+-+./01#2.34./0+567"#$%&
+8=4-*+>5,<0&<0?:4@*
+89,4-*489,4-*4:;<0=4-*+>5,<01#
+A/.4:*+.5A/.4:*+.51
+89,4-*4:;<01
+B:/4-*:9./&<0?:4@*5-/:+.51#
+A/.4:*+.5
+&0?/:4-*:90A/.4:*+.5BC/:5,,
+=4-*+>5,<01#B:/4-*:9./1#
+D5:9E/.901#=4-+<,57"(7F#$%&
+'("#$%&)*+,+-+./01#2.34./0+567"#$%&
+8=4-*+>5,<0&<0?:4@*
+89,4-*489,4-*4:;<0=4-*+>5,<01#
+A/.4:*+.5A/.4:*+.51
+89,4-*4:;<01
+B:/4-*:9./&<0?:4@*5-/:+.51#
+A/.4:*+.5
+&0?/:4-*:90A/.4:*+.5BC/:5,,
+=4-*+>5,<01#B:/4-*:9./1#
+D5:9E/.901#=4-+<,57"(7F#$%&
+G'(GF#$%&!"#$%&'("#$%&)*+,+-+./01#2.34./0+5
+8=4-*+>5,<0&<0?:4@*
+89,4-*489,4-*4:;<0=4-*+>5,<01#
+A/.4:*+.5A/.4:*+.51
+89,4-*4:;<01
+B:/4-*:9./&<0?:4@*5-/:+.51#
+A/.4:*+.5
+&0?/:4-*:90A/.4:*+.5BC/:5,,
+=4-*+>5,<01#B:/4-*:9./1#
+D5:9E/.901#=4-+<,57"(7F#$%&
+G'(GF#$%&EPCT appr oaches New GuineaMicrohylids most likely 
+originated on the EPCT or possibly 
+the EPCT+ Accr eted T erranes.
+The souther n Owen Stanley 
+Mountain range (tail of the EPCT), 
+will later er ode to form the 
+Louisades.EPCT docks, and tectonic 
+events enlar ge Accr eted T erranes 
+with small land masses 
+accreting to the mainland.Frogs disperse fr om the EPCT 
+to the Accr eted Terranes and Fold Belt
+Vogelkop docks, Accr eted 
+Terranes continue to enlar ge, 
+Fold Belt uplifts forming the high 
+mountains.
+The tail of the EPCT is partially 
+eroded, forming the Louisiade 
+ArchipelagoFrogs disperse fr om the EPCT to 
+Accreted Terranes and Loisiades, 
+Accreted Terranes to Fold Belt, and Fold 
+Belt to V ogelkop.
+Accreted T erranes are 
+signiﬁcantly lar ger.
+Further er osion of the tail of EPCT , 
+Woodlark Basin Basin opens to separate 
+Woodlark island fr om the Louisiades, 
+D’Entr ecasteaux islands emer geFrogs disperse fr om the EPCT to 
+Accreted Terranes, Accr eted Terranes to  
+Fold Belt, Vogelkop, and Craton (2 instances 
+of long distance dispersal).
+Frogs appear on W oodlark island 
+and the D'Entr ecasteaux Islands.
+New Britain is the closest it has 
+ever been to PNG.On the mainland, continued 
+dispersal and ongoing 
+diversiﬁcation.
+Frogs appear on New Britain (2 
+instances of long distance 
+dispersal), continued dispersal to 
+the D'Entr ecasteaux islands.>20 MY A
+20-15 MY AGeological History Dispersal History
+15-10 MY A
+10-3 MY A
+3-present>20MYA
+20-15 MYA
+15-10 MYA
+10-3 MYA
+<3 MYAPhilippines, Indonesia
+Fig. 6. Narrative of the geological history of the mainland over the last 20MY (Davies, 2012) and its offshore islands (Pigram and Davies, 1987), along
+with dispersal pattern results from this study of Asterophryinae through time.14 Ethan C. Hill, et al.
+situated between Madagascar and Africa, which is home to two
+endemic anuran species but with its volcanic origin has never
+been connected to Madagascar nor Africa (Vences et al., 2003),
+and in this study, with regard to the D‘Entrecasteaux Islands
+and New Britain.
+In the present study, we did not find that frogs dispersed
+in a stepping-stone fashion from nearer to more distant
+islands (the Island Distance model was a very poor fit
+with ∆AIC 118, Table 2), as would be predicted by Island
+Biogeography Theory (MacArthur and Wilson, 1967; Losos and
+Ricklefs, 2009). All source populations are directly from the
+mainland. Furthermore, we see no evidence for community-wide
+vicariance. Communities on islands are generally composed
+of individual representatives of multiple genera and therefore
+species within a community are connected by deep histories
+(Hill et al., 2022), and furthermore, each species is sister to
+taxa from different source populations on the mainland. If there
+were evidence of community-wide vicariance, we would expect
+that models that group archipelagos together such as “e: The
+Louisiade Archipelago” would provide a much better fit.
+On the other hand, if islands were always separated
+requiring rare over-water dispersal, we would expect the “a:
+Current Connectivity” hypothesis to provide a better fit.
+Instead, it provides amongst the worst fit. Intriguingly, it is
+a substantially worse fit than the unconstrained DEC model,
+which makes no assumptions about connectivity and therefore
+implies that all regions are equally connected. The answer that
+emerges from the amalgamation of evidence is that the frogs
+in most cases dispersed over land connections or very narrow
+water gaps, which themselves evolved over time. One possibility
+is that in rare events, frogs may have rafted across on fallen
+trees, which can happen during monsoons or tropical storms.
+Nevertheless, dispersal over narrow water gaps would allow
+arrivals from independent source populations for as long as the
+island was within close proximity, which may change with plate
+tectonic movements.
+The Louisade Archipelago
+These islands are an excellent case in point for diversification
+driven by vicariance via plate tectonic movements, being
+distant offshore islands that are home to over 18 candidate
+species of Asterophryinae (Boulenger, 1890; M´ ehel¨ y, 1901;
+Zweifel, 1963, 1972; Zweifel and Tyler, 1982; Burton, 1986;
+Zweifel, 2000; Richards and Oliver, 2007; Kraus and Allison,
+2009; Kraus, 2016), yet separated by over 200km of saltwater
+barrier from any potential source population. Rather than
+inferring 18 independent dispersals within the last 12 million
+years, an alternative hypothesis is that they may have
+fragmented from the Papuan mainland. If dispersal was to
+a remote oceanic island at fixed distance from the source
+population, we would expect to see a random pattern in
+the timing of dispersal events. Instead, the data show that
+the dispersals, all originating from the EPCT, are highly
+concentrated at ∼12 Ma, followed by a tapering off until ∼4
+Ma, consistent with islands fragmenting off of a mainland
+source (Fig. 5). Geological evidence supports this scenario.
+Petrological samples taken from the Louisiade Archipelago are
+similar in composition to those of the Owen Stanley Range on
+the EPCT indicating a shared geological history between these
+two seemingly distinct landmasses (Pigram and Davies, 1987;
+Davies, 2012; Baldwin et al., 2012).
+In the work of Pigram and Davies (1987) the Louisiade
+Islands are shown as a disjunct sector of the Owen StanleyTerrane, most of which lies in the interior of the Papuan
+Peninsula. In their current form, they represent the partially
+drowned remnants of an old mountain range that ran down the
+middle of what is now the EPCT, and the metasedimentary
+rocks of the Louisiade Archipelago have been correlated
+with those of the Owen Stanley Range (Davies and Smith,
+1971). The protoliths of these metasedimentary rocks are
+Cretaceous volcaniclastic sediments derived from the eastern
+Australian continental margin (Zirakparvar et al., 2013),
+and the metamorphic rocks of the Lousiades have been
+interpreted to represent mid-Cretaceous sediments scraped off
+of a subducting plate and incorporated into an accretionary
+wedge in the fore arc of a southward-migrating Miocene volcanic
+arc over northward dipping subduction. Woodlark Island may
+represent a remnant of the volcanic back-arc associated with
+this system (Webb et al., 2014). These scenarios would imply
+that emergent land masses may have been present in the
+Louisiades sector since at least the Early Miocene.
+Woodlark Island
+This island is currently >200km from the Papuan mainland,
+lying in an isolated position to the northeast, and also
+contains a surprising number of Asterophryinae species, all
+with sister taxa on the EPCT (Fig. 4). Pigram and Davies
+(1987) treated Woodlark as lying on a separate terrane from
+the Louisiades, but noted that it had a basement of Eocene
+age, overlain by Oligocene limestones. Webb et al. (2014)
+suggested that Woodlark Island might represent a remnant of
+the volcanic back-arc associated with the Miocene arc that
+formed the Louisiades, which is consistent with its basement
+of pre-Miocene basalts reported by Ashley and Flood (1981),
+indicating that Woodlark and the Louisiades may have had a
+linked tectonic history. One hypothesis is that Woodlark was
+adjacent to the Louisiade Archipelago (Pigram and Davies,
+1987; Baldwin et al., 2012), prior to the opening up of the
+Woodlark Basin which formed by rifting that initiated in
+the Late Miocene and continues to the present time (Webb
+et al., 2014). This rifting displaced the submarine ridge that
+Woodlark sits on to the northeast, pushing it away from its
+previous proximity to the Louisiades. This geological model is
+consistent with the large number of independent frog dispersals
+to Rossel (currently the most easterly of the Louisiades),
+Sudest and Woodlark Islands, between ∼12–8 Ma, consistent
+with the hypothesized timing of fragmentation among these
+three islands. Thus the initial proximity of Woodlark Island
+to the Louisiades provided opportunities for dispersal and
+differentiation, which tapered off as the oceanic gap widened.
+Misima Island, which is the most westerly of the Louisiades and
+nearest to New Guinea, has a later history of dispersal from the
+EPCT, starting around ∼6 Ma, consistent with a more recent
+separation.
+Southeast Asia
+The historical genus Oreophryne was recently identified as
+two distinct and unrelated genera Oreophryne A which is the
+oldest genus of Asterophryinae, and a younger, unrelated clade
+Oreophryne B (Hill et al., 2022). We have four Oreophryne
+samples from this region, two species in Oreophryne A from
+the Philippines which are sister to species on the Accreted
+Terranes, and two species in Oreophryne B from Sulawesi
+which are sister to species on the EPCT. McGuire et al.
+(2023) has proposed overwater dispersal to Sulawesi in flying
+lizards. While we cannot rule out overwater dispersal for frogs,Movement of frogs or movement of land? 15
+dispersal to Sulawesi could be facilitated by westward-motion
+along the Pacific plate boundary, where accommodation of
+convergence has sheared fragments from northern New Guinea
+and sent them westward towards the Sulawesi region (Hamilton,
+1979; Polhemus, 2007) along a series of left-lateral fault
+zones. These cases suggest an out-of-PNG to the Sunda Arc
+dispersal route hypothesis. Recently, several additional genera
+of Asterophryinae from Southeast Asia have been described:
+Siamophryne, Gastrophrynoides , and Vietnamophryne and
+were found to be basal sisters of the Papuan Asterophryinae
+(Poyarkov et al., 2018; Suwannapoom et al., 2018). This
+was interpreted as evidence for a “down-from-Southeast-Asia”
+pattern of dispersal (Tyler, 1979). More sampling of species as
+well as inclusion of nuclear genes in phylogenetic analyses is
+required to resolve the structure of the Southeast Asian clades
+in relation to the Papuan clades and to determine whether
+such faunal disjunction might be linked to much earlier tectonic
+events.
+Limited over water dispersal
+Several islands contain Asterophryinae species but have
+never been connected to the New Guinea mainland, and as
+such must have been colonized by over-water dispersal. These
+include the D’Entrecasteaux Islands and New Britain in the
+Bismarck Archipelago. Asterophryines are absent from the
+other islands in the Bismarck Archipelago, viz. New Ireland,
+New Hanover and Manus islands.
+The D’Entrecasteaux Islands
+The D’Entrecasteaux group of islands lies close to the
+Papuan Peninsula of New Guinea (40km from the EPCT,
+Table 1), and contains an exceptional diversity of 18 candidate
+species on Normanby Island, with more modest assemblages
+on Fergusson and fewer yet on Goodenough. We note that
+we lack genetic samples from Goodenough, but we know
+the environment is a bit more xeric and less suitable for
+frogs. Asterophryinae dispersal to the D’Entrecasteaux Islands
+began ∼8–5 Ma and continues to the present (Figure 5).
+These islands are an emergent metamorphic core complex,
+consisting of gneiss and amphibolite domes with granodiorite
+cores (Pigram and Davies, 1987), and with the potential
+exception of part of Normanby, were never connected to the
+mainland. They are not volcanic features, but instead seem
+to represent incipiently subducted continental crust that has
+rebounded back up through the zone of weakness at the west
+end of the Woodlark Rift (Baldwin et al., 2008; Wallace et al.,
+2014). They are also relatively new islands, of Pliocene age or
+later (Abers et al., 2002), and are still rising and enlarging. So
+unlike the Louisiades, which are old islands that are becoming
+progressively smaller, the D’Entrecasteaux group consists of
+young islands that are becoming progressively larger. As such,
+they are a very recent colonization target that has required
+overwater dispersal to reach.
+Goodenough and Fergusson Islands are internally cohesive
+emergent metamorphic units, while Normanby Island has a
+more complicated and potentially composite history. The island
+is divided by a right-lateral strike-slip fault (Wallace et al.,
+2014). The narrower western section of Normanby, to the north
+of this fault, is of similar composition and origin to Goodenough
+and Fergusson Islands, while the larger, furrowed eastern
+section is a separate lithological unit that is more allied to parts
+of the Owen Stanley uplift in the central Papuan Peninsula
+(Baldwin et al., 2012). Thus, the section of Normanby whereour samples were collected, with a surprising species richness
+(18 candidate species), may be of separate origin more closely
+linked to the EPCT, possibly representing a younger version of
+the situation in the Louisiades. The different tectonic histories
+of Normanby versus Fergusson and Goodenough help to explain
+the species diversity disparities, while providing evidence that
+overwater dispersal can occur when sufficiently short distances
+are involved.
+New Britain Island
+Currently there are only two species of Asterophryinae
+known to be present on New Britain, Austrochaperina A
+novaebritanniae whose sister taxon is from the Accreted
+Terranes, and Oreophryne A brachypus with a sister taxon
+on the EPCT. These are clearly two independent dispersal
+events within the past 3 Ma. Given that New Britain
+is the largest offshore island and also among the closest
+(Table 1), the question should be why isn‘t it home to
+more species? One hypothesis is that the genus Cornufer
+of the family Certatobatrachidae likely arrived first to New
+Britain and has radiated extensively (Brown et al., 2015),
+possibly excluding microhylids. Another possibility is dispersal
+limitation. Considering that New Britain is on a collision
+course with the Papuan mainland, and currently lies as close
+as it ever has to New Guinea (Kroenke et al., 1984; Pigram
+and Davies, 1987; Polhemus and Polhemus, 1998; Quarles van
+Ufford and Cloos, 2005; Baldwin et al., 2012; Davies, 2012). In
+this case, overwater dispersal is the only mechanism available
+to frogs, and the distance of ∼80km may represent an overwater
+dispersal limit. The low number of asterophryne species despite
+its large land area makes sense in this context, but this situation
+certainly merits further study.
+A Comment About Model Based Approaches to
+Biogeography
+We employed a phylogenetic model-based approach to
+explore hypotheses about historical biogeography. That is,
+we constructed a series of models that approximate our
+hypothetical phenomena (i.e., distance, various geological
+scenarios), and allowed them to compete for the best
+explanation of the data. Luckily, despite the complexity of
+hypotheses involving partial areas, it appears that our model
+fits are additive such that for example – the addition of
+Woodlark Island to the Louisiade Archipelago produces the
+same improvement of fit regardless of the assumptions of other
+parts of the model. We caution that this need not be the
+case, and care must be taken in making such assessments.
+Nevertheless, the gains for biology in rigorous interrogation of
+models are tremendous. By comparing models head to head, we
+could clearly identify which ideas were supported by data, and
+which were not.
+It has been noted by Ree and Sanmart´ ın (2018) that
+many studies do not exploit the power of model specification
+flexibility afforded by the DEC class models. Rather,
+most studies limit the comparison to major classes of
+models (i.e., DEC, DEC+J, DIVA), but do not vary the
+model to approximate the actual phenomena of interest,
+leaving conclusions to interpretation of the ancestral range
+reconstructions. Interpretation of model results is, of course,
+very important, but we agree that the most commonly used
+strategy represents a missed opportunity to use the power
+of statistical model-comparison approaches to drill down into
+the exploration of the data. We can use a hypothesis-driven16 Ethan C. Hill, et al.
+phylogenetic approach to differentiate between customized
+hypotheses to test specific biological or geological phenomena.
+Conclusions
+We find using an explicit model-based approach reveals
+clear signals in the data with very strong support for each
+of these model additions: the pairwise connections of the
+mainland, and the affiliation of the Louisiades+Woodlark with
+the EPCT, as well as the D’Entrecasteux Islands. Together with
+the interpretation of the ancestral range reconstructions and
+their coincidence in timing with geological events, they support
+the “Slow and Steady” geological hypothesis for the formation
+of the region (Pigram and Davies, 1987; Davies et al., 1996;
+Polhemus and Polhemus, 1998; Quarles van Ufford and Cloos,
+2005; Davies, 2012), with the EPCT as the center of origin and
+source for ongoing diversification. In a group with impossibly
+complex distribution yet with poor dispersal ability to islands
+with no current connection to mainland, we need not accept
+wild dispersal scenarios. We can rigorously test geological ideas
+to find a strongly supported biogeographical model involving
+dispersal over land connections (in multiple varieties of joining
+and fragmenting) or over narrow water gaps to explain the
+convoluted dispersal pathways and exuberant diversity of the
+Asterophryinae.
+Importantly, we find important consequences for biodiversity
+in the fact that the earth’s surface is not fixed but itself evolves.
+Not only can land area change over time, sometimes increasing
+by volcanism or shrinking through erosion, but the distances
+between land masses can evolve as well, changing the degree of
+isolation through time and providing another axis upon which
+geological evolution can alter the dynamics of biotic evolution.
+Acknowledgements
+This study was made possible by a grant from the National
+Science Foundation awarded to MB (DEB-1145733), and also
+draws upon the results of previous NSF grants awarded to
+AA (DEB-0103794, DEB-0743890) and DP (BSR 9020442,
+DEB-952-8025). We are very grateful to Sabin Zahirovic for
+his expert guidance on the early geological history of New
+Guinea and the southwest Pacific region. We thank Jonathan
+Losos, David Blackburn, Jim McGuire, Allison Fisher, and two
+anonymous reviewers for constructive comments that greatly
+improved the manuscript. Julio Rivera, Jeff Scales, Nalani
+Kito-Ho, Niegel Rozet, Jeff Higa, Raine Higa, Isabella Forster,
+Oliver Tallowin, Alex Slavenko, Michael McCoy, and Jimmy
+Anamiato provided generous logistical and field assistance. We
+are grateful to the field assistance from many local residents:
+at Maru Ruama, Mt. Gerebu: Peter Joseph, Dambio Moi,
+Walter Moi, David Peter, and Laiwoi Yoiini; at Cliffside Camp,
+Kamiali: Maties Dagam, David Enoch, Lenny Keputong, and
+Marcus Symon; at Normanby Island: Clement Bobby, Fred
+Francisco, Kenny Lakson, Waiyaki Nemani, James Waraia, and
+Roland Waraia, and Misima Island: Simon Emidi and Kelly
+Nabwakulea. We thank Normanby Mining PNG, LTD for land
+access and accommodation. We thank Georgia Kaipu of the
+PNG National Research Institute, and James Sabi, the late
+Barnabus Wilmont, and Nicho Gowep of the PNG Conservation
+and Environmental Protection Authority for assistance with
+research permits and necessary visas, and Andrew Moutu, the
+Director of the PNG National Museum and Art Gallery, for
+the use of facilities. We gratefully acknowledge the technicalsupport and advanced computing resources from University of
+Hawaii Information Technology Services – Cyberinfrastructure,
+funded in part by an NSF MRI award (CNS-1920304). This is
+contribution 187 from the School of Life Sciences (University
+of Hawaii at M¯ anoa), and 2023-002 to the Pacific Biological
+Survey (Bishop Museum).
+Conflict of Interests
+The authors declare no conflicts of interest.
+Supplementary Material
+Data available from the Digital Repository:
+References
+Abers, G. A.; Ferris, A.; Craig, M.; Davies, H.; Lerner-
+Lam, A. L.; Mutter, J. C.; and Taylor, B. 2002: Mantle
+compensation of active metamorphic core complexes at
+Woodlark rift in Papua New Guinea. Nature (London)
+418(6900):862–865.
+Allison, A. 2009: New Guinea, Biology. Encyclopedia of islands,
+(edited by R. G. Gillespie and D. Clague), pages 652–658.
+University of California Press.
+AmphibiaWeb. 2020: AmphibiaWeb: Information on amphibian
+biology and conservation.
+Ashley, P. M. and Flood, R. H. 1981: Low-K tholeiites and high-
+K igneous rocks from Woodlark Island, Papua New Guinea.
+Journal of the Geological Society of Australia 28(1-2):227–
+240.
+Baldwin, S. L.; Fitzgerald, P. G.; and Webb, L. E. 2012:
+Tectonics of the New Guinea Region. Annual Review of Earth
+and Planetary Sciences 40:495–520.
+Baldwin, S. L.; Webb, L. E.; and Monteleone, B. D. 2008:
+Late Miocene coesite-eclogite exhumed in the Woodlark Rift.
+Geology 36(9):735–738.
+Boer, A. and Duffels, J. 1996: Historical biogeography of the
+cicadas of Wallacea, New Guinea and the West Pacific: A
+geotectonic explanation. Palaeogeography Palaeoclimatology
+Palaeoecology 124(1-2):153–177.
+Boulenger, G. A. 1890: List of the reptiles, batrachians, and
+freshwater fishes collected by Professor Moesch and Mr.
+Iversen in the district of Deli, Sumatria. Proceedings of the
+Zoological Society of London pages 30–39.
+Brooks, T. M.; Mittermeier, R. A.; da Fonseca, G. A. B.;
+Gerlach, J.; Hoffmann, M.; Lamoreux, J. F.; Mittermeier,
+C. G.; Pilgrim, J. D.; and Rodrigues, A. S. L. 2006: Global
+biodiversity conservation priorities. Science 313(5783):58–61.
+Brown, J. H. and Lomolino, M. V. 1998: Biogeography. Sinauer
+Associates, Sunderland, Mass, 2nd ed. edition.
+Brown, R. M.; Siler, C. D.; Richards, S. J.; Diesmos, A. C.;
+and Cannatella, D. C. 2015: Multilocus phylogeny and a
+new classification for Southeast Asian and Melanesian forest
+frogs (family Ceratobatrachidae). Zoological Journal of the
+Linnean Society 174(1):130–168.
+Burnham, K. P. and Anderson, D. R. 2002: Model selection
+and multimodel inference: A practical information-theoretic
+approach. Springer-Verlag, second edition.Movement of frogs or movement of land? 17
+Mwatebu, Normanby Island
+Marmar, New Britain IslandKamiali, Bowutu Mountains, EPCT
+Cophixalus linneaus
+Cophixalus cheesmanae11 My
+Cophixalus variabilis complex sp.1
+Cophixalus verrucosus complex sp.110 My
+Cophixalus albolineatus10 My
+Cophixalus desticans complex sp.1
+Bomagai,Woodlark Island
+Barygenys atraBarygenys apodasta11 My
+Callulops personatus
+Oreophryne A cf. geiselorum 29 My
+Oreophryne A brachypus6.5 My
+Callulops doriae complex sp.1
+Oreophryne A sp. 8
+(a)18 Ethan C. Hill, et al.
+Mwatebu, Normanby IslandKamiali, Bowutu Mountains, EPCTKamiali, Bowutu Mountains, EPCT
+Woodlark Island
+Mantophryne cf. lateralis 5
+Hylophorbus cf. rufescens 5
+Genyophryne aﬀ. thomsoni.3
+Mantophryne cf. lateralis 1
+Hylophorbus cf. rufescens 1
+Genyophryne aﬀ. thomsoni.18 My6 My
+3.5 My
+Hylophorbus myopicusBomagai,
+Genyophryne aﬀ. thomsoni (not in tree)6 My
+8 My
+Paedophryne swiftorum complex sp.1
+Paedophryne sp. 1Maru Ruama, Mt. Gerebu, EPCT6.5 My
+(b)
+Fig. 7. Examples of asterophryine frog species groups which illustrate the range transition across the EPCT to the offshore islands with subsequent
+speciation. Species names are provided below each plate, with the site across the tops of the columns of plates, and time to the most recent common
+ancestor on the left of each row of plates. Hylophorbus myopicus of Woodlark Island, however, is separated by 8 My from Hylophorbus of Kamiali,
+EPCT and Normanby Island. Photo credits: Normanby Island and Maru Ruama, EPCT frogs were provided by M. Butler, whereas Kamiali, EPCT,
+Woodlark Island, and New Britain Island photos were provided by A. Allison. Please note that these are photos from sites visited by the authors and
+not necessarily the closest sister taxon pairs.
+Burton, T. C. 1986: A reassessment of the Papuan subfamily
+Asterophryinae (Anura: Microhylidae). Records of the South
+Australian Museum 19:405–450.
+Cozzarolo, C.-S.; Balke, M.; Buerki, S.; Arrigo, N.; Pitteloud,
+C.; Gueuning, M.; Salamin, N.; Sartori, M.; and Alvarez, N.
+2019: Biogeography and ecological diversification of a mayfly
+clade in New Guinea. Frontiers In Ecology and Evolution 7.
+Crowhurst, P. V.; Hill, K. C.; Foster, D. A.; and Bennett,
+A. P. 1996: Thermochronological and geochemical constraints
+on the tectonic evolution of northern Papua New Guinea.
+Geological Society special publication 106(1):525–537.Davies, H.; Perembo, R.; Winn, R.; and KenGemar, P. 1997:
+Terranes of the New Guinea orogen. Proceedings of the
+Geology Exploration and Mining Conference, (edited by
+G. Hancock), pages 61–66. Madang. Australasian Institute
+of Mining and Metallurgy, Melbourne.
+Davies, H. and Smith, I. 1971: Geology of eastern Papua.
+Geological Society of America Bulletin 82:3299–3312.
+Davies, H.; Winn, R.; and KenGemar, P. 1996: Evolution of
+the Papuan Basin - a view from the orogen. Petroleum
+exploration, development and production in Papua New
+Guinea, (edited by P. Buchanan), pages 53–62. PNG
+Chamber of Mines and Petroleum, Port Moresby, Papua NewMovement of frogs or movement of land? 19
+Guinea.
+Davies, H. L. 2012: The geology of New Guinea - the cordilleran
+margin of the Australian continent. Episodes 35(1, SI):87–
+102.
+Davies, H. L. and Warren, R. G. 1988: Origin of eclogite-
+bearing, domed, layered metamorphic complexes (“core
+complexes”) in the D’entrecasteaux Islands, Papua New
+Guinea. Tectonics 7(1):1–21.
+de Sa, R. O.; Streicher, J. W.; Sekonyela, R.; Forlani, M. C.;
+Loader, S. P.; Greenbaum, E.; Richards, S.; and Haddad, C.
+F. B. 2012: Molecular phylogeny of microhylid frogs (Anura:
+Microhylidae) with emphasis on relationships among New
+World genera. BMC Evolutionary Biology 12.
+Dow, D. B. 1972: Geology of the South Sepik Region, New
+Guinea. Bulletin / Dept. of National Development, Bureau of
+Mineral Resources, Geology and Geophysics ; 133. Australian
+Govt. Pub. Service, Canberra.
+———. 1977: A geological synthesis of Papua New Guinea.
+Bulletin - Bureau of Mineral Resources, Geology and
+Geophysics ; 201. Australian Govt. Publishing Service,
+Canberra.
+Duellman, W. and Trueb, L. 1994: Biology of Amphibians.
+Johns Hopkins paperback. Johns Hopkins University Press.
+Duffels, J. P. 1983: Taxonomy, phylogeny, and biogeography
+of the genus Cosmopsaltria : with remarks on the
+historic biogeography of the subtribe Cosmopsaltriaria
+(Homoptera:Cicadidae). Pacific Insects Monograph ; 39.
+Bishop Museum Press, Dept. of Entomology, Bishop
+Museum, Honolulu, Hawaii, USA.
+Feng, Y.-J.; Blackburn, D. C.; Liang, D.; Hillis, D. M.; Wake,
+D. B.; Cannatell, D. C.; and Zhang, P. 2017: Phylogenomics
+reveals rapid, simultaneous diversification of three major
+clades of Gondwanan frogs at the Cretaceous-Paleogene
+boundary. Proceedings of the National Academy of Sciences
+of the United States of America 114(29):E5864–E5870.
+Frost, D. R.; Grant, T.; Faivovich, J.; Bain, R. H.; Haas, A.;
+Haddad, C. F. B.; De Sa, R. O.; Channing, A.; Wilkinson,
+M.; Donnellan, S. C.; Raxworthy, C. J.; Campbell, J. A.;
+Blotto, B. L.; Moler, P.; Drewes, R. C.; Nussbaum, R. A.;
+Lynch, J. D.; Green, D. M.; and Wheeler, W. C. 2006: The
+amphibian tree of life. Bulletin of the American Museum of
+Natural History 297:8–370.
+Georges, A.; Zhang, X.; Unmack, P.; Reid, B. N.; Le, M.;
+and McCord, W. P. 2014: Contemporary genetic structure
+of an endemic freshwater turtle reflects Miocene orogenesis
+of New Guinea. Biological Journal of the Linnean Society
+111(1):192–208.
+Gordon, M. S.; Schmidt-Nielsen, K.; and Kelly, H. M. 1961:
+Osmotic regulation in the crab-eating frog (Rana cancrivora).
+Journal of Experimental Biology 38(3):659–678.
+Gressitt, J. L. (editor). 1982: Biogeography and Ecology of New
+Guinea. Springer Netherlands, Dordrecht.
+Hall, R. 1998: The plate tectonics of Cenozoic SE Asia and the
+distribution of land and sea. Biogeography and Geological
+Evolution of SE Asia, (edited by R. Hall and J. Holloway),
+pages 99–131. Backhuys Publishers, Leiden, Netherlands.
+———. 2002: Cenozoic geological and plate tectonic
+evolution of SE Asia and the SW Pacific: computer-based
+reconstructions, model and animations. Journal of Asian
+Earth Sciences 20(4):353–431.
+Hamilton, W. B. 1979: Tectonics of the Indonesian region. U.s.
+geological survey professional paper 1078, US Department of
+the Interior.Hazzi, N. A.; Moreno, J. S.; Ortiz-Movliav, C.; and Palacio,
+R. D. 2018: Biogeographic regions and events of isolation and
+diversification of the endemic biota of the tropical Andes.
+Proceedings of the National Academy of Sciences of the
+United States of America 115(31):7985–7990.
+Hill, E.; Baldwin, S. L.; and Lister, G. 1992: Unroofing of active
+metamorphic core complexes in the D’Entrecasteaux Islands,
+Papua New Guinea. Geology 20(10):907–910.
+Hill, E. C.; Fraser, C. J.; Gao, D. F.; Jarman, M. J.; Henry,
+E. R.; Iova, B.; Allison, A.; and Butler, M. A. 2022:
+Resolving the deep phylogeny: Implications for early adaptive
+radiation, cryptic, and present-day ecological diversity of
+Papuan microhylid frogs. Molecular Phylogenetics and
+Evolution 177:107618.
+Hill, E. C.; Jarman, M. J.; Fraser, C. J.; Gao, D. F.; Henry,
+E. R.; Fisher, A. R.; Iova, B.; Allison, A.; and Butler,
+M. A. 2023: Molecular and phylogenetic datasets for the
+Asterophryinae frogs of New Guinea with additional data on
+lifestyle, geography, and elevation. Data in Brief 47:108987.
+Holm, R. J.; Tapster, S.; Jelsma, H. A.; Rosenbaum, G.;
+and Mark, D. F. 2019: Tectonic evolution and copper-
+gold metallogenesis of the Papua New Guinea and Solomon
+Islands region. Ore Geology Reviews 104:208–226.
+Hopkins, G. R.; French, S. S.; and Brodie, E. D.
+2012: Potential for local adaptation in response to an
+anthropogenic agent of selection: Effects of road deicing
+salts on amphibian embryonic survival and development.
+Evolutionary Applications 6(2):384–392.
+IUCN. 2022: Asterophryinae (spatial data). The IUCN Red List
+of Threatened Species. Version 2022-2. International Union
+for Conservation of Nature .
+Jonsson, K. A.; Fabre, P.-H.; Ricklefs, R. E.; and Fjeldsa, J.
+2011: Major global radiation of corvoid birds originated in
+the proto-Papuan archipelago. Proceedings of the National
+Academy of Sciences of the United States of America
+108(6):2328–2333.
+Kalkman, V. J.; Dijkstra, K.-D. B.; Dow, R. A.; Stokvis,
+F. R.; and van Tol, J. 2018: Out of Australia: the
+Argiolestidae reveal the Melanesian Arc System and East
+Papua Composite Terrane as possible ancient dispersal routes
+to the Indo-Australian Archipelago (Odonata: Argiolestidae).
+International Journal of Odonatology 21(1):1–14.
+Klootwijk, C.; Giddings, J.; Pigram, C.; Loxton, C.; Davies,
+H.; Rogerson, R.; and Falvey, D. 2003: North Sepik region
+of Papua New Guinea: palaeomagnetic constraints on arc
+accretion and deformation. Tectonophysics 362(1-4):273–301.
+K¨ ohler, F. and G¨ unther, R. 2008: The radiation of microhylid
+frogs (Amphibia: Anura) on New Guinea: A mitochondrial
+phylogeny reveals parallel evolution of morphological and
+life history traits and disproves the current morphology-
+based classification. Molecular Phylogenetics and Evolution
+47(1):353–365.
+Kraus, F. 2016: Ten new species of Oreophryne (Anura,
+Microhylidae) from Papua New Guinea. Zootaxa 4195(1):1–
+68.
+———. 2021: A herpetofauna with dramatic endemism signals
+an overlooked biodiversity hotspot. Biodiversity and
+Conservation 30(11):3167–3183.
+Kraus, F. and Allison, A. 2009: A Remarkable Ontogenetic
+Change in Color Pattern in a New Species of Oreophryne
+(Anura: Microhylidae) from Papua New Guinea. Copeia
+2009(4):690–697.
+Kroenke, L. 1996: Plate tectonic development of the western
+and southwestern Pacific Mesozoic to the present. The origin20 Ethan C. Hill, et al.
+and evolution of Pacific island biotas, New Guinea to eastern
+Polynesia: patterns and processes, (edited by A. Keast
+and S. MIller), pages 19–34. SPB Academic Publishing,
+Amsterdam.
+Kroenke, L. W.; Rodda, P.; and Nations., U. 1984: Cenozoic
+tectonic development of the Southwest Pacific / by Loren
+W. Kroenke ; with a contribution by Peter Rodda.
+CCOP/SOPAC [Suva, Fiji].
+Li, F. and Li, S. 2018: Paleocene-Eocene and Plio-Pleistocene
+sea-level changes as “species pumps” in Southeast Asia:
+Evidence from Althepus spiders. Molecular Phylogenetics
+and Evolution 127:545–555.
+Losos, J. B. and Ricklefs, R. E. 2009: Adaptation and
+diversification on islands. Nature 457(7231):830–836.
+Lyon, D. A. 1991: Island Directory. UNEP Regional Seas
+Directories and Bibliographies No. 35 .
+MacArthur, R. and Wilson, E. 1967: The theory of island
+biogeography. Princeton University Press, Princeton, NJ.
+Matzke, N. J. 2014: Model selection in historical biogeography
+reveals that founder-event speciation is a crucial process in
+island clades. Systematic Biology 63(6):951–970.
+McGuire, J. A.; Huang, X.; Reilly, S. B.; Iskandar, D. T.;
+Wang-Claypool, C.; Werning, S.; Chong, R. A.; Lawalata,
+S. Z. S.; Stubbs, A. L.; Frederick, J. H.; Brown, R. M.;
+Evans, B. J.; Arifin, U.; Riyanto, A.; Hamidy, A.;
+Arida, E.; Koo, M. S.; Supriatna, J.; Andayani, N.; and
+Hall, R. 2023: Species Delimitation, Phylogenomics, and
+Biogeography of Sulawesi Flying Lizards: A Diversification
+History Complicated by Ancient Hybridization, Cryptic
+Species, and Arrested Speciation. Systematic Biology
+Syad020.
+M´ ehel¨ y, L. v. 1901: Beitr¨ age zur Kenntniss der Engystomatiden
+von Neu-Guinea. Term´ eszetrajzi F¨ uzetek 24:169–271.
+Pellissier, L.; Heine, C.; Rosauer, D. F.; and Albouy, C.
+2018: Are global hotspots of endemic richness shaped by
+plate tectonics? Biological Journal of the Linnean Society
+123(1):247–261.
+Peloso, P. L. V.; Frost, D. R.; Richards, S. J.; Rodrigues, M. T.;
+Donnellan, S.; Matsui, M.; Raxworthy, C. J.; Biju, S. D.;
+Lemmon, E. M.; Lemmon, A. R.; and Wheeler, W. C. 2016:
+The impact of anchored phylogenomics and taxon sampling
+on phylogenetic inference in narrow-mouthed frogs (Anura,
+Microhylidae). Cladistics 32(2):113–140.
+Pieters, P. E. 1978: Port Moresby-Kalo-Aroa, Papua New
+Guinea, 1:250,000 Geological Series. Explanatory Notes
+SC/55-6, 7, 11, Bureau of Mineral Resources, Australia.
+Pigram, C. and Davies, H. L. 1987: Terranes and the accretion
+history of the Papua New Guinea orogen. BMR Journal of
+Australian Geololgy and Geophysics 10:193–211.
+Pigram, C. and Symond, P. 1991: A review of the timing of the
+major tectonic events in the New Guinea Orogen. Southeast
+Asian Earth Sciences 6:307–318.
+Polhemus, D. A. 1996: Island arcs, and their influence on Indo-
+Pacific bio- geography. The origin and evolution of Pacific
+island biotas, New Guinea to eastern Polynesia: patterns and
+processes, pages 51–66. SPB Academic Publishing.
+———. 2007: Tectonic Geology of Papua. The ecology of
+Indonesian Papua Part one, (edited by A. J. Marshall and
+B. M. Beehler), Ecology of Indonesia series ; v. 6, pages
+137–164. Periplus Editions HK, Singapore, 1st ed. edition.
+Polhemus, D. A. and Polhemus, J. T. 1998: Assembling
+New Guinea: 40 million years of island arc accretion
+as indicated by the distributions of aquatic Heteroptera
+(Insecta). Biogeography and geological evolution of SEAsia, (edited by R. Hall and J. Holloway), pages 327–340.
+Backhuys, Leiden.
+———. 2004: Two new genera and thirty new species of
+Microveliinae (Heteroptera: Veliidae) from the East Papua
+Composite Terrane, far eastern New Guinea. Tijdschrift voor
+Entomologie 147(2):113 – 189.
+Poyarkov, N. A., Jr; Suwannapoom, C.; Pawangkhanant,
+P.; Aksornneam, A.; Duong, T. V.; Korost, D. V.; and
+Che, J. 2018: A new genus and three new species of
+miniaturized microhylid frogs from Indochina (Amphibia:
+Anura: Microhylidae: Asterophryinae). Zoological Research
+39(3):130–157.
+Quarles van Ufford, A. and Cloos, M. 2005: Cenozoic tectonics
+of New Guinea. AAPG Bulletin 89(1):119–140.
+Ree, R.; Moore, B.; Webb, C.; and Donoghue, M. 2005: A
+likelihood framework for inferring the evolution of geographic
+range on phylogenetic trees. Evolution 59(11):2299–2311.
+Ree, R. H. and Sanmart´ ın, I. 2018: Conceptual and statistical
+problems with the DEC+J model of founder-event speciation
+and its comparison with DEC via model selection. Journal
+of Biogeography 45(4):741–749.
+Ree, R. H. and Smith, S. A. 2008: Maximum likelihood
+inference of geographic range evolution by dispersal, local
+extinction, and cladogenesis. Systematic Biology 57(1):4–14.
+Richards, S. J. and Oliver, P. M. 2007: A New Species
+of Cophixalus (Anura: Microhylidae) from Misima Island,
+Papua New Guinea. Pacific Science 61(2):279–287.
+Rivera, J. A.; Kraus, F.; Allison, A.; and Butler, M. A. 2017:
+Molecular phylogenetics and dating of the problematic New
+Guinea microhylid frogs (Amphibia: Anura) reveals elevated
+speciation rates and need for taxonomic reclassification. Mol
+Phylogenet Evol 112:1–11.
+Savage, J. 1973: The geographic distribution of frogs: patterns
+and predictions. Univ. Missouri Press, Columbia.
+Seymour, R. S. 1994: Oxygen diffusion through the jelly
+capsules of amphibian eggs. Israel Journal of Zoology
+40(3-4):493–506.
+Suwannapoom, C.; Sumontha, M.; Tunprasert, J.;
+Ruangsuwan, T.; Pawangkhanant, P.; Korost, D. V.;
+and Poyarkov, N. A. 2018: A striking new genus and species
+of cave-dwelling frog (Amphibia: Anura: Microhylidae:
+Asterophryinae) from Thailand. PeerJ 6:e4422.
+Toussaint, E. F. A.; Hall, R.; Monaghan, M. T.; Sagata, K.;
+Ibalim, S.; Shaverdo, H. V.; Vogler, A. P.; Pons, J.; and
+Balke, M. 2014: The towering orogeny of New Guinea as a
+trigger for arthropod megadiversity. Nature Communications
+5.
+Tu, N.; Yang, M.; Liang, D.; and Zhang, P. 2018: A large-
+scale phylogeny of Microhylidae inferred from a combined
+dataset of 121 genes and 427 taxa. Molecular Phylogenetics
+and Evolution 126:85–91.
+Tyler, M. 1979: Herpetofaunal relations of South America
+with Australia. The South American Herpetofauna: Its
+Origin, Evolution, and Dispersal, (edited by W. Duellman),
+Monograph of the Museum of Natural History, the University
+of Kansas. Museum of Natural History, University of Kansas.
+Van Bocxlaer, I.; Roelants, K.; Biju, S. D.; Nagaraju, J.; and
+Bossuyt, F. 2006: Late Cretaceous Vicariance in Gondwanan
+Amphibians. PLOS ONE 1(1):e74.
+van der Meijden, A.; Vences, M.; Hoegg, S.; Boistel,
+R.; Channing, A.; and Meyer, A. 2007: Nuclear gene
+phylogeny of narrow-mouthed toads (Family : Microhylidae)
+and a discussion of competing hypotheses concerning their
+biogeographical origins. Molecular Phylogenetics andMovement of frogs or movement of land? 21
+Evolution 44(3):1017–1030.
+van der Meijden, A.; Vences, M.; Hoegg, S.; Boistel,
+R.; Channing, A.; and Meyer, A. 2007: Nuclear gene
+phylogeny of narrow-mouthed toads (Family: Microhylidae)
+and a discussion of competing hypotheses concerning their
+biogeographical origins. Molecular Phylogenetics and
+Evolution 44(3):1017–1030.
+Vences, M.; Vieites, D. R.; Glaw, F.; Brinkmann, H.; Kosuch,
+J.; Veith, M.; and Meyer, A. 2003: Multiple overseas dispersal
+in amphibians. Proceedings of the Royal Society of London.
+Series B: Biological Sciences 270(1532):2435–2442.
+Wallace, A. R. 1876: The geographical distribution of animals.
+With a study of the relations of living and extinct faunas as
+elucidating the past changes of the earth’s surface. Hafner
+Pub. Co., New York, reprinted 1962 edition.
+Wallace, L. M.; Ellis, S.; Little, T.; Tregoning, P.; Palmer,
+N.; Rosa, R.; Stanaway, R.; Oa, J.; Nidkombu, E.;
+and Kwazi, J. 2014: Continental breakup and UHP rock
+exhumation in action: GPS results from the Woodlark Rift,
+Papua New Guinea. Geochemistry, Geophysics, Geosystems
+15(11):4267–4290.
+Webb, L. E.; Baldwin, S. L.; and Fitzgerald, P. G. 2014:
+The Early-Middle Miocene subduction complex of the
+Louisiade Archipelago, southern margin of the Woodlark
+Rift. Geochemistry, Geophysics, Geosystems 15(10):4024–
+4046.
+Yu, G.; Smith, D.; Zhu, H.; Guan, Y.; and Lam, T. T.-Y.
+2017: ggtree: an R package for visualization and annotation of
+phylogenetic trees with their covariates and other associated
+data. Methods in Ecology and Evolution 8(1):28–36.
+Zirakparvar, N.; Baldwin, S.; and Vervoort, J. 2013: The origin
+and geochemical evolution of the Woodlark Rift of Papua
+New Guinea. Gondwana Research 23(3):931–943.
+Zweifel, R. G. 1963: Results of the Archbold Expeditions.
+No.84. New microhylid frogs (Baragenys and Cophixalis)
+from the Louisiade Archipelago, New Guinea. American
+Museum Novitates 2141:1–10.
+———. 1972: A Revision of the Frogs of the Subfamily
+Asterophryinae, Family Microhylidae. American Museum of
+Natural History.
+———. 2000: Partition of the Australopapuan Microhylid
+frog genus Sphenophryne with descriptions of new species.
+Bulletin of the American Museum of Natural History pages
+1–130.
+Zweifel, R. G. and Tyler, M. J. 1982: Amphibia of New Guinea.
+Biogeography and Ecology of New Guinea, (edited by J. L.
+Gressitt), pages 759–801. Springer Netherlands, Dordrecht.
