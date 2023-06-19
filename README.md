@@ -4,10 +4,20 @@ To use this tool you must set up the following environment and install the requi
 ```
 git clone https://github.com/ehill-iolani/chromadb-claude.git
 python3 -m venv env
-# For Windows:
+```
+
+To activate the environment in Windows:
+```
 .\env\Scripts\activate
-# For Mac/Linux:
+```
+
+To activate the environment in Mac/Linux:
+```
 source env/bin/activate
+```
+
+Now that the environment is activate you can now install the required dependencies:
+```
 pip install -r requirements.txt
 ```
 
