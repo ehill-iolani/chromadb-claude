@@ -1,5 +1,7 @@
 # Testing chromadb + claude
 
+NOTE: I have included some of my papers about microhylid frog biogeography for testing so feel free to ask it questions about that as that is the information that it will be using in its persistent memory.
+
 Please use either the native terminal/command line to run the commands.
 
 To use this tool you must set up the following environment and install the required dependencies. Navigate to where you would like to clone the repostiory and input the following commands:
