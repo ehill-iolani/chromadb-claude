@@ -82,7 +82,7 @@ def main():
 
     literature = ""
     # Open the file in 'read' mode
-    with open('./text/IOB_Hill_etal_2023.txt', encoding='utf-8') as file:
+    with open('./text/database.txt', encoding='utf-8') as file:
         # Read the contents of the file into the patch_notes variable
         literature = file.read()
 
