@@ -18,3 +18,13 @@ for file in dir_list:
             for page in reader.pages:
                 text = page.extract_text()
                 f.write(text)
+
+# concatenate all text files into one
+ptxt = "./text/"
+dir_list = os.listdir(ptxt)
+
+with open('./text/database.txt', 'w', encoding='utf-8') as f:
+    for file in dir_list:
+        if file.endswith(".txt"):
+            with open(ptxt+file, 'r', encoding='utf-8') as f2:
+                f.write(f2.read())
