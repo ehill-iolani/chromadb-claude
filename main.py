@@ -82,7 +82,7 @@ def main():
 
     literature = ""
     # Open the file in 'read' mode
-    with open('./text/database.txt', encoding='utf-8') as file:
+    with open('./text/IOB_Hill_etal_2023.txt', encoding='utf-8') as file:
         # Read the contents of the file into the patch_notes variable
         literature = file.read()
 
@@ -102,8 +102,7 @@ def main():
         index += 1
 
     # Begin the conversation with Claude by providing it context literature provided
-    messages = f"{anthropic.HUMAN_PROMPT} Please refer to this data microhylid biogeography, when I ask you about it: {literature}. {anthropic.AI_PROMPT} Understood"
-
+    messages = f"{anthropic.HUMAN_PROMPT} Please refer to this data on provided literature, when I reference provided literature in my request: {literature}. {anthropic.AI_PROMPT} Understood"
     # Start a loop to continuously get user input and generate responses
     while True:
         # Get user input
@@ -117,8 +116,7 @@ def main():
         if results['documents'] is not None:
             for res in results['documents'][0]:
                 knowledge_base.append(res)
-        messages = f"{anthropic.HUMAN_PROMPT} Please take this data on microhlid biogeography. You will refer to this data when I ask you about microhylids or biogeography: {knowledge_base}. {anthropic.AI_PROMPT} Understood"
-
+                messages = f"{anthropic.HUMAN_PROMPT} Please take this data on provided literature. You will refer to this data when I reference provided literature in my request: {knowledge_base}. {anthropic.AI_PROMPT} Understood"
         # Append the user's input to the conversation history
         messages = messages + f"{anthropic.HUMAN_PROMPT} {input_text} {anthropic.AI_PROMPT}"
 
